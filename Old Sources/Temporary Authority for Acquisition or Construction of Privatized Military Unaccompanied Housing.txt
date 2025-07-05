@@ -1,0 +1,1005 @@
+10 USC Subtitle A, PART IV, CHAPTER 169, SUBCHAPTER IV: ALTERNATIVE AUTHORITY FOR ACQUISITION AND IMPROVEMENT OF MILITARY HOUSING
+From Title 10—ARMED FORCESSubtitle A—General Military LawPART IV—SERVICE, SUPPLY, AND PROPERTYCHAPTER 169—MILITARY CONSTRUCTION AND MILITARY FAMILY HOUSING
+SUBCHAPTER IV—ALTERNATIVE AUTHORITY FOR ACQUISITION AND IMPROVEMENT OF MILITARY HOUSING
+Sec.
+2871.
+Definitions.
+2872.
+General authority.
+2872a.
+Utilities and services.
+2872b.
+Treatment of breach of contract.
+2873.
+Direct loans and loan guarantees.
+2874.
+Leasing of housing.
+2875.
+Investments.
+2876.
+Rental guarantees.
+2877.
+Differential lease payments.
+2878.
+Conveyance or lease of existing property and facilities.
+[2879.
+Renumbered.]
+2880.
+Unit size and type.
+2881.
+Ancillary supporting facilities.
+2881a.
+Pilot projects for acquisition or construction of military unaccompanied housing.
+2882.
+Effect of assignment of members to housing units acquired or constructed under alternative authority.
+2883.
+Department of Defense Housing Funds.
+2883a.
+Funds for housing allowances of members of the armed forces assigned to certain military family housing units.
+2884.
+Reports.
+2885.
+Oversight and accountability for privatization projects.
+[2886.
+Repealed.]
+
+        
+Editorial Notes
+Amendments
+
+2021—Pub. L. 117–81, div. B, §2003(b), title XXVIII, §2812(a), Dec. 27, 2021, 135 Stat. 2162, 2191, renumbered item 2879 as 2857 and transferred it to appear after item 2856 in analysis under subchapter III of this chapter.
+
+2019—Pub. L. 116–92, div. B, title XXX, §§3014(d)(2), 3033(b), Dec. 20, 2019, 133 Stat. 1926, 1936, added item 2872b and struck out item 2886 "Prohibiting collection of amounts in addition to rent from members assigned to units".
+
+2018—Pub. L. 115–232, div. A, title X, §1081(c)(5), Aug. 13, 2018, 132 Stat. 1985, made technical amendment to directory language of Pub. L. 115–91, §2817(a)(2), effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted. See 2017 Amendment note below.
+
+2017—Pub. L. 115–91, div. B, title XXVIII, §2817(a)(2), Dec. 12, 2017, 131 Stat. 1852, as amended by Pub. L. 115–232, div. A, title X, §1081(c)(5), Aug. 13, 2018, 132 Stat. 1985, added item 2879.
+
+Pub. L. 115–91, div. A, title VI, §602(b), Dec. 12, 2017, 131 Stat. 1418, added item 2886.
+
+2008—Pub. L. 110–417, div. B, title XXVIII, §2805(a)(2), (e)(2), Oct. 14, 2008, 122 Stat. 4722, 4724, added items 2882 and 2885 and struck out former item 2882 "Assignment of members of the armed forces to housing units".
+
+2004—Pub. L. 108–375, div. B, title XXVIII, §2805(b)(2), Oct. 28, 2004, 118 Stat. 2122, struck out item 2885 "Expiration of authority".
+
+2002—Pub. L. 107–314, div. B, title XXVIII, §§2802(b)(3), (c)(2), 2803(a)(2), Dec. 2, 2002, 116 Stat. 2703, 2705, struck out "to be constructed" after "Leasing of housing" in item 2874, struck out item 2879 "Interim leases", and added item 2881a.
+
+2001—Pub. L. 107–107, div. B, title XXVIII, §2804(b), Dec. 28, 2001, 115 Stat. 1306, added item 2883a.
+
+2000—Pub. L. 106–398, §1 [div. B, title XXVIII, §2805(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A-415, added item 2872a.
+
+1999—Pub. L. 106–65, div. B, title XXVIII, §2803(h)(2), Oct. 5, 1999, 113 Stat. 849, added item 2875 and struck out former item 2875 "Investments in nongovernmental entities".
+§2871. Definitions
+
+In this subchapter and subchapter V of this chapter:
+
+(1) The term "ancillary supporting facilities" means facilities related to housing units, including facilities to provide or support elementary or secondary education, child care centers, day care centers, child development centers, tot lots, community centers, housing offices, dining facilities, unit offices, and other similar facilities for the support of military housing.
+
+(2) The term "child development center" includes a facility, and the utilities to support such facility, the function of which is to support the daily care of children aged six weeks old through five years old for full-day, part-day, and hourly service.
+
+(3) The term "construction" means the construction of housing units and ancillary supporting facilities or the improvement or rehabilitation of existing units or ancillary supporting facilities.
+
+(4) The term "contract" includes any contract, lease, or other agreement entered into under the authority of this subchapter. The fact that an agreement between an eligible entity and the Secretary concerned is designated as an agreement rather than a contract shall not be construed to exclude the agreement from the term "contract" for purposes of this subchapter and subchapter V.
+
+(5) The term "eligible entity" means any private person, corporation, firm, partnership, company, State or local government, or housing authority of a State or local government that is prepared to enter into a contract as a partner with the Secretary concerned for the construction of housing units and ancillary supporting facilities.
+
+(6) The term "Fund" means the Department of Defense Family Housing Improvement Fund or the Department of Defense Military Unaccompanied Housing Improvement Fund established under section 2883(a) of this title.
+
+(7) The term "housing document" means a document developed by the Secretary of Defense under section 2890 of this title and known as the Military Housing Privatization Initiative Tenant Bill of Rights or the Military Housing Privatization Initiative Tenant Responsibilities.
+
+(8) The term "housing unit" means a unit of family housing or military unaccompanied housing acquired or constructed under this subchapter.
+
+(9) The term "incentive fees" means any amounts payable to a landlord for meeting or exceeding performance metrics as specified in a contract with the Department of Defense.
+
+(10) The term "landlord" means an eligible entity that enters into, or has entered into, a contract as a partner with the Secretary concerned for the acquisition or construction of a housing unit under this subchapter. The term includes any agent of the eligible entity or any subsequent lessor who owns, manages, or is otherwise responsible for a housing unit. The term does not include an entity of the Federal Government.
+
+(11) The term "military unaccompanied housing" means military housing intended to be occupied by members of the armed forces serving a tour of duty unaccompanied by dependents and transient housing intended to be occupied by members of the armed forces on temporary duty.
+
+(12) The term "tenant" means a member of the armed forces, including a reserve component thereof in an active status, or a dependent of a member of the armed forces who resides at a housing unit, is a party to a lease for a housing unit, or is authorized to act on behalf of the member under this subchapter and subchapter V of this chapter in the event of the assignment or deployment of a member.
+
+(13) The term "United States" includes the Commonwealth of Puerto Rico.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 544; amended Pub. L. 105–261, div. B, title XXVIII, §2803, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 106–65, div. B, title XXVIII, §2803(a), Oct. 5, 1999, 113 Stat. 848; Pub. L. 107–314, div. B, title XXVIII, §2803(b), Dec. 2, 2002, 116 Stat. 2705; Pub. L. 108–136, div. A, title X, §1043(c)(6), Nov. 24, 2003, 117 Stat. 1612; Pub. L. 109–163, div. B, title XXVIII, §2805(b), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, §2805(c), Oct. 14, 2008, 122 Stat. 4723; Pub. L. 116–92, div. B, title XXX, §§3001(b)–3011(a), Dec. 20, 2019, 133 Stat. 1916, 1917.)
+
+Editorial Notes
+Amendments
+
+2019—Pub. L. 116–92, §3011(a), inserted "and subchapter V of this chapter" after "this subchapter" in introductory provisions.
+
+Pars. (1), (3). Pub. L. 116–92, §3001(c), struck out "military" before "housing units".
+
+Par. (4). Pub. L. 116–92, §3001(b)(1), inserted at end "The fact that an agreement between an eligible entity and the Secretary concerned is designated as an agreement rather than a contract shall not be construed to exclude the agreement from the term 'contract' for purposes of this subchapter and subchapter V."
+
+Par. (5). Pub. L. 116–92, §3001(c), struck out "military" before "housing units".
+
+Pars. (7) to (10). Pub. L. 116–92, §3001(b)(3), added pars. (7) to (10). Former pars. (7) and (8) redesignated (11) and (13), respectively.
+
+Par. (11). Pub. L. 116–92, §3001(b)(2), redesignated par. (7) as (11).
+
+Par. (12). Pub. L. 116–92, §3001(b)(4), added par. (12).
+
+Par. (13). Pub. L. 116–92, §3001(b)(2), redesignated par. (8) as (13).
+
+2008—Par. (5). Pub. L. 110–417 inserted before period at end "that is prepared to enter into a contract as a partner with the Secretary concerned for the construction of military housing units and ancillary supporting facilities".
+
+2006—Par. (1). Pub. L. 109–163, §2805(b)(1), inserted "child development centers," after "day care centers,".
+
+Par. (2). Pub. L. 109–163, §2805(b)(2), added par. (2).
+
+2003—Par. (2). Pub. L. 108–136 struck out par. (2) which read as follows: "The term 'base closure law' means the following:
+
+"(A) Section 2687 of this title.
+
+"(B) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
+
+"(C) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note)."
+
+2002—Par. (7). Pub. L. 107–314 inserted "and transient housing intended to be occupied by members of the armed forces on temporary duty" before period at end.
+
+1999—Pars. (5) to (8). Pub. L. 106–65 added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
+
+1998—Par. (1). Pub. L. 105–261 inserted "facilities to provide or support elementary or secondary education," after "including".
+
+Statutory Notes and Related Subsidiaries
+Command Oversight of Military Privatized Housing as Element of Performance Evaluations
+
+Pub. L. 117–81, div. A, title V, §525, Dec. 27, 2021, 135 Stat. 1688, provided that:
+
+"(a) Evaluations in General.—Each Secretary of a military department shall ensure that the performance evaluations of any individual described in subsection (b) under the jurisdiction of such Secretary provides for an assessment of the extent to which such individual has or has not exercised effective oversight and leadership in the following:
+
+"(1) Improving conditions of privatized housing under subchapter IV of chapter 169 of title 10, United States Code.
+
+"(2) Addressing concerns with respect to such housing of members of the Armed Forces and their families who reside in such housing on an installation of the military department concerned.
+
+"(b) Covered Individuals.—The individuals described in this subsection are as follows:
+
+"(1) The commander of an installation of a military department at which on-installation housing is managed by a landlord of privatized housing under subchapter IV of chapter 169 of title 10, United States Code.
+
+"(2) Each officer or senior enlisted member of the Armed Forces at an installation described in paragraph (1) whose duties include facilities or housing management at such installation.
+
+"(3) Any other officer or enlisted member of the Armed Forces (whether or not at an installation described in paragraph (1)) as specified by the Secretary of the military department concerned for purposes of this section."
+Promulgation of Guidance To Facilitate Return of Military Families Displaced From Privatized Military Housing
+
+Pub. L. 116–283, div. B, title XXVIII, §2816, Jan. 1, 2021, 134 Stat. 4328, provided that:
+
+"(a) Guidance Required.—The Secretary of Defense shall promulgate guidance for commanders of military installations and installation housing management offices to assist such commanders and offices in facilitating and managing the relocation and return of tenants of privatized military housing when tenants are displaced from such housing—
+
+"(1) as a result of an environmental hazard or other damage adversely affecting the habitability of the privatized military housing; or
+
+"(2) during remediation or repair activities in response to the hazard or damages.
+
+"(b) Financial Impact of Displacement.—As part of the promulgation of the guidance, the Secretary of Defense shall consider—
+
+"(1) the extent to which displaced tenants of privatized military housing under the circumstances described in subsection (a) incur relocation, per diem, or similar expenses as a direct result of such displacement that are not covered by a landlord, insurance, or claims process; and
+
+"(2) the feasibility of providing reimbursement for uncovered expenses.
+
+"(c) Consultation.—The Secretary of Defense shall promulgate the guidance in consultation with the Secretaries of the military departments, the Chief Housing Officer, landlords, and other interested persons.
+
+"(d) Implementation.—The Secretaries of the military departments shall be responsible for implementation of the guidance at military installations under the jurisdiction of the Secretary concerned, while recognizing that the guidance cannot anticipate every situation in which tenants of privatized military housing must be displaced from such housing under the circumstances described in subsection (a).
+
+"(e) Definitions.—In this section, the terms 'landlord', 'privatized military housing', and 'tenant' have the meanings given those terms in section 3001(a) of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 133 Stat. 1916; 10 U.S.C. 2821 note)."
+Uniform Code of Basic Standards for Privatized Military Housing and Plan To Conduct Inspections and Assessments
+
+Pub. L. 116–283, div. B, title XXVIII, §2818, Jan. 1, 2021, 134 Stat. 4329, provided that:
+
+"(a) Uniform Code of Basic Standards for Military Housing.—The Secretary of Defense shall expand the uniform code of basic housing standards for safety, comfort, and habitability for privatized military housing established pursuant to section 3051(a) of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 133 Stat. 1941; 10 U.S.C. 2871 note) [set out below] to include Government-owned and Government-controlled military family housing located inside or outside the United States and occupied by members of the Armed Forces.
+
+"(b) Inspection and Assessment Plan.—The Secretary of Defense shall expand the Department of Defense housing inspection and assessment plan prepared pursuant to section 3051(b) of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 133 Stat. 1941; 10 U.S.C. 2871 note) [set out below] to include Government-owned and Government-controlled military family housing located inside or outside the United States and occupied by members of the Armed Forces and commence inspections and assessments of such military family housing pursuant to the plan."
+
+Pub. L. 116–92, div. B, title XXX, §3051, Dec. 20, 2019, 133 Stat. 1941, provided that:
+
+"(a) Uniform Code.—Not later than February 1, 2021, the Secretary of Defense shall establish and implement a uniform code of basic housing standards for safety, comfort, and habitability for privatized military housing, which shall meet or exceed requirements informed by a nationally recognized, consensus-based, model property maintenance code.
+
+"(b) Inspection and Assessment Plan.—Not later than February 1, 2020, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a Department of Defense plan to contract with qualified home inspectors to conduct a thorough inspection and assessment of the structural integrity and habitability of each unit of privatized military housing. The plan shall include the implementation plan for the uniform code to be established under subsection (a).
+
+"(c) Implementation of Inspections and Assessments.—
+
+"(1) Implementation.—Not later than February 1, 2021, the Secretary of the military department concerned shall commence conducting inspections and assessments of units of privatized military housing pursuant to the plan submitted under subsection (b) to identify issues and ensure compliance with applicable housing codes, including the uniform code established under subsection (a).
+
+"(2) Report.—Not later than March 1, 2021, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the findings of the inspections and assessments conducted under paragraph (1).
+
+"(d) Qualified Home Inspectors Described.—For purposes of this section, a qualified home inspector must possess the appropriate credentials for the work the inspector will perform, as defined by the respective State in which the work will be performed. A qualified home inspector may not be an employee or in a fiduciary relationship with—
+
+"(1) the Federal Government; or
+
+"(2) an individual or entity who owns or manages privatized military housing."
+
+[For definition of "privatized military housing" as used in section 3051 of Pub. L. 116–92, set out above, see section 3001(a) of Pub. L. 116–92, set out as a note under section 2821 of this title.]
+Radon Testing of Privatized Military Housing
+
+Pub. L. 116–92, div. B, title XXX, §3061, Dec. 20, 2019, 133 Stat. 1946, provided that:
+
+"(a) Report.—Not later than March 1, 2020, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report identifying the installations of the Department of Defense that have privatized military housing that should be monitored for levels of radon at or above the action level.
+
+"(b) Testing Procedures and Standards.—The Secretaries of the military departments shall ensure that landlords providing privatized military housing at installations identified under subsection (a) establish testing procedures that are consistent with then current national consensus standards and are in compliance with applicable Federal, State, and local radon regulations in order to ensure radon levels are below recommended levels established by the Environmental Protection Agency, whether through—
+
+"(1) regular testing of privatized military housing by persons who possess certification pursuant to the proficiency program operated under section 305(a)(2) of the Toxic Substances Control Act (15 U.S.C. 2665(a)(2)); or
+
+"(2) the installation of monitoring equipment in privatized military housing.
+
+"(c) Notification Regarding Need for Mitigation.—If, as a result of testing described in subsection (b), a unit of privatized military housing needs radon mitigation to ensure radon levels are below recommended levels, the landlord providing the housing unit shall submit to the Secretary of the military department concerned, not later than seven days after the determination of the need for radon mitigation, the mitigation plan for the housing unit."
+
+[For definitions of "landlord" and "privatized military housing" as used in section 3061 of Pub. L. 116–92, set out above, see section 3001(a) of Pub. L. 116–92, set out as a note under section 2821 of this title.]
+Military Housing Privatization Initiative
+
+Pub. L. 115–232, div. A, title VI, §606, Aug. 13, 2018, 132 Stat. 1795, as amended by Pub. L. 116–92, div. B, title XXX, §§3036(a), 3037, Dec. 20, 2019, 133 Stat. 1938, 1939; Pub. L. 116–283, div. B, title XXVIII, §2811(i), Jan. 1, 2021, 134 Stat. 4326; Pub. L. 117–81, div. B, title XXVIII, §2811, Dec. 27, 2021, 135 Stat. 2191; Pub. L. 118–31, div. B, title XXVIII, §§2822(c), 2839(d), Dec. 22, 2023, 137 Stat. 751, 761, provided that:
+
+"(a) Use of Funds in Connection With MHPI.—
+
+"(1) Payments to lessors generally.—
+
+"(A) Payment authority.—Each month beginning with the first month after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 [Dec. 20, 2019], each Secretary of a military department shall use funds, in an amount determined under subparagraph (B), to make monthly payments to lessors of covered housing in the manner provided by this subsection, as in effect on the day before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020.
+
+"(B) Calculation of monthly payments.—For purposes of making payments under subparagraph (A) for a month, the Secretary of the military department concerned shall determine the amount equal to 50 percent of the aggregate of the amounts calculated under section 403(b)(3)(A)(ii) of title 37, United States Code, for covered housing under the jurisdiction of the Secretary for that month.
+
+"(2) Additional payments to lessors responsible for underfunded projects.—
+
+"(A) Payment authority.—Except as provided in subparagraph (D), each month beginning with the first month after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, each Secretary of a military department shall use funds, in an amount determined under subparagraph (B), to make additional monthly payments, under such terms and in such amounts as determined by the Secretary, to one or more lessors responsible for underfunded MHPI housing projects identified pursuant to subparagraph (C) under the jurisdiction of the Secretary for the purposes of future sustainment, recapitalization, and financial sustainability of the projects.
+
+"(B) Calculation of monthly payments.—For purposes of making payments under subparagraph (A) for a month, the Secretary of the military department concerned shall determine the amount equal to 50 percent of the aggregate of the amounts calculated under section 403(b)(3)(A)(ii) of title 37, United States Code, for covered housing under the jurisdiction of the Secretary for that month.
+
+"(C) Identification of underfunded projects.—The Chief Housing Officer of the Department of Defense, in conjunction with the Secretaries of the military departments, shall assess MHPI housing projects for the purpose of identifying all MHPI housing projects that are underfunded. Once identified, the Chief Housing Officer shall prioritize for payments under subparagraph (A) those MHPI housing projects most in need of funding to rectify such underfunding.
+
+"(D) Limitation on payment.—
+
+"(i) In general.—Subject to clause (ii), the Secretary of a military department may not make a payment under subparagraph (A) to a lessor unless the Assistant Secretary of Defense for Energy, Installations, and Environment determines the lessor is in compliance with the Military Housing Privatization Initiative Tenant Bill of Rights developed under section 2890 of title 10, United States Code.
+
+"(ii) Application.—The limitation under clause (i) shall apply to any payment under a housing agreement entered into on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 [Dec. 22, 2023] by the Secretary of a military department with a lessor.
+
+"(3) Alternative authority in event of lack of underfunded projects.—
+
+"(A) In general.—Subject to subparagraph (B), if the Chief Housing Officer determines that no MHPI housing projects for a military department require additional funding under paragraph (2) for a month, the Secretary of the military department concerned, in consultation with the Chief Housing Officer, may allocate the funds otherwise available to the Secretary under such paragraph for that month to support improvements designed to enhance the quality of life of members of the uniformed services and their families who reside in MHPI housing.
+
+"(B) Conditions.—Before the Secretary of a military department may allocate funds as authorized by subparagraph (A), the Chief Housing Officer shall certify to the Committees on Armed Services of the Senate and the House of Representatives that there are no MHPI housing projects for the military department that require additional funding under paragraph (2). The certification shall include sufficient details to show why no projects are determined to need the additional funds.
+
+"(4) Briefing required.—Not later than March 1, 2020, and each year thereafter, each Secretary of a military department shall provide a briefing to the Committee on Armed Services of the Senate and the House of Representatives detailing the expenditure of funds under paragraphs (2) and (3), the MHPI housing projects receiving funds under such paragraphs, and any other information the Secretary considers relevant.
+
+"(b) Plan for MHPI Housing.—Not later than December 1, 2018, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a long-range plan to develop measures to consistently address the future sustainment, recapitalization, and financial condition of MHPI housing. The plan shall include—
+
+"(1) efforts to mitigate the losses incurred by MHPI housing projects because of the reductions to BAH under section 603 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114-92; [which amended] 37 U.S.C. 403(b)(3)(B)); and
+
+"(2) a full assessment of the effects of such reductions (in relation to calculations of market rates for rent and utilities) on the financial condition of MHPI housing.
+
+"(c) Reporting.—The Secretary shall direct the Assistant Secretary of Defense for Energy, Installations, and Environment to take the following steps regarding reports under section 2884(c) of title 10, United States Code:
+
+"(1) Provide additional contextual information on MHPI housing to identify any differences in the calculation of debt coverage ratios and any effect of such differences on their comparability.
+
+"(2) Immediately resume issuing such reports on the financial condition of MHPI housing.
+
+"(3) Revise Department of Defense guidance on MHPI housing—
+
+"(A) to ensure that relevant financial data (such as debt coverage ratios) in such reports are consistent and comparable in terms of the time periods of the data collected;
+
+"(B) to include a requirement that the secretary of each military department includes measures of future sustainment into each assessments of MHPI housing projects; and
+
+"(C) to require the secretary of each military department to define risk tolerance regarding the future sustainability of MHPI housing projects.
+
+"(4) Report financial information on future sustainment of each MHPI housing project in such reports.
+
+"(5) Provide Department of Defense guidance to the secretaries of the military departments to—
+
+"(A) assess the significance of the specific risks to individual MHPI housing projects from the reduction in BAH; and
+
+"(B) identify methods to mitigate such risks based on their significance.
+
+"(6) Not later than December 1, 2018, finalize Department of Defense guidance that clearly defines—
+
+"(A) the circumstances in which the military departments shall provide notification of housing project changes to the congressional defense committees; and
+
+"(B) which types of such changes require prior notification to or prior approval from the congressional defense committees.
+
+"(d) Definitions.—In this section:
+
+"(1) The term 'BAH' means the basic allowance for housing under section 403 of title 37, United States Code.
+
+"(2) The term 'covered housing' means a unit of MHPI housing that is leased to a member of a uniformed service who resides in such unit.
+
+"(3) The term 'MHPI housing' means housing procured, acquired, constructed, or for which any phase or portion of a project agreement was first finalized and signed, under the alternative authority of subchapter IV of chapter 169 of title 10, United States Code (known as the Military Housing Privatization Initiative), on or before September 30, 2014."
+
+[Pub. L. 116–92, div. B, title XXX, §3036(b), Dec. 20, 2019, 133 Stat. 1939, provided that: "The amendment made by this section [amending section 606 of Pub. L. 115–232, set out above] shall take effect on the date of the enactment of this Act [Dec. 20, 2019] and shall apply with respect to months beginning after that date."]
+§2872. General authority
+
+In addition to any other authority provided under this chapter for the acquisition or construction of military family housing or military unaccompanied housing, the Secretary concerned may exercise any authority or any combination of authorities provided under this subchapter in order to provide for the acquisition or construction by eligible entities of the following:
+
+(1) Family housing units on or near military installations within the United States and its territories and possessions.
+
+(2) Military unaccompanied housing units on or near such military installations.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 545; amended Pub. L. 106–65, div. B, title XXVIII, §2803(b), Oct. 5, 1999, 113 Stat. 849.)
+
+Editorial Notes
+Amendments
+
+1999—Pub. L. 106–65 substituted "eligible entities" for "private persons" in introductory provisions.
+§2872a. Utilities and services
+
+(a) Authority To Furnish.—The Secretary concerned may furnish utilities and services referred to in subsection (b) in connection with any military housing acquired or constructed pursuant to the exercise of any authority or combination of authorities under this subchapter if the military housing is located on a military installation.
+
+(b) Covered Utilities and Services.—The utilities and services that may be furnished under subsection (a) are the following:
+
+(1) Electric power.
+
+(2) Steam.
+
+(3) Compressed air.
+
+(4) Water.
+
+(5) Sewage and garbage disposal.
+
+(6) Natural gas.
+
+(7) Pest control.
+
+(8) Snow and ice removal.
+
+(9) Mechanical refrigeration.
+
+(10) Telecommunications service.
+
+(11) Firefighting and fire protection services.
+
+(12) Police protection services.
+
+(13) Street sweeping.
+
+(14) Tree trimming and removal.
+
+(c) Reimbursement.—(1) The Secretary concerned shall be reimbursed for any utilities or services furnished under subsection (a).
+
+(2) The amount of any cash payment received under paragraph (1) as reimbursement for the cost of furnishing utilities or services shall—
+
+(A) in the case of a cost paid using funds appropriated or otherwise made available before October 1, 2014, be credited to the appropriation or working capital account from which the cost of furnishing utilities or services concerned was paid; or
+
+(B) in the case of a cost paid using funds appropriated or otherwise made available on or after October 1, 2014, be credited to the appropriation or working capital account currently available for the purpose of furnishing utilities or services under subsection (a).
+
+(3) Amounts credited under paragraph (2) to an appropriation or account shall be merged with funds in such appropriation or account, and shall be available to the same extent, and subject to the same terms and conditions, as such funds.
+
+(Added Pub. L. 106–398, §1 [div. B, title XXVIII, §2805(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A-414; amended Pub. L. 107–314, div. B, title XXVIII, §2802(a), Dec. 2, 2002, 116 Stat. 2703; Pub. L. 113–66, div. B, title XXVIII, §2804, Dec. 26, 2013, 127 Stat. 1007; Pub. L. 116–92, div. B, title XXX, §3032, Dec. 20, 2019, 133 Stat. 1936.)
+
+Editorial Notes
+Amendments
+
+2019—Subsec. (b)(13), (14). Pub. L. 116–92 added pars. (13) and (14).
+
+2013—Subsec. (c)(2), (3). Pub. L. 113–66 substituted "under paragraph (1) as reimbursement for the cost of furnishing utilities or services shall—" for "under paragraph (1) shall be credited to the appropriation or working capital account from which the cost of furnishing the utilities or services concerned was paid.", added subpars. (A) and (B), designated second sentence of par. (2) as par. (3), and substituted "Amounts credited under paragraph (2)" for "Amounts so credited".
+
+2002—Subsec. (b)(11), (12). Pub. L. 107–314 added pars. (11) and (12).
+§2872b. Treatment of breach of contract
+
+(a) Response to Material Breach.—In the case of a material breach of contract under this subchapter by a party to the contract, the Secretary concerned shall use the authorities available to the Secretary, including withholding amounts to be paid under the contract, to encourage the party to cure the breach.
+
+(b) Rescinding of Contract.—If a material breach of the contract is not cured in a timely manner, as determined by the Secretary concerned, the Secretary may—
+
+(1) rescind the contract pursuant to the terms of the contract; and
+
+(2) prohibit the offending party from entering into a new contract or undertaking expansions of other existing contracts, or both, with the Secretary under this subchapter.
+
+(Added Pub. L. 116–92, div. B, title XXX, §3033(a), Dec. 20, 2019, 133 Stat. 1936.)
+§2873. Direct loans and loan guarantees
+
+(a) Direct Loans.—(1) Subject to subsection (c), the Secretary concerned may make direct loans to an eligible entity in order to provide funds to the eligible entity for the acquisition or construction of housing units that the Secretary determines are suitable for use as military family housing or as military unaccompanied housing.
+
+(2) The Secretary concerned shall establish such terms and conditions with respect to loans made under this subsection as the Secretary considers appropriate to protect the interests of the United States, including the period and frequency for repayment of such loans and the obligations of the obligors on such loans upon default.
+
+(b) Loan Guarantees.—(1) Subject to subsection (c), the Secretary concerned may guarantee a loan made to an eligible entity if the proceeds of the loan are to be used by the eligible entity to acquire, or construct housing units that the Secretary determines are suitable for use as military family housing or as military unaccompanied housing.
+
+(2) The amount of a guarantee on a loan that may be provided under paragraph (1) may not exceed the amount equal to the lesser of—
+
+(A) the amount equal to 80 percent of the value of the project; or
+
+(B) the amount of the outstanding principal of the loan.
+
+(3) The Secretary concerned shall establish such terms and conditions with respect to guarantees of loans under this subsection as the Secretary considers appropriate to protect the interests of the United States, including the rights and obligations of obligors of such loans and the rights and obligations of the United States with respect to such guarantees.
+
+(c) Limitation on Direct Loan and Guarantee Authority.—Direct loans and loan guarantees may be made under this section only to the extent that appropriations of budget authority to cover their cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a(5))) are made in advance, or authority is otherwise provided in appropriation Acts. If such appropriation or other authority is provided, there may be established a financing account (as defined in section 502(7) of such Act (2 U.S.C. 661a(7))), which shall be available for the disbursement of direct loans or payment of claims for payment on loan guarantees under this section and for all other cash flows to and from the Government as a result of direct loans and guarantees made under this section.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 545; amended Pub. L. 106–65, div. B, title XXVIII, §2803(c), Oct. 5, 1999, 113 Stat. 849.)
+
+Editorial Notes
+Amendments
+
+1999—Subsec. (a)(1). Pub. L. 106–65, §2803(c)(1), substituted "an eligible entity" for "persons in the private sector" and "the eligible entity" for "such persons".
+
+Subsec. (b)(1). Pub. L. 106–65, §2803(c)(2), substituted "an eligible entity" for "any person in the private sector" and "the eligible entity" for "the person".
+§2874. Leasing of housing
+
+(a) Lease Authorized.—The Secretary concerned may enter into contracts for the lease of housing units that the Secretary determines are suitable for use as military family housing or military unaccompanied housing.
+
+(b) Use of Leased Units.—The Secretary concerned shall utilize housing units leased under this section as military family housing or military unaccompanied housing, as appropriate.
+
+(c) Lease Terms.—A contract under this section may be for any period that the Secretary concerned determines appropriate and may provide for the owner of the leased property to operate and maintain the property.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 546; amended Pub. L. 107–314, div. B, title XXVIII, §2802(b)(1), (2), Dec. 2, 2002, 116 Stat. 2703.)
+
+Editorial Notes
+Amendments
+
+2002—Pub. L. 107–314, §2802(b)(2), in section catchline struck out "to be constructed" after "Leasing of housing".
+
+Subsec. (a). Pub. L. 107–314, §2802(b)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "The Secretary concerned may enter into contracts for the lease of military family housing units or military unaccompanied housing units to be constructed under this subchapter."
+
+Subsecs. (b), (c). Pub. L. 107–314, §2802(b)(1), added subsec. (b) and redesignated former subsec. (b) as (c).
+§2875. Investments
+
+(a) Investments Authorized.—The Secretary concerned may make investments in an eligible entity carrying out projects for the acquisition or construction of housing units suitable for use as military family housing or as military unaccompanied housing.
+
+(b) Forms of Investment.—An investment under this section may take the form of an acquisition of a limited partnership interest by the United States, a purchase of stock or other equity instruments by the United States, a purchase of bonds or other debt instruments by the United States, or any combination of such forms of investment.
+
+(c) Limitation on Value of Investment.—(1) The cash amount of an investment under this section in an eligible entity may not exceed an amount equal to 331/3 percent of the capital cost (as determined by the Secretary concerned) of the project or projects that the eligible entity proposes to carry out under this section with the investment.
+
+(2) If the Secretary concerned conveys land or facilities to an eligible entity as all or part of an investment in the eligible entity under this section, the total value of the investment by the Secretary under this section may not exceed an amount equal to 45 percent of the capital cost (as determined by the Secretary) of the project or projects that the eligible entity proposes to carry out under this section with the investment.
+
+(3) In this subsection, the term "capital cost", with respect to a project for the acquisition or construction of housing, means the total amount of the costs included in the basis of the housing for Federal income tax purposes.
+
+(d) Collateral Incentive Agreements.—The Secretary concerned shall enter into collateral incentive agreements with eligible entities in which the Secretary makes an investment under this section to ensure that a suitable preference will be afforded members of the armed forces and their dependents in the lease or purchase, as the case may be, of a reasonable number of the housing units covered by the investment.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 546; amended Pub. L. 105–85, div. B, title XXVIII, §2805, Nov. 18, 1997, 111 Stat. 1991; Pub. L. 106–65, div. B, title XXVIII, §2803(d), (h)(1), Oct. 5, 1999, 113 Stat. 849; Pub. L. 108–136, div. A, title X, §1031(a)(50), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 113–66, div. B, title XXVIII, §2805, Dec. 26, 2013, 127 Stat. 1008.)
+
+Editorial Notes
+Amendments
+
+2013—Subsec. (e). Pub. L. 113–66 struck out subsec. (e). Text read as follows: "Amounts in the Department of Defense Family Housing Improvement Fund or the Department of Defense Military Unaccompanied Housing Improvement Fund may be used to make a cash investment under this section in an eligible entity only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the investment to the appropriate committees of Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title."
+
+2003—Subsec. (e). Pub. L. 108–136 inserted before period at end "or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title".
+
+1999—Pub. L. 106–65, §2803(h)(1), struck out "in nongovernmental entities" after "Investments" in section catchline.
+
+Subsec. (a). Pub. L. 106–65, §2803(d)(1), substituted "an eligible entity" for "nongovernmental entities".
+
+Subsec. (c). Pub. L. 106–65, §2803(d)(2), substituted "an eligible entity" for "a nongovernmental entity" in pars. (1) and (2) and "the eligible entity" for "the entity" wherever appearing in pars. (1) and (2).
+
+Subsec. (d). Pub. L. 106–65, §2803(d)(3), substituted "eligible" for "nongovernmental".
+
+Subsec. (e). Pub. L. 106–65, §2803(d)(4), substituted "an eligible entity" for "a nongovernmental entity".
+
+1997—Subsec. (e). Pub. L. 105–85 added subsec. (e).
+§2876. Rental guarantees
+
+The Secretary concerned may enter into agreements with eligible entities that acquire or construct military family housing units or military unaccompanied housing units under this subchapter in order to assure—
+
+(1) the occupancy of such units at levels specified in the agreements; or
+
+(2) rental income derived from rental of such units at levels specified in the agreements.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 546; amended Pub. L. 106–65, div. B, title XXVIII, §2803(e), Oct. 5, 1999, 113 Stat. 849.)
+
+Editorial Notes
+Amendments
+
+1999—Pub. L. 106–65 substituted "eligible entities" for "private persons" in introductory provisions.
+§2877. Differential lease payments
+
+Pursuant to an agreement entered into by the Secretary concerned and a lessor of military family housing or military unaccompanied housing to members of the armed forces, the Secretary may pay the lessor an amount in addition to the rental payments for the housing made by the members as the Secretary determines appropriate to encourage the lessor to make the housing available to members of the armed forces as military family housing or as military unaccompanied housing.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 547; amended Pub. L. 106–65, div. B, title XXVIII, §2803(f), Oct. 5, 1999, 113 Stat. 849.)
+
+Editorial Notes
+Amendments
+
+1999—Pub. L. 106–65 substituted "a lessor" for "a private lessor".
+§2878. Conveyance or lease of existing property and facilities
+
+(a) Conveyance or Lease Authorized.—The Secretary concerned may convey or lease property or facilities (including ancillary supporting facilities) to eligible entities for purposes of using the proceeds of such conveyance or lease to carry out activities under this subchapter.
+
+(b) Inapplicability to Property at Installation Approved for Closure.—The authority of this section does not apply to property or facilities located on or near a military installation approved for closure under a base closure law.
+
+(c) Competitive Process.—The Secretary concerned shall ensure that the time, method, and terms and conditions of the reconveyance or lease of property or facilities under this section from the eligible entity permit full and free competition consistent with the value and nature of the property or facilities involved.
+
+(d) Terms and Conditions.—(1) The conveyance or lease of property or facilities under this section shall be for such consideration and upon such terms and conditions as the Secretary concerned considers appropriate for the purposes of this subchapter and to protect the interests of the United States.
+
+(2) As part or all of the consideration for a conveyance or lease under this section, the purchaser or lessor (as the case may be) shall enter into an agreement with the Secretary to ensure that a suitable preference will be afforded members of the armed forces and their dependents in the lease or sublease of a reasonable number of the housing units covered by the conveyance or lease, as the case may be, or in the lease of other suitable housing units made available by the purchaser or lessee.
+
+(e) Inapplicability of Certain Property Management Laws.—The conveyance or lease of property or facilities under this section shall not be subject to the following provisions of law:
+
+(1) Section 2667 of this title.
+
+(2) Subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
+
+(3) Section 1302 of title 40.
+
+(4) Section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411).
+
+(f) Notice of Lease Extensions.—(1) The Secretary concerned shall provide to the congressional defense committees notice in writing and a briefing—
+
+(A) not later than 60 days after beginning negotiations with a lessor for the extension of the term of any ground lease of property or facilities under this section; and
+
+(B) not later than 90 days before extending the term of any ground lease of property or facilities under this section.
+
+(2) A notice and briefing required under paragraph (1) shall include each of the following:
+
+(A) A description of any material differences between the extended ground lease and the original ground lease, including with respect to—
+
+(i) the length of the term of the lease, as extended; and
+
+(ii) any new provisions that materially affect the rights and responsibilities of the ground lessor or the ground lessee under the original ground lease.
+
+(B) The number of housing units or facilities subject to the ground lease that, during the lease extension, are to be—
+
+(i) constructed;
+
+(ii) demolished; or
+
+(iii) renovated.
+
+(C) The source of any additional financing the lessor has obtained, or intends to obtain, during the term of the ground lease extension that will be used for the development of the property or facilities subject to the ground lease.
+
+(D) The following information, displayed annually, for the five-year period preceding the date of the notice and briefing:
+
+(i) The debt-to-net operating income ratio for the property or facility subject to the ground lease.
+
+(ii) The occupancy rates for the housing units subject to the ground lease.
+
+(iii) A report on maintenance response times and completion of maintenance requests for the housing units subject to the ground lease.
+
+(iv) The occupancy rates and debt-to-net operating income ratios of any other military privatized housing initiative projects managed by a company that controls, or that is under common control with, the ground lessee entering into the lease extension.
+
+(E) An assessment of compliance by the lessor with the Military Housing Privatization Initiative Tenant Bill of Rights developed under section 2890 of this title.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 547; amended Pub. L. 105–85, div. A, title X, §1073(a)(60), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. B, title XXVIII, §2803(g), Oct. 5, 1999, 113 Stat. 849; Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(23), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 110–417, div. B, title XXVIII, §2805(d), Oct. 14, 2008, 122 Stat. 4723; Pub. L. 111–350, §5(b)(50), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 117–263, div. B, title XXVIII, §2822, Dec. 23, 2022, 136 Stat. 3000; Pub. L. 118–31, div. A, title XVIII, §1801(a)(24), div. B, title XXVIII, §2822(a), Dec. 22, 2023, 137 Stat. 684, 751.)
+
+Editorial Notes
+Amendments
+
+2023—Subsec. (f)(2)(D)(iii). Pub. L. 118–31, §1801(a)(24), substituted "A report" for "An report".
+
+Subsec. (f)(2)(E). Pub. L. 118–31, §2822(a), added subpar. (E).
+
+2022—Subsec. (f). Pub. L. 117–263 added subsec. (f).
+
+2011—Subsec. (e)(2). Pub. L. 111–350, which directed substitution of "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)" in subsec. (d)(2), was executed by making the substitution in subsec. (e)(2) to reflect the probable intent of Congress and the amendment by Pub. L. 110–417. See 2008 Amendment note below.
+
+2008—Subsecs. (c) to (e). Pub. L. 110–417 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+2002—Subsec. (d)(2). Pub. L. 107–217, §3(b)(23)(A), substituted "Subtitle I of title 40 and title III of the" for "The" and "(41 U.S.C. 251 et seq.)" for "(40 U.S.C. 471 et seq.)".
+
+Subsec. (d)(3). Pub. L. 107–217, §3(b)(23)(B), substituted "Section 1302 of title 40" for "Section 321 of the Act of June 30, 1932 (commonly known as the Economy Act) (40 U.S.C. 303b)".
+
+2001—Subsec. (d)(4). Pub. L. 107–107 substituted "McKinney-Vento Homeless Assistance Act" for "Stewart B. McKinney Homeless Assistance Act".
+
+1999—Subsec. (a). Pub. L. 106–65 substituted "eligible entities" for "private persons".
+
+1997—Subsec. (d)(4). Pub. L. 105–85 substituted "11411" for "11401".
+[§2879. Renumbered §2857]
+
+Editorial Notes
+Prior Provisions
+
+A prior section 2879, added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 547, related to interim leases of completed units pending completion of a project to acquire or construct military family housing units or military unaccompanied housing units, prior to repeal by Pub. L. 107–314, div. B, title XXVIII, §2802(c)(1), Dec. 2, 2002, 116 Stat. 2703.
+§2880. Unit size and type
+
+(a) Conformity With Similar Housing Units in Locale.—The Secretary concerned shall ensure that the room patterns and floor areas of military family housing units and military unaccompanied housing units acquired or constructed under this subchapter are generally comparable to the room patterns and floor areas of similar housing units in the locality concerned.
+
+(b) Inapplicability of Limitations on Space by Pay Grade.—Sections 2826 and 2856 of this title shall not apply to military family housing or military unaccompanied housing units acquired or constructed under this subchapter.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 108–136, div. B, title XXVIII, §2806, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 109–364, div. B, title XXVIII, §2807(b), Oct. 17, 2006, 120 Stat. 2469.)
+
+Editorial Notes
+Amendments
+
+2006—Subsec. (b). Pub. L. 109–364 substituted "Sections 2826 and 2856" for "(1) Section 2826", inserted "or military unaccompanied housing" after "military family housing", and struck out par. (2) which read as follows: "The regulations prescribed under section 2856 of this title shall not apply to any military unaccompanied housing unit acquired or constructed under this subchapter."
+
+2003—Subsec. (b)(2). Pub. L. 108–136 struck out "unless the unit is located on a military installation" before period at end.
+§2881. Ancillary supporting facilities
+
+(a) Authority To Acquire or Construct.—Any project for the acquisition or construction of military family housing units or military unaccompanied housing units under this subchapter may include the acquisition or construction of ancillary supporting facilities for the housing units concerned.
+
+(b) Restriction.—A project referred to in subsection (a) may not include the acquisition or construction of an ancillary supporting facility (other than a child development center) if, as determined by the Secretary concerned, the facility is to be used for providing merchandise or services in direct competition with—
+
+(1) the Army and Air Force Exchange Service;
+
+(2) the Navy Exchange Service Command;
+
+(3) a Marine Corps exchange;
+
+(4) the Defense Commissary Agency; or
+
+(5) any nonappropriated fund activity of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 106–65, div. B, title XXVIII, §2804, Oct. 5, 1999, 113 Stat. 849; Pub. L. 109–163, div. B, title XXVIII, §2805(a), Jan. 6, 2006, 119 Stat. 3507.)
+
+Editorial Notes
+Amendments
+
+2006—Subsec. (b). Pub. L. 109–163 inserted "(other than a child development center)" after "ancillary supporting facility" in introductory provisions.
+
+1999—Pub. L. 106–65 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+Statutory Notes and Related Subsidiaries
+Construction of 2006 Amendment
+
+Pub. L. 109–163, div. B, title XXVIII, §2805(c), Jan. 6, 2006, 119 Stat. 3507, provided that: "Nothing in the amendment made by subsection (a) [amending this section] may be construed to alter any law and regulation applicable to the operation of a child development center, as defined in section 2871(2) of title 10, United States Code."
+§2881a. Pilot projects for acquisition or construction of military unaccompanied housing
+
+(a) Pilot Projects Authorized.—The Secretary of the Navy may carry out not more than three pilot projects under the authority of this section or another provision of this subchapter to use the private sector for the acquisition or construction of military unaccompanied housing in the United States, including any territory or possession of the United States.
+
+(b) Treatment of Housing; Assignment of Members.—The Secretary of the Navy may assign members of the armed forces without dependents to housing units acquired or constructed under the pilot projects, and such housing units shall be considered as quarters of the United States or a housing facility under the jurisdiction of the Secretary for purposes of section 403 of title 37.
+
+(c) Basic Allowance for Housing.—(1) The Secretary of Defense may prescribe and, under section 403(o) of title 37, pay for members of the armed forces without dependents in privatized housing acquired or constructed under the pilot projects higher rates of partial basic allowance for housing than the rates authorized under paragraph (2) of such section.
+
+(2) The partial basic allowance for housing paid for a member at a higher rate under this subsection may be paid directly to the private sector source of the housing to whom the member is obligated to pay rent or other charge for residing in such housing if the private sector source credits the amount so paid against the amount owed by the member for the rent or other charge.
+
+(d) Funding.—(1) The Secretary of the Navy shall use the Department of Defense Military Unaccompanied Housing Improvement Fund to carry out activities under the pilot projects.
+
+(2) Subject to 30 days prior notification to the appropriate committees of Congress in an electronic medium pursuant to section 480 of this title, such additional amounts as the Secretary of Defense considers necessary may be transferred to the Department of Defense Military Unaccompanied Housing Improvement Fund from amounts appropriated for construction of military unaccompanied housing in military construction accounts. The amounts so transferred shall be merged with and be available for the same purposes and for the same period of time as amounts appropriated directly to the Fund.
+
+[(e) Repealed. Pub. L. 115–91, div. A, title X, §1051(a)(25), Dec. 12, 2017, 131 Stat. 1562.]
+
+(f) Expiration.—The authority of the Secretary of the Navy to enter into a contract under the pilot programs shall expire September 30, 2009.
+
+(Added Pub. L. 107–314, div. B, title XXVIII, §2803(a)(1), Dec. 2, 2002, 116 Stat. 2703; amended Pub. L. 109–163, div. A, title X, §1056(c)(10), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, §2812, Oct. 17, 2006, 120 Stat. 2473; Pub. L. 111–383, div. B, title XXVIII, §2803(f), Jan. 7, 2011, 124 Stat. 4459; Pub. L. 115–91, div. A, title X, §1051(a)(25), div. B, title XXVIII, §2801(d)(1), Dec. 12, 2017, 131 Stat. 1562, 1844; Pub. L. 117–263, div. A, title VI, §613(b), Dec. 23, 2022, 136 Stat. 2623.)
+
+Editorial Notes
+Amendments
+
+2022—Subsec. (c)(1). Pub. L. 117–263 substituted "section 403(o)" for "section 403(n)".
+
+2017—Subsec. (d)(2). Pub. L. 115–91, §2801(d)(1), inserted "in an electronic medium pursuant to section 480 of this title" after "Congress".
+
+Subsec. (e). Pub. L. 115–91, §1051(a)(25), struck out subsec. (e) which required reports describing certain proposed contracts, conveyances, or leases.
+
+2011—Subsec. (e)(2). Pub. L. 111–383 inserted before period at end "or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title".
+
+2006—Subsecs. (d)(2), (e)(2). Pub. L. 109–364, §2812(a), substituted "30 days" for "90 days".
+
+Subsec. (f). Pub. L. 109–364, §2812(b), substituted "2009" for "2007".
+
+Pub. L. 109–163 substituted "The" for "Notwithstanding section 2885 of this title, the".
+§2882. Effect of assignment of members to housing units acquired or constructed under alternative authority
+
+(a) Treatment as Quarters of the United States.—Except as provided in subsection (b), housing units acquired or constructed under this subchapter shall be considered as quarters of the United States or a housing facility under the jurisdiction of a uniformed service for purposes of section 403 of title 37.
+
+(b) Availability of Basic Allowance for Housing.—A member of the armed forces who is assigned to a housing unit acquired or constructed under this subchapter that is not owned or leased by the United States shall be entitled to a basic allowance for housing under section 403 of title 37.
+
+(c) Lease Payments Through Pay Allotments.—The Secretary concerned may require members of the armed forces who lease housing in housing units acquired or constructed under this subchapter to make lease payments for such housing pursuant to allotments of the pay of such members under section 701 of title 37.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 105–85, div. A, title VI, §603(d)(2)(C), Nov. 18, 1997, 111 Stat. 1783; Pub. L. 110–417, div. B, title XXVIII, §2805(e)(1), Oct. 14, 2008, 122 Stat. 4723.)
+
+Editorial Notes
+Amendments
+
+2008—Pub. L. 110–417 amended section generally. Prior to amendment, section related to assignment of members of the armed forces to housing units by the Secretary concerned, treatment of such housing as quarters of the United States, entitlement to a basic allowance for housing, and making of lease payments through pay allotments.
+
+1997—Subsec. (b)(1). Pub. L. 105–85, §603(d)(2)(C)(i), substituted "section 403" for "section 403(b)".
+
+Subsec. (b)(2). Pub. L. 105–85, §603(d)(2)(C)(ii), substituted "basic allowance for housing under section 403 of title 37" for "basic allowance for quarters under section 403 of title 37 and, if in a high housing cost area, a variable housing allowance under section 403a of that title".
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under section 5561 of Title 5, Government Organization and Employees.
+§2883. Department of Defense Housing Funds
+
+(a) Establishment.—There are hereby established on the books of the Treasury the following accounts:
+
+(1) The Department of Defense Family Housing Improvement Fund.
+
+(2) The Department of Defense Military Unaccompanied Housing Improvement Fund.
+
+(b) Commingling of Funds Prohibited.—(1) The Secretary of Defense shall administer each Fund separately.
+
+(2) Amounts in the Department of Defense Family Housing Improvement Fund may be used only to carry out activities under this subchapter with respect to military family housing.
+
+(3) Amounts in the Department of Defense Military Unaccompanied Housing Improvement Fund may be used only to carry out activities under this subchapter with respect to military unaccompanied housing.
+
+(c) Credits to Funds.—(1) There shall be credited to the Department of Defense Family Housing Improvement Fund the following:
+
+(A) Amounts authorized for and appropriated to that Fund.
+
+(B) Subject to subsection (f), any amounts that the Secretary of Defense transfers, in such amounts as provided in appropriation Acts, to that Fund from amounts authorized and appropriated to the Department of Defense for the acquisition, improvement, or construction of military family housing.
+
+(C) Proceeds from the conveyance or lease of property or facilities under section 2878 of this title for the purpose of carrying out activities under this subchapter with respect to military family housing.
+
+(D) Income derived from any activities under this subchapter with respect to military family housing, including interest on loans made under section 2873 of this title, income and gains realized from investments under section 2875 of this title, and any return of capital invested as part of such investments.
+
+(E) Any amounts that the Secretary of the Navy transfers to that Fund pursuant to section 2814(i)(3) of this title, subject to the restrictions on the use of the transferred amounts specified in that section.
+
+(F) Any amounts that the Secretary concerned transfers to that Fund pursuant to section 2869 of this title.
+
+(2) There shall be credited to the Department of Defense Military Unaccompanied Housing Improvement Fund the following:
+
+(A) Amounts authorized for and appropriated to that Fund.
+
+(B) Subject to subsection (f), any amounts that the Secretary of Defense transfers, in such amounts as provided in appropriation Acts, to that Fund from amounts authorized and appropriated to the Department of Defense for the acquisition or construction of military unaccompanied housing.
+
+(C) Proceeds from the conveyance or lease of property or facilities under section 2878 of this title for the purpose of carrying out activities under this subchapter with respect to military unaccompanied housing.
+
+(D) Income derived from any activities under this subchapter with respect to military unaccompanied housing, including interest on loans made under section 2873 of this title, income and gains realized from investments under section 2875 of this title, and any return of capital invested as part of such investments.
+
+(E) Any amounts that the Secretary of the Navy transfers to that Fund pursuant to section 2814(i)(3) of this title, subject to the restrictions on the use of the transferred amounts specified in that section.
+
+(F) Any amounts that the Secretary concerned transfers to that Fund pursuant to section 2869 of this title.
+
+(d) Use of Amounts in Funds.—(1)(A) In such amounts as provided in appropriation Acts and except as provided in subsection (e), the Secretary of Defense may use amounts in the Department of Defense Family Housing Improvement Fund to carry out activities under this subchapter with respect to military family housing, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this subchapter. The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses.
+
+(B) The Secretary of Defense shall require that eligible entities receiving amounts from the Department of Defense Family Housing Improvement Fund prioritize the use of such amounts for expenditures related to asset recapitalization, operating expenses, and debt payments before other program management-incentive fee expenditures. In the case of asset recapitalization, the primary purpose of the expenditures must be to sustain existing housing units owned or managed by the eligible entity or for which the eligible entity is otherwise responsible.
+
+(2) In such amounts as provided in appropriation Acts and except as provided in subsection (e), the Secretary of Defense may use amounts in the Department of Defense Military Unaccompanied Housing Improvement Fund to carry out activities under this subchapter with respect to military unaccompanied housing, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this subchapter. The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses.
+
+(3) Amounts made available under this subsection shall remain available until expended. The Secretary of Defense may transfer amounts made available under this subsection to the Secretaries of the military departments to permit such Secretaries to carry out the activities for which such amounts may be used.
+
+(e) Limitation on Obligations.—(1) The Secretary may not incur an obligation under a contract or other agreement entered into under this subchapter in excess of the unobligated balance, at the time the contract is entered into, of the Fund required to be used to satisfy the obligation.
+
+(2) The Funds established under subsection (a) shall be the sole source of funds for activities carried out under this subchapter.
+
+(f) Notification Required for Transfers.—A transfer of appropriated amounts to a Fund under subparagraph (B) of paragraph (1) or subparagraph (B) of paragraph (2) of subsection (c) may be made only after the end of the 14-day period beginning on the date the Secretary of Defense submits notice of, and justification for, the transfer to the appropriate committees of Congress in an electronic medium pursuant to section 480 of this title.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 104–201, div. B, title XXVIII, §2804, Sept. 23, 1996, 110 Stat. 2788; Pub. L. 106–65, div. B, title XXVIII, §2802(b), Oct. 5, 1999, 113 Stat. 848; Pub. L. 108–136, div. A, title X, §1031(a)(51), div. B, title XXVIII, §2805(c), Nov. 24, 2003, 117 Stat. 1603, 1721; Pub. L. 108–375, div. B, title XXVIII, §2805(a), Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(a), (b), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–181, div. B, title XXVII, §2705, Jan. 28, 2008, 122 Stat. 533; Pub. L. 112–239, div. B, title XXVII, §2711(c)(5), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 115–91, div. B, title XXVIII, §2801(d)(2), Dec. 12, 2017, 131 Stat. 1844; Pub. L. 116–283, div. B, title XXVIII, §2813(a), Jan. 1, 2021, 134 Stat. 4327.)
+
+Editorial Notes
+Amendments
+
+2021—Subsec. (d)(1). Pub. L. 116–283 designated existing provisions as subpar. (A) and added subpar. (B).
+
+2017—Subsec. (f). Pub. L. 115–91 substituted "14-day period" for "30-day period" and struck out "written" before "notice" and "or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided" before "in an electronic medium".
+
+2013—Subsec. (c)(1)(G). Pub. L. 112–239, §2711(c)(5)(A)(i), struck out subpar. (G), which read as follows: "Subject to subsection (f), any amounts that the Secretary of Defense transfers to that Fund from amounts in the Department of Defense Base Closure Account 2005."
+
+Subsec. (c)(2)(G). Pub. L. 112–239, §2711(c)(5)(A)(ii), struck out subpar. (G), which read as follows: "Subject to subsection (f), any amounts that the Secretary of Defense transfers to that Fund from amounts in the Department of Defense Base Closure Account 2005."
+
+Subsec. (f). Pub. L. 112–239, §2711(c)(5)(B), struck out "or (G)" after "subparagraph (B)" in two places in first sentence, and struck out second sentence which read: "In addition, the notice required in connection with a transfer under subparagraph (G) of paragraph (1) or subparagraph (G) of paragraph (2) shall include a certification that the amounts to be transferred from the Department of Defense Base Closure Account 2005 were specified in the conference report to accompany the most recent Military Construction Authorization Act."
+
+2008—Subsec. (c)(1)(G). Pub. L. 110–181, §2705(a)(1), added subpar. (G).
+
+Subsec. (c)(2)(G). Pub. L. 110–181, §2705(a)(2), added subpar. (G).
+
+Subsec. (f). Pub. L. 110–181, §2705(b), substituted "subparagraph (B) or (G) of paragraph (1) or subparagraph (B) or (G) of paragraph (2)" for "paragraph (1)(B) or (2)(B)" and inserted at end "In addition, the notice required in connection with a transfer under subparagraph (G) of paragraph (1) or subparagraph (G) of paragraph (2) shall include a certification that the amounts to be transferred from the Department of Defense Base Closure Account 2005 were specified in the conference report to accompany the most recent Military Construction Authorization Act."
+
+2006—Subsec. (c)(1)(B). Pub. L. 109–163, §2806(b), substituted "acquisition, improvement, or construction" for "acquisition or construction".
+
+Subsec. (e). Pub. L. 109–163, §2806(a), designated existing provisions as par. (1) and added par. (2).
+
+2004—Subsec. (g). Pub. L. 108–375 struck out heading and text of subsec. (g). Text read as follows: "The total value in budget authority of all contracts and investments undertaken using the authorities provided in this subchapter shall not exceed—
+
+"(1) $850,000,000 for the acquisition or construction of military family housing; and
+
+"(2) $150,000,000 for the acquisition or construction of military unaccompanied housing."
+
+2003—Subsec. (c)(1)(F). Pub. L. 108–136, §2805(c)(1), added subpar. (F).
+
+Subsec. (c)(2)(F). Pub. L. 108–136, §2805(c)(2), added subpar. (F).
+
+Subsec. (f). Pub. L. 108–136, §1031(a)(51), inserted before period at end "or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title".
+
+1999—Subsec. (c)(1)(E). Pub. L. 106–65, §2802(b)(1), added subpar. (E).
+
+Subsec. (c)(2)(E). Pub. L. 106–65, §2802(b)(2), added subpar. (E).
+
+1996—Subsec. (d)(1), (2). Pub. L. 104–201 inserted at end "The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses."
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2021 Amendment
+
+Pub. L. 116–283, div. B, title XXVIII, §2813(b), Jan. 1, 2021, 134 Stat. 4327, provided that: "The requirements set forth in subparagraph (B) of section 2883(d)(1) of title 10, United States Code, as added by subsection (a), shall apply to appropriate legal documents entered into or renewed on or after the date of the enactment of this Act [Jan. 1, 2021] between the Secretary of a military department and a landlord regarding privatized military housing. In this subsection, the terms 'landlord' and 'privatized military housing' have the meanings given those terms in section 3001(a) of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 133 Stat. 1916; 10 U.S.C. 2821 note)."
+Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–239 effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014 (div. J of Pub. L. 113–76, approved Jan. 17, 2014), see section 2711(d) of Pub. L. 112–239, set out as a note under section 2701 of this title.
+§2883a. Funds for housing allowances of members of the armed forces assigned to certain military family housing units
+
+(a) Authority to Transfer Funds To Cover Housing Allowances.—During the fiscal year in which a contract is awarded for the acquisition or construction of military family housing units under this subchapter that are not to be owned by the United States, the Secretary of Defense may transfer the amount determined under subsection (b) with respect to such housing from appropriations available for support of military housing for the armed force concerned for that fiscal year to appropriations available for pay and allowances of military personnel of that same armed force for that same fiscal year.
+
+(b) Amount Transferred.—The total amount authorized to be transferred under subsection (a) in connection with a contract under this subchapter may not exceed an amount equal to any additional amounts payable during the fiscal year in which the contract is awarded to members of the armed forces assigned to the acquired or constructed housing units as basic allowance for housing under section 403 of title 37 that would not otherwise have been payable to such members if not for assignment to such housing units.
+
+(c) Transfers Subject to Appropriations.—The transfer of funds under the authority of subsection (a) is limited to such amounts as may be provided in advance in appropriations Acts.
+
+(Added Pub. L. 107–107, div. B, title XXVIII, §2804(a), Dec. 28, 2001, 115 Stat. 1305.)
+§2884. Reports
+
+(a) Project Reports.—(1) The Secretary concerned shall transmit to the appropriate committees of Congress a report describing—
+
+(A) each contract or agreement for the acquisition or construction of family housing units or unaccompanied housing units under this subchapter; and
+
+(B) each conveyance or lease proposed under section 2878 of this title.
+
+(2) A report required by paragraph (1) shall include the following:
+
+(A) A description of the contract, agreement, conveyance, or lease, including a summary of the terms of the contract, agreement, conveyance, or lease.
+
+(B) A description of the authorities to be utilized in entering into the contract, agreement, conveyance, or lease and the intended method of participation of the United States in the contract, agreement, conveyance, or lease, including a justification of the intended method of participation.
+
+(C) A statement of the scored cost of the contract, agreement, conveyance, or lease, as determined by the Office of Management and Budget.
+
+(D) A statement of the United States funds required for the contract, agreement, conveyance, or lease and a description of the source of such funds, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, agreement, conveyance, or lease.
+
+(E) An economic assessment of the life cycle costs of the contract, agreement, conveyance, or lease, including an estimate of the amount of United States funds that would be paid over the life of the contract, agreement, conveyance, or lease from amounts derived from payments of government allowances, including the basic allowance for housing under section 403 of title 37, if the housing affected by the project were fully occupied by military personnel over the life of the contract, agreement, conveyance, or lease.
+
+(3)(A) In the case of a contract or agreement described in paragraph (1) proposed to be entered into with a private party, the report shall specify whether the contract or agreement will or may include a guarantee (including the making of mortgage or rental payments) by the Secretary to the private party in the event of—
+
+(i) the closure or realignment of the installation for which housing will be provided under the contract or agreement;
+
+(ii) a reduction in force of units stationed at such installation; or
+
+(iii) the extended deployment of units stationed at such installation.
+
+(B) If the contract or agreement will or may include such a guarantee, the report shall also—
+
+(i) describe the nature of the guarantee; and
+
+(ii) assess the extent and likelihood, if any, of the liability of the United States with respect to the guarantee.
+
+(4) The report shall be submitted in an electronic medium pursuant to section 480 of this title not later than 21 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease.
+
+(b) Annual Reports to Accompany Budget Materials.—The Secretary of Defense shall include each year in the materials that the Secretary submits to Congress in support of the budget submitted by the President pursuant to section 1105 of title 31 the following:
+
+(1) A separate report on the expenditures and receipts during the preceding fiscal year covering each of the Funds established under section 2883 of this title, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred and the privatization projects or contracts to which those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year.
+
+(2) A report setting forth, by armed force, the following:
+
+(A) An estimate of the amounts of basic allowance for housing under section 403 of title 37 that will be paid, during the current fiscal year and the fiscal year for which the budget is submitted, to members of the armed forces living in housing provided under the authorities in this subchapter.
+
+(B) The number of units of military family housing and military unaccompanied housing upon which the estimate under subparagraph (A) for the current fiscal year and the next fiscal year is based.
+
+(3) A description of the plans for housing privatization activities to be carried out under this subchapter—
+
+(A) during the fiscal year for which the budget is submitted; and
+
+(B) during the period covered by the then-current future-years defense plan under section 221 of this title.
+
+(4) A report identifying each family housing unit acquired or constructed under this subchapter that is used, or intended to be used, as quarters for a general officer or flag officer and for which the total operation, maintenance, and repair costs for the unit exceeded $50,000. For each housing unit so identified, the report shall also include the total of such operation, maintenance, and repair costs.
+
+(c) Annual Report on Privatization Projects.—The Secretary of Defense shall submit to the congressional defense committees a semi-annual report containing an evaluation of the status of oversight and accountability measures under section 2885 of this title for military housing privatization projects. To the extent each Secretary concerned has the right to attain the information described in this subsection, each report shall include, at a minimum, the following:
+
+(1) An assessment of the backlog of maintenance and repair at each military housing privatization project where a significant backlog exists, including an estimation of the cost of eliminating the maintenance and repair backlog.
+
+(2) If the debt associated with a privatization project exceeds net operating income or the occupancy rates for the housing units are below 75 percent for more than one year, the plan developed to mitigate the financial risk of the project.
+
+(3) An assessment of any significant project variances between the actual and pro forma deposits in the recapitalization account, to specifically include any unique variances associated with litigation costs.
+
+(4) The details of any significant withdrawals from a recapitalization account, including the purpose and rationale of the withdrawal and, if the withdrawal occurs before the normal recapitalization period, the impact of the early withdrawal on the financial health of the project.
+
+(5) An assessment of the extent to which the information required to comply with paragraphs (1) through (4) has been requested by the Secretaries, but has not been made available.
+
+(6) An assessment of cost assessed to members of the armed forces for utilities compared to utility rates in the local area.
+
+(7) An assessment of the condition of housing units based on the average age of those units and the estimated time until recapitalization.
+
+(8) An assessment of tenant complaints.
+
+(9) An assessment of maintenance response times and completion of maintenance requests.
+
+(10) An assessment of the dispute resolution process under section 2894(c) of this title, which shall include a list of dispute resolution cases by installation and the final outcome of each case.
+
+(11) An assessment of overall customer service for tenants.
+
+(12) A description of the results of any no-notice housing inspections conducted.
+
+(13) The results of any resident surveys conducted.
+
+(14) With regard to issues of lead-based paint in housing units, a summary of data relating to the presence of lead-based paint in such housing units, including the following by military department:
+
+(A) The total number of housing units containing lead-based paint.
+
+(B) A description of the reasons for the failure to inspect any housing unit that contains lead-based paint.
+
+(C) A description of all abatement or mitigation efforts completed or underway in housing units containing lead-based paint.
+
+(D) A certification as to whether military housing under the jurisdiction of the Secretary concerned complies with requirements relating to lead-based paint, lead-based paint activities, and lead-based paint hazards, as described in section 408 of the Toxic Substances Control Act (15 U.S.C. 2688).
+
+(d) Annual Briefings.—Not later than February 1 of each year, each Secretary concerned shall provide to the Committees on Armed Services of the Senate and House of Representatives a briefing on military housing privatization projects under the jurisdiction of the Secretary. Such briefing shall include, for the 12-month period preceding the date of the briefing, each of the following:
+
+(1) The information described in paragraphs (1) through (14) of subsection (c) with respect to all military housing privatization projects under the jurisdiction of the Secretary.
+
+(2) A review of any such project that is expected to require the restructuring of a loan, including any public or private loan.
+
+(3) For any such project expected to require restructuring, a timeline for when such restructuring is expected to occur.
+
+(4) Such other information as the Secretary determines appropriate.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 550; amended Pub. L. 108–136, div. B, title XXVIII, §2807, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 108–375, div. B, title XXVIII, §2806, Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(c), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, §2805(b), (f), Oct. 14, 2008, 122 Stat. 4723, 4724; Pub. L. 111–383, div. A, title X, §1075(h)(6), div. B, title XXVIII, §2803(g), Jan. 7, 2011, 124 Stat. 4377, 4459; Pub. L. 112–239, div. B, title XXVIII, §2803(b), Jan. 2, 2013, 126 Stat. 2148; Pub. L. 113–66, div. B, title XXVIII, §2806, Dec. 26, 2013, 127 Stat. 1008; Pub. L. 113–291, div. A, title X, §1071(f)(26), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. B, title XXVIII, §2801(d)(3), Dec. 12, 2017, 131 Stat. 1844; Pub. L. 116–92, div. B, title XXX, §3016(d), Dec. 20, 2019, 133 Stat. 1929; Pub. L. 116–283, div. B, title XXVIII, §§2803(c), 2811(h), Jan. 1, 2021, 134 Stat. 4320, 4326; Pub. L. 117–263, div. B, title XXVIII, §2823, Dec. 23, 2022, 136 Stat. 3001.)
+
+Editorial Notes
+Amendments
+
+2022—Subsec. (d). Pub. L. 117–263 added subsec. (d).
+
+2021—Subsec. (a)(1). Pub. L. 116–283, §2803(c)(1)(A), substituted "The Secretary concerned" for "The Secretary of Defense" in introductory provisions.
+
+Subsec. (a)(1)(A). Pub. L. 116–283, §2803(c)(1)(B), inserted "or agreement" after "each contract" and struck out "that the Secretary proposes to solicit" after "unaccompanied housing units".
+
+Subsec. (a)(2). Pub. L. 116–283, §2803(c)(2), substituted "A report required by paragraph (1)" for "For each proposed contract, conveyance, or lease described in paragraph (1), the report required by such paragraph" in introductory provisions and inserted "agreement," after "contract," wherever appearing.
+
+Subsec. (a)(3). Pub. L. 116–283, §2803(c)(3), inserted "or agreement" after "contract" wherever appearing.
+
+Subsec. (c)(10). Pub. L. 116–283, §2811(h), amended par. (10) generally. Prior to amendment, par. (10) read as follows: "An assessment of the dispute resolution process, which shall include a specific analysis of each denied tenant request to withhold rent payments and each instance in which the dispute resolution process resulted in a favorable outcome for the landlord."
+
+2019—Subsec. (c)(7) to (14). Pub. L. 116–92 added pars. (7) to (14).
+
+2017—Subsec. (a)(4). Pub. L. 115–91 added par. (4) and struck out former par. (4) which read as follows: "The report shall be submitted not later than 30 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title."
+
+2014—Subsec. (c). Pub. L. 113–291 substituted "an evaluation" for "on evaluation" in introductory provisions.
+
+2013—Subsecs. (b), (c). Pub. L. 112–239 added subsecs. (b) and (c) and struck out former subsec. (b) which required the Secretary of Defense to provide annual reports to Congress.
+
+Subsec. (c)(3). Pub. L. 113–66 inserted ", to specifically include any unique variances associated with litigation costs" before period at end.
+
+2011—Subsec. (a)(4). Pub. L. 111–383, §2803(g), inserted before period at end "or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title".
+
+Subsec. (b)(1). Pub. L. 111–383, §1075(h)(6), made technical correction to directory language of Pub. L. 109–163, §2806(c)(2)(A). See 2006 Amendment note below.
+
+2008—Subsec. (b)(7). Pub. L. 110–417, §2805(b), added par. (7).
+
+Subsec. (b)(8). Pub. L. 110–417, §2805(f), added par. (8).
+
+2006—Subsec. (a)(2)(D). Pub. L. 109–163, §2806(c)(1), inserted before period ", including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, conveyance, or lease".
+
+Subsec. (b)(1). Pub. L. 109–163, §2806(c)(2)(B), (C), substituted "covering each of the Funds" for "covering the Funds" and inserted before period at end ", including a description of the specific construction, acquisition, or improvement projects from which funds were transferred and the privatization projects or contracts to which those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year".
+
+Pub. L. 109–163, §2806(c)(2)(A), as amended by Pub. L. 111–383, §1075(h)(6), substituted "A separate report" for "A report".
+
+2004—Subsec. (a)(2). Pub. L. 108–375, §2806(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The report shall describe the proposed contract, conveyance, or lease and the intended method of participation of the United States in the contract, conveyance, or lease and provide a justification of such method of participation."
+
+Subsec. (b)(5), (6). Pub. L. 108–375, §2806(b), added par. (5) and redesignated former par. (5) as (6).
+
+2003—Subsec. (a)(2) to (4). Pub. L. 108–136, §2807(a), designated second sentence of par. (2) as par. (4) and added par. (3).
+
+Subsec. (b)(2). Pub. L. 108–136, §2807(b)(1), inserted before period at end ", and such recommendations as the Secretary considers necessary for improving the extent and effectiveness of the use of such authorities in the future".
+
+Subsec. (b)(3) to (5). Pub. L. 108–136, §2807(b)(2), added pars. (3) to (5) and struck out former par. (3) which read as follows: "A description of the objectives of the Department of Defense for providing military family housing and military unaccompanied housing for members of the armed forces."
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title X, §1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section 1075(h)(6) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
+Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsecs. (b) and (c) of this section requiring submittal of reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+Final Report
+
+Pub. L. 104–106, div. B, title XXVIII, §2801(b), Feb. 10, 1996, 110 Stat. 551, provided that, not later than Mar. 1, 2000, the Secretary of Defense was to submit to the congressional defense committees a report on the use by the Secretary of Defense and the Secretaries of the military departments of the authorities provided by subchapter IV of chapter 169 of this title.
+§2885. Oversight and accountability for privatization projects
+
+(a) Oversight and Accountability Measures.—Each Secretary concerned shall prescribe regulations to effectively oversee and manage military housing privatization projects carried out under this subchapter during the course of the construction or renovation of the housing units. The regulations shall include the following requirements for each privatization project:
+
+(1) The installation asset manager shall conduct monthly site visits and provide quarterly reports on the progress of the construction or renovation of the housing units. The reports shall be submitted quarterly to the assistant secretary for installations and environment of the respective military department.
+
+(2) The installation asset manager, and, as applicable, the resident construction manager, privatization asset manager, bondholder representative, project owner, developer, general contractor, and construction consultant for the project shall conduct meetings to ensure that the construction or renovation of the units meets performance and schedule requirements and that appropriate operating and ground lease agreements are in place and adhered to.
+
+(3) In the case of a project for new construction, if the project is 90 days or more behind schedule or otherwise appears to be substantially failing to adhere to the obligations or milestones under the contract, the assistant secretary for installations and environment of the respective military department shall submit a notice of deficiency to the Assistant Secretary of Defense for Energy, Installations, and Environment, the Secretary concerned, the managing member, and the trustee for the project.
+
+(4)(A) Not later than 15 days after the submittal of a notice of deficiency under paragraph (3), the Secretary concerned or designated representative shall submit to the project owner, developer, or general contractor responsible for the project a summary of deficiencies related to the project.
+
+(B) If the project owner, developer, or general contractor responsible for the privatization project is unable, within 60 days after receiving a notice of deficiency under subparagraph (A), to make progress on the issues outlined in such notice, the Secretary concerned shall notify, in an electronic medium pursuant to section 480 of this title, the congressional defense committees of the status of the project and include a recommended course of action to correct the problems.
+
+(b) Required Qualifications.—The Secretary concerned or designated representative shall ensure that the project owner, developer, or general contractor that is selected for each military housing privatization initiative project has construction experience commensurate with that required to complete the project.
+
+(c) Bonding Levels.—The Secretary concerned shall ensure that the project owner, developer, or general contractor responsible for a military housing privatization initiative project has sufficient payment and performance bonds or suitable instruments in place for each phase of a construction or renovation portion of the project to ensure successful completion of the work in amounts as agreed to in the project's legal documents, but in no case less than 50 percent of the total value of the active phases of the project, prior to the commencement of work for that phase.
+
+(d) Reporting of Efforts To Select Successor in Event of Default.—In the event a military housing privatization initiative project enters into default, the assistant secretary for installations and environment of the respective military department shall submit, in an electronic medium pursuant to section 480 of this title, a report to the congressional defense committees every 90 days detailing the status of negotiations to award the project to a new project owner, developer, or general contractor.
+
+(e) Effect of Notices of Deficiency on Contractors and Affiliated Entities.—(1) The Secretary concerned shall keep a record of all plans of action or notices of deficiency issued to a project owner, developer, or general contractor under subsection (a)(4), including the identity of each parent, subsidiary, affiliate, or other controlling entity of such owner, developer, or contractor.
+
+(2) Each military department shall consult all records maintained under paragraph (1) when reviewing the past performance of owners, developers, and contractors in the bidding process for a contract or other agreement for a military housing privatization initiative project.
+
+(f) Financial Integrity and Accountability Measures.—(1) The regulations required by subsection (a) shall address the following requirements for each military housing privatization project upon the completion of the construction or renovation of the housing units:
+
+(A) The financial health and performance of the privatization project, including the debt-coverage ratio of the project and occupancy rates for the housing units.
+
+(B) An assessment of the backlog of maintenance and repair of the housing units.
+
+(2) If the debt service coverage for a military housing privatization project falls below 1.0 or the occupancy rates for the housing units of the project are below 75 percent for more than one year, the Secretary concerned shall require the development of a plan to address the financial risk of the project.
+
+(Added Pub. L. 110–417, div. B, title XXVIII, §2805(a)(1), Oct. 14, 2008, 122 Stat. 4721; amended Pub. L. 112–239, div. B, title XXVIII, §2803(a), Jan. 2, 2013, 126 Stat. 2147; Pub. L. 113–66, div. A, title X, §1084(a)(3), Dec. 26, 2013, 127 Stat. 871; Pub. L. 113–291, div. A, title IX, §901(n)(2), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. B, title XXVIII, §2801(d)(4), Dec. 12, 2017, 131 Stat. 1844.)
+
+Editorial Notes
+Prior Provisions
+
+A prior section 2885, added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 551; amended Pub. L. 105–85, div. A, title X, §1073(a)(61), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–398, §1 [div. B, title XXVIII, §2806], Oct. 30, 2000, 114 Stat. 1654, 1654A-415; Pub. L. 107–107, div. B, title XXVIII, §2805, Dec. 28, 2001, 115 Stat. 1306, related to expiration of authority to enter into a contract under this subchapter, prior to repeal by Pub. L. 108–375, div. B, title XXVIII, §2805(b)(1), Oct. 28, 2004, 118 Stat. 2122.
+Amendments
+
+2017—Subsec. (a)(4)(B). Pub. L. 115–91, §2801(d)(4)(A), inserted ", in an electronic medium pursuant to section 480 of this title," after "notify" and substituted "and include" for ", and shall provide".
+
+Subsec. (d). Pub. L. 115–91, §2801(d)(4)(B), inserted ", in an electronic medium pursuant to section 480 of this title," after "submit".
+
+2013—Subsec. (a). Pub. L. 112–239, §2803(a)(2), in introductory provisions, inserted "during the course of the construction or renovation of the housing units" before period at end of first sentence.
+
+Subsec. (a)(3). Pub. L. 113–66 substituted "In the case of a project for new construction, if the project" for "If a project".
+
+Subsec. (f). Pub. L. 112–239, §2803(a)(1), added subsec. (f).
+
+Statutory Notes and Related Subsidiaries
+Change of Name
+
+"Assistant Secretary of Defense for Energy, Installations, and Environment" substituted for "Deputy Under Secretary of Defense (Installations and Environment)" in subsec. (a)(3) on authority of section 901(n)(2) of Pub. L. 113–291, set out as a References note under section 131 of this title.
+[§2886. Repealed. Pub. L. 116–92, div. B, title XXX, §3014(d)(1), Dec. 20, 2019, 133 Stat. 1926]
+
+Section, added Pub. L. 115–91, div. A, title VI, §602(a), Dec. 12, 2017, 131 Stat. 1417, prohibited collection of amounts in addition to rent from members assigned to military family housing units or military unaccompanied housing units. See section 2891a(f) of this title.

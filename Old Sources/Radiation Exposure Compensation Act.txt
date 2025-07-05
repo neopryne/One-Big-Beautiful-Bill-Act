@@ -1,0 +1,696 @@
+The Radiation Exposure Compensation Act
+(RECA): Compensation Related to Exposure to
+Radiation from Atomic Weapons Testing and
+Uranium Mining
+Updated May 9, 2022
+Congressional Research Service
+https://crsreports.congress.gov
+R43956
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service
+Summary
+The Radiation Exposure Compensation Act (RECA) provides one-time benefit payments to
+persons who may have developed cancer or other specified diseases after being exposed to
+radiation from atomic weapons testing or uranium mining, milling, or transporting. Administered
+by the Department of Justice (DOJ), RECA has awarded over $2.5 billion in benefits to more than
+39,000 claimants since its inception in 1990.
+RECA benefits are available to the following groups:
+ onsite participants—$75,000 to persons who participated onsite in the
+atmospheric test of an atomic weapon and developed one of the types of cancers
+specified in the statute;
+ downwinders—$50,000 to persons who were present in one of the specified areas
+near the Nevada Test Site during a period of atmospheric atomic weapons testing
+and developed one of the types of cancers specified in the statute; and
+ uranium miners, millers, and ore transporters—$100,000 to persons who worked
+in mining, milling, or transportation of uranium between 1942 and 1971 and
+developed one of the types of diseases specified in the statute.
+The RECA program is scheduled to sunset on July 10, 2022, with no applications accepted after
+July 11, 2022. The Senate has passed legislation, S. 4119, that would extend the RECA sunset
+date by two years through July 10, 2024, without making any other changes to the program. This
+legislation has not been acted on by the House of Representatives.
+The RECA statute was last amended in 2000. Since then, Congress has frequently considered
+legislation to expand the downwinder-eligibility area by making persons who were affected in
+other states during periods of atmospheric atomic weapons testing eligible for benefits and by
+allowing uranium miners, millers, and ore transporters to qualify for benefits based on work after
+1971. However, an expansion of the downwinder-eligibility area is not supported by a
+congressionally mandated National Research Council report on atomic test fallout, and the
+inclusion of post-1971 uranium work, which was largely for commercial rather than
+governmental purposes, is not consistent with the program’s stated intent.
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service
+Contents
+Introduction ..................................................................................................................................... 1
+Atomic Weapons Testing at the Nevada Test Site ........................................................................... 1
+RECA Benefits ................................................................................................................................ 2
+Compensation Payments ........................................................................................................... 2
+Survivors’ Benefits .................................................................................................................... 3
+RECA Eligibility ............................................................................................................................. 4
+Onsite Participants .................................................................................................................... 4
+Exposure Requirements ...................................................................................................... 4
+Disease Requirements ......................................................................................................... 5
+Downwinders ............................................................................................................................ 5
+Exposure Requirements ...................................................................................................... 5
+Disease Requirements ......................................................................................................... 6
+Uranium Workers ...................................................................................................................... 7
+Miners ................................................................................................................................. 7
+Millers and Ore Transporters .............................................................................................. 7
+Application and Appeals Process .................................................................................................... 8
+Application Process ................................................................................................................... 8
+Radiation Exposure Screening and Education Program............................................................ 8
+Appeals Process ........................................................................................................................ 9
+Attorney’s Fees ......................................................................................................................... 9
+Potential Reauthorization and Outstanding Issues .......................................................................... 9
+Expansion of the Downwinder Eligibility Area ...................................................................... 10
+Eligibility Areas in Early Legislation to Compensate Downwinders ................................11
+Eligibility Areas in the Original RECA Statute and the 2000 Amendments ......................11
+Legislative Attempts to Expand the Downwinder Eligibility Area ................................... 12
+National Research Council Review of the RECA Downwinder Eligibility Area ............. 12
+Benefits for Post-1971 Uranium Workers ............................................................................... 13
+Figures
+Figure A-1. RECA Downwinder Area ........................................................................................... 16
+Tables
+Table 1. United States Atomic Weapons Tests, by Location ........................................................... 2
+Table 2. Specified Cancers for Eligibility as Onsite Participants and Downwinders ...................... 6
+Table 3. Downwinder Eligibility Areas ........................................................................................... 6
+Table 4. Uranium Worker Eligibility States..................................................................................... 7
+Table A-1. RECA Program Claims Data ....................................................................................... 15
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service
+Appendixes
+Appendix. RECA Program Data and Downwinder Area Map ...................................................... 15
+Contacts
+Author Information........................................................................................................................ 17
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service 1
+Introduction
+The Radiation Exposure Compensation Act (RECA) was enacted in 1990 and provides one-time
+cash benefits to certain persons who participated in atomic weapons testing or lived near the
+Nevada Test Site during periods of atmospheric (above-ground) atomic weapons testing.1
+Benefits under RECA are also available to certain uranium miners, mill workers, and ore
+transporters who worked in the uranium industry between 1942 and 1971, when the federal
+government stopped its procurement of uranium for the atomic weapons program. All RECA
+claimants must have contracted one of the medical conditions specified in the statute after
+possible exposure to ionizing radiation from the detonation of an atomic weapon or after working
+in the uranium industry.
+The RECA program is administered by the Civil Division of the Department of Justice (DOJ).2 To
+date, DOJ has approved more than 36,000 RECA claims for more than $2.3 billion in benefits.
+The majority of RECA claims are related to atomic weapons testing rather than the uranium
+industry. Complete RECA program data are provided in Table A-1 in the Appendix.
+Benefits under RECA are paid out of general revenue and are considered mandatory spending.
+Pursuant to the Radiation Exposure Compensation Act Amendments of 2000 (P.L. 106-245), all
+RECA benefit applications must be filed before July 11, 2022, at which point the program is
+scheduled to sunset.3
+Atomic Weapons Testing at the Nevada Test Site
+On July 16, 1945, the United States detonated the first atomic bomb at the Trinity Test Site near
+Alamogordo, NM. This atomic weapons test, which was followed by the only two offensive uses
+of atomic weapons at Hiroshima and Nagasaki, Japan, ushered in an era of extensive development
+and testing of atomic weapons that would last until 1992. During this period, the United States,
+under the auspices of the Atomic Energy Commission (AEC) and later Department of Energy
+(DOE), conducted 1,054 atomic weapons tests.4 The majority (928) of these tests were conducted
+at the Nevada Test Site (NTS), a 1,375 square-mile federal reservation located approximately 65
+miles north of Las Vegas in Nye County, Nevada.5 Of the 928 tests conducted at NTS, 828 were
+underground tests and 100 were atmospheric tests in which the atomic weapons exploded at or
+above ground level, resulting in radioactive material being released into the atmosphere.6 These
+100 atmospheric tests and the initial Trinity test were the only atmospheric atomic weapons tests
+conducted in the continental United States and Alaska. Table 1 provides a summary of U.S.
+atomic weapons tests by location.
+1 42 U.S.C. §2210 note; enacted as P.L. 101-426 on October 15, 1990.
+2 The RECA program website is at http://www.justice.gov/civil/common/reca. Implementing regulations are at Part 79
+of Title 28 of the Code of Federal Regulations.
+3 Section 8(a) of RECA, as amended by P.L. 106-245 provides a filing deadline that is 22 years after the date of
+enactment of the 2000 amendments (July 10, 2000).
+4 Twenty-four of these tests were jointly conducted with the United Kingdom.
+5 The Nevada Test Site (NTS) is now referred to as the Nevada National Security Site and is administered by the
+Department of Energy (DOE), National Nuclear Security Administration. For additional information on the history and
+characteristics of the NTS, see Terrance R. Fehner and F.G. Gosling, Origins of the Nevada Test Site, Department of
+Energy, DOE/MA-0518, December 2000.
+6 During some underground tests, radioactive material escaped from underground through a process known as venting,
+thus releasing some radioactive material into the atmosphere.
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service 2
+Table 1. United States Atomic Weapons Tests, by Location
+Location Number of Tests
+South Atlantic Ocean Area 3
+Pacific Ocean Area 106
+United States other than Nevada Test Site (NTS) 17
+Alamogordo, NM (Trinity Test Site) 1
+Amchitka, AK 3
+Carlsbad, NM 1
+Central NV 1
+Fallon, NV 1
+Farmington, NM 1
+Grand Valley, CO 1
+Hattiesburg, MS 2
+Nellis Air Force Range, NV 5
+Rifle, CO 1
+NTS 928
+Total 1,054
+Source: Department of Energy, United States Nuclear Tests: July 1945 through September 1992, DOE/NV-209-REV
+15, December 2000, p. xiii.
+Note: Includes 24 joint U.S.-U.K. tests conducted at NTS.
+Atmospheric atomic weapons tests at NTS were conducted between January 27, 1951, and
+October 30, 1958, and again between July 7, 1962, and July 17, 1962. The largest atmospheric
+test at NTS in terms of energy yield was the Hood Test conducted on July 5, 1957, which had an
+energy yield equivalent to 74,000 tons (74 kilotons or kt) of trinitrotoluene (TNT).7
+RECA Benefits
+Compensation Payments
+The following benefits are available under the RECA program:
+ $75,000—Onsite participants (persons who were present at a test site during an
+atmospheric atomic weapons test);
+ $50,000—Downwinders (persons who were present in certain areas north and
+west of NTS8 during periods of atmospheric atomic weapons testing); and
+7 For comparison purposes, the first atomic bomb ever detonated had a yield of 21 kt; the atomic bombs dropped on
+Hiroshima and Nagasaki had yields of 15 kt and 21 kt, respectively; and the largest atmospheric test conducted by the
+United States, the Bravo Test at Bikini Atoll in the Marshall Islands on February 28, 1954, had a yield of 15 million
+tons (15 megatons or Mt).
+8 The areas eligible for downwinder compensation are listed in Table 3 and provided in the map in the Appendix.
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service 3
+ $100,000—Uranium Workers (uranium miners, uranium millers, and uranium ore
+transporters).
+All benefits are one-time lump sum payments and are not adjusted to reflect changes in wages or
+the cost of living. Benefits are not subject to the federal income tax9 but are offset by any
+payments received from any lawsuit or settlement, or by any disability compensation or
+Dependency and Indemnity Compensation (DIC) payments from the Department of Veterans
+Affairs (VA) for any illnesses or injuries due to exposure to radiation from atomic weapons
+testing or work in the uranium industry covered by RECA.10 For onsite participants with claims
+based on diseases other than leukemia, RECA benefits are offset by the actuarial present value of
+prior payments.11 For all other beneficiaries, including onsite participants with claims based on
+leukemia with radiation exposure prior to age 21, RECA benefits are offset by the actual value of
+prior payments. A veteran who has received RECA benefits prior to the receipt of disability
+compensation benefits from the VA under the presumptive eligibility provisions of the Radiation-
+Exposed Veterans Compensation Act (REVCA, P.L. 100-321)12 is required to have his or her VA
+benefits reduced by the amount of his or her RECA benefits.13
+No medical or other benefits are provided by the RECA program. However, uranium workers
+eligible for RECA are automatically eligible for an additional $50,000 in compensation and for
+medical benefits that pay for all medical costs associated with their covered illnesses under Part B
+of the Energy Employees Occupational Illness Compensation Program Act (EEOICPA).14
+Survivors’ Benefits
+Each onsite participant, downwinder, or uranium worker who qualifies for RECA is entitled to
+one benefit payment on his or her behalf. If the claimant is living, the benefit is paid to him or her
+directly. If the claimant is deceased, then the benefit is paid to the following survivors according
+to order of precedence:
+1. spouse, provided the spouse was married to the claimant for at least one year
+before the claimant’s death;
+2. children, in equal shares;
+3. parents, in equal shares;
+4. grandchildren, in equal shares; and
+5. grandparents, in equal shares.15
+9 26 U.S.C. §104(a)(2).
+10 Section 6(c)(2) of the Radiation Exposure Compensation Act (42 U.S.C. §2210 note).
+11 The actuarial present value of prior payments is calculated in accordance with 28 C.F.R. §79.75(e) and Appendix C
+to Part 79 of Title 28 of the C.F.R.
+12 Under REVCA, certain conditions related to radiation exposure in veterans who were onsite participants; served
+during the American occupation of Hiroshima or Nagasaki, Japan; were interred as prisoners of war in Japan; or served
+in a capacity that would make them eligible membership in the Energy Employees Occupational Illness Compensation
+Program Act (EEOICPA) special exposure cohort (through work in the development of atomic weapons) are presumed
+to be service-connected for the purposes of eligibility for disability compensation benefits payable by the VA.
+13 38 U.S.C. §1112(c)(4).
+14 42 U.S.C. §7384u. Onsite participants and downwinders are not automatically eligible for the Energy Employees
+Occupational Illness Compensation Program Act (EEOICPA) and can only receive EEOICPA Part B benefits by
+establishing eligibility through work in the development, not testing, of atomic weapons.
+15 Section 6(c)(4) of the Radiation Exposure Compensation Act (42 U.S.C. §2210 note).
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service 4
+Only the survivors listed above are eligible for RECA benefits, and if there are no such survivors
+to a claimant, no benefit is paid on that claim.
+RECA Eligibility
+Onsite Participants
+To be eligible for RECA benefits, an onsite participant must meet exposure and disease
+requirements.
+Exposure Requirements
+A person may be eligible for RECA benefits if he or she was present onsite and participated in an
+atmospheric atomic weapons test conducted by the United States and meets the specific
+geographic and participation requirements provided in the RECA regulations.
+Geographic Requirements
+A person must have been within or above one of the following geographic areas during a period
+of atmospheric atomic weapons testing,16 including for up to six months after the period of testing
+ended:
+ NTS;
+ the Pacific Test Sites (Bikini Atoll, Enewetak Atoll, Johnston Island, Christmas
+Island, the test site for the shot during Operation Wigwam, the test site for Shot
+Yucca during Operation Hardtack I, and the test sites for Shot Frigate Bird and
+Shot Swordfish during Operation Dominic I) and the official zone around each
+site from which non-test affiliated ships were excluded for security and safety
+purposes;
+ Trinity Test Site;
+ the South Atlantic Test Site for Operation Argus and the official zone around the
+site from which non-test affiliated ships were excluded for security and safety
+purposes;
+ any designated location within a naval shipyard, air force base, or other official
+government installation where ships, aircraft, or other equipment used in an
+atmospheric nuclear detonation were decontaminated; or
+ any designated location used for the purpose of monitoring fallout from an
+atmospheric nuclear test conducted at NTS.17
+Participation Requirements
+A person must have held one of the following occupations and performed one of the following
+activities while onsite during a period of atmospheric atomic weapons testing, including for up to
+six months after the period of testing ended:
+16 The dates for each period of atmospheric atomic weapons testing are provided at 28 C.F.R. §79.31(d)(1).
+17 28 C.F.R. §79.11(f).
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service 5
+Required Occupations
+ member of the Armed Forces;
+ civilian employee or contract employee of the Manhattan Engineer District, the
+Armed Forces Special Weapons Project, the Defense Atomic Support Agency, the
+Defense Nuclear Agency, or the Department of Defense or its components or
+agencies or predecessor components or agencies;
+ employee or contract employee of the AEC, the Energy Research and
+Development Administration, or the Department of Energy;
+ member of the Federal Civil Defense Administration or the Office of Civil and
+Defense Mobilization; or
+ member of the U.S. Public Health Service;18 and
+Required Activities
+ performed duties within the identified operational area around each atmospheric
+detonation of a nuclear device;
+ participated in the decontamination of any ships, planes, or equipment used
+during the atmospheric detonation of a nuclear device;
+ performed duties as a cloud tracker or cloud sampler;
+ served as a member of the garrison or maintenance forces on the atoll of
+Enewetak between June 21, 1951, and July 1, 1952; between August 7, 1956, and
+August 7, 1957; or between November 1, 1958, and April 30, 1959; or
+ performed duties as a member of a mobile radiological safety team monitoring
+the pattern of fallout from an atmospheric detonation of a nuclear device.19
+Disease Requirements
+An onsite participant must have contracted one of the types of cancers listed in Table 2 after
+exposure to ionizing radiation from his or her participation in an atmospheric atomic weapons
+test.
+Downwinders
+To be eligible for RECA benefits as a downwinder, a person must meet specified exposure and
+disease requirements based on his or her physical presence near NTS, rather than through his or
+her participation in an atomic weapons test.
+Exposure Requirements
+A downwinder must have been physically present for a period of at least 24 consecutive months
+between January 21, 1951, and October 31, 1958; or for the entire period between June 30, 1962,
+and July 31, 1962, in one of the counties or geographic areas listed in Table 3 and provided in the
+map in the Appendix.20
+18 28 C.F.R. §79.11(g)(1).
+19 28 C.F.R. §79.11(g)(2).
+20 The RECA regulations at 28 C.F.R. §79.23 provide that person who resided or was employed full-time in the
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service 6
+Table 2. Specified Cancers for Eligibility as Onsite Participants and Downwinders
+(all cancers must be primary cancers)
+Onset of the disease was at least two years after first exposure to fallout
+Leukemia (other than chronic lymphocytic leukemia) if exposure to fallout was after age 20
+Onset of the disease was at least five years after first exposure to fallout
+Multiple Myeloma Lymphomas (other than Hodgkin’s
+disease)
+Bile Duct Cancer
+Brain Cancer Breast Cancer (male or female) Colon Cancer
+Esophageal Cancer Gall Bladder Cancer Liver Cancer (except if cirrhosis or
+hepatitis B is indicated)
+Ovarian Cancer Pancreatic Cancer Pharynx Cancer
+Salivary Gland Cancer Small Intestine Cancer Stomach Cancer
+Thyroid Cancer Urinary Bladder Cancer Lung Cancer
+Source: 42 U.S.C. §2210 note.
+Table 3. Downwinder Eligibility Areas
+Arizona Nevada Utah
+Apache County Eureka County Beaver County
+Coconino County Lander County Garfield County
+Gila County Lincoln County Iron County
+Navajo County Nye County Kane County
+Yavapai County White Pine County Millard County
+Mohave County north of the Grand
+Canyon
+Clark County townships 13 through
+16 at ranges 63 through 71
+Paiute County
+San Juan County
+Sevier County
+Washington County
+Wayne County
+Source: 42 U.S.C. §2210 note.
+Disease Requirements
+A downwinder must have contracted one of the types of cancers listed in Table 2 after exposure
+to ionizing radiation from an atmospheric atomic weapons test at NTS.
+downwinder eligibility area is presumed to have been physically present in the area for the duration of his or her
+residence or employment. A downwinder with leukemia who was initially exposed to radiation before the age of 21 is
+only required to have been in the downwinder eligibility area for one year during the period between January 21, 1951,
+and October 31, 1958.
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service 7
+Uranium Workers
+Miners
+To qualify for RECA benefits, a uranium miner must meet specific exposure and disease
+requirements.
+Exposure Requirements
+A uranium miner must have worked in an above-ground or underground uranium mine for at least
+one year during the period between January 1, 1942, and December 31, 1971, or must have been
+exposed to at least 40 working-level months (WLM) of radiation during this period, in one of the
+states listed in Table 4.21
+A WLM is defined in the RECA statute as one working level of radiation exposure every work
+day for a month, or an equivalent exposure over a greater or lesser period of time. One working
+level of radiation exposure is defined as the concentration of decay products of radon that will
+release 130,000 megaelectron volts (MeV) of alpha energy per liter of air.22
+Table 4. Uranium Worker Eligibility States
+Arizona Colorado Idaho New Mexico
+North Dakota Oregon South Dakota Texas
+Utah Washington Wyoming
+Source: 42 U.S.C. §2210 note.
+Notes: Any additional state may apply for inclusion in this list and will be included if it is determined by DOJ that
+a uranium mine was operating in the state at any time during the period from January 1, 1942, to December 31,
+1971. No state has ever been added to the list of eligible states through this process.
+Disease Requirements
+A uranium miner must have developed lung cancer or one of the following nonmalignant
+respiratory diseases after exposure to radiation:
+ fibrosis of the lung;
+ pulmonary fibrosis;
+ corpulmonale related to fibrosis of the lung;
+ silicosis; or
+ pneumoconiosis.
+Millers and Ore Transporters
+Uranium millers and ore transporters may qualify for RECA benefits if they meet specific
+exposure and disease requirements.
+21 Any state may apply for uranium worker eligibility state status. If determined by DOJ that a uranium mine was
+operating in the state at any time during the period from January 1, 1942, to December 31, 1971, that state will be
+added to the list. However, no state has ever been added to the list of eligible states.
+22 Radiation exposure in mines is largely caused by the inhalation of radon gas and the short-lived solid decay products
+of radon. In the RECA statute, these decay products are referred to as “short half-life daughters of radon.”
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service 8
+Exposure Requirements
+A uranium miller must have been employed in a uranium mill in one of the states listed in Table 4
+for at least one year during the period from January 1, 1941, to December 31, 1971.
+An ore transporter must have worked transporting uranium ore or vanadium-uranium ore from a
+uranium mine or mill in one of the states listed in Table 4 for at least one year during the period
+from January 1, 1941, to December 31, 1971.
+Disease Requirements
+A uranium miller or ore transporter must have developed one of the following conditions after
+exposure to radiation:
+ primary lung cancer;
+ primary renal cancer;
+ a chronic renal disease, such as nephritis or kidney tubal tissue injury; or
+ a nonmalignant respiratory disease, specifically
+ fibrosis of the lung;
+ pulmonary fibrosis;
+ corpulmonale related to fibrosis of the lung;
+ silicosis; or
+ pneumoconiosis.
+Application and Appeals Process
+Application Process
+DOJ’s Civil Division administers the RECA program and makes eligibility decisions on claims.
+Benefit claims must be submitted in writing and on standard application forms provided by DOJ.
+The RECA statute requires that claimants submit “written documentation” of their illnesses to
+qualify for benefits, and the RECA regulations provide detailed requirements on the types of
+documents that must be submitted. Section 6(d)(5) of the RECA statute requires that in cases
+submitted by Native Americans, the application and payment procedures established by DOJ
+must “take into consideration and incorporate, to the fullest extent feasible, Native American law,
+tradition, and custom.”
+Application decisions for RECA benefits are made by an assistant director within the
+Constitutional and Specialized Torts Section, Torts Branch, of the DOJ Civil Division. Decisions
+must be made within 12 months of the receipt of a completed application and all supporting
+materials. If no decision is made within 12 months, the application is automatically approved for
+benefits.
+Radiation Exposure Screening and Education Program
+Section 4 of the 2000 RECA amendments authorized the Department of Health and Human
+Services (HHS) to provide grants to federal, state, and local health centers and nonprofit
+organizations to (1) conduct cancer screenings of persons who may be eligible for RECA and (2)
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service 9
+provide assistance with securing the medical documentation needed to file RECA claims. These
+grants are administered by the HHS Health Resources and Services Administration (HRSA) as
+the Radiation Exposure Screening and Education Program (RESEP). There are currently eight
+RESEP clinics operating in Arizona, Colorado, New Mexico, Nevada, and Utah with one clinic
+providing services exclusively to Native Americans.23 Applicants for RECA benefits are not
+required to be screened for cancer at RESEP clinics.
+Appeals Process
+An applicant who is denied RECA benefits may file an appeal with DOJ, which is ruled on by an
+appeals officer appointed by the Assistant Attorney General of the Civil Division of DOJ. Appeals
+must be made in writing within 60 days of the initial decision, and the appeals officer must make
+a decision to affirm or reverse the initial decision or remand the case back to the assistant director
+for further action. An applicant dissatisfied with the outcome of his or her appeal may seek
+judicial review in the U.S. District Court.
+Attorney’s Fees
+Applicants for RECA benefits and applicants filing appeals of benefit denials may be represented
+in all matters related to the program by licensed attorneys. In addition, Native American claimants
+may be represented by nonattorney representatives of tribal organizations. These are the only
+nonattorneys authorized to represent RECA claimants. Nonattorney representatives may not
+charge fees for their representation. The RECA statute provides the following limitations on fees
+that may be collected by licensed attorneys who represent RECA claimants:
+ for initial claims in which the attorney entered into a contract with the claimant
+on or after July 10, 2000, 2% of the benefits awarded;
+ for initial claims in which the attorney entered into a contract with the claimant
+before July 10, 2000, 10% of the benefits awarded; and
+ for the resubmission of previously denied claims, 10% of the benefits awarded.
+In the case of an unsuccessful claim, an attorney may recover his or her costs associated with
+representing the claimant. Pursuant to a 2007 decision by the U.S. Court of Appeals and
+subsequent regulations, an attorney representing a successful claimant may recover his or her
+expenses associated with the claim in addition to the 2% or 10% fee.24
+Potential Reauthorization and Outstanding Issues
+Members of Congress have introduced legislation to expand the eligibility area for downwinders
+and provide benefits to uranium workers who may have been exposed to radiation after 1971.
+While there have been no statutory changes to the RECA program since 2000, these outstanding
+issues will likely ensure that RECA remains on the congressional agenda and may be part of any
+attempts to reauthorize RECA beyond its 2022 sunset date.
+23 Additional information on the Radiation Exposure Screening and Education Program (RESEP) is available on the
+Department of Health and Human Services (HHS) website at http://www.hrsa.gov/gethealthcare/conditions/
+radiationexposure/index.html.
+24 Hackwell v. United States, 491 F.3d 1229 (10th Cir. 2007); and 28 C.F.R. §79.74(b).
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service 10
+Section 8(a) of RECA, as amended by P.L. 106-245, provides a filing deadline that is 22 years
+after the date of enactment of the 2000 amendments (July 10, 2000), while Section 5(a) of RECA
+provides for the same sunset date for the Radiation Exposure Compensation Trust Fund, which
+pays benefits to onsite participants and downwinders. DOJ has published a Notification of
+Procedures in the Federal Register indicating that RECA applications postmarked on or before
+July 11, 2022, will be accepted.25 Because the Radiation Exposure Compensation Trust Fund,
+which pays claims for downwinder and onsite participants, is also scheduled to sunset on July 10,
+2022, DOJ has issued the following statement regarding the timeliness of applications on its
+website:
+However, it is recommended that claims be delivered to the Department as soon as
+possible, because the trust fund that pays RECA claims sunsets on the same day as the
+filing deadline and it may not be possible to pay timely filed claims after the Trust Fund
+terminates…. The Department is working with Congress to try to address the fact that the
+trust fund is set to terminate on the same day as the filing deadline, but to date this issue
+remains unresolved.26
+Section 3147 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal
+Year 2021 (P.L. 116-283) expresses the sense of Congress that the federal government should
+continue to “appropriately compensate and recognize” persons affected by atmospheric atomic
+weapons testing and uranium industry work beyond the RECA program’s 2022 sunset date.
+On April 28, 2022, the Senate passed S. 4119, the RECA Extension Act of 2022. This bill, which
+has not been acted on in the House of Representatives, would extend the sunset dates of the
+RECA program and Radiation Exposure Compensation Trust Fund for an additional two years
+through July 10, 2024. This bill makes no other changes to the RECA program.
+Expansion of the Downwinder Eligibility Area
+Under current law, to qualify for RECA benefits as a downwinder, a person must have been
+present in one of the designated counties in Arizona, Nevada, or Utah during a period of
+atmospheric testing at NTS. Residents of other areas during testing, including some areas closer
+to NTS than the designated downwinder areas, areas near the Trinity test site in New Mexico, or
+residents of Guam who may have been affected by fallout from atomic weapons testing in the
+Pacific Ocean area, are not eligible for benefits, and new downwinder eligibility areas cannot be
+added to the program through regulation or executive action.
+However, even before RECA became a federal program, residents of areas outside of the current
+downwinder eligibility area had expressed concern about the health effects of fallout from atomic
+weapons testing and attempted to gain compensation from the federal government through the
+civil courts.27 The inability of downwinders to win civil judgments against either the federal
+government or atomic weapons testing contractors was one of the factors that led Congress to
+create the RECA program in 1990.28
+25 DOJ, “Radiation Exposure Compensation Act: Procedure for Claims Submitted at the Statutory Filing Deadline,” 85
+Federal Register 236, December 9, 2021.
+26 DOJ, Radiation Exposure Compensation Act, https://www.justice.gov/civil/common/reca.
+27 For additional information on the history of the downwinder movement, see A. Costadina Titus, Bombs in the
+Backyard: Atomic Testing and American Politics (Reno, NV: University of Nevada Press, 2001).
+28 Lawsuits against the federal government for damages related to atomic weapons testing were barred by the principle
+of sovereign immunity and the discretionary function exemption to the Federal Tort Claims Act (FTCA; see Allen v.
+United States, 816 F.2d 1417 (10th Cir. 1987) and In re Consolidated United States Atmospheric Testing Litigation, 820
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service 11
+Eligibility Areas in Early Legislation to Compensate Downwinders
+The first bills to provide compensation to civilian downwinders affected by atmospheric testing at
+NTS were introduced during the 96th Congress in 1979. In the House of Representatives, H.R.
+4766 would have made the United States liable for damages caused by atmospheric atomic testing
+at NTS to downwinders with cancer, onsite participants, and sheep herds damaged by
+atmospheric tests in 1953. Coverage under this bill would have been provided to downwinders
+with leukemia, thyroid cancer, bone cancer, or any other cancer that occurred more often in the
+affected area than would be expected as determined by the Secretary of Health, Education, and
+Welfare.
+The affected area for downwinder eligibility in H.R. 4766 was a rectangular area around NTS
+from 112 degrees to 117.5 degrees longitude and from 36.5 degrees to 39 degrees latitude. In
+addition to areas in Nevada, Utah, and a small part of Inyo County, California, this area includes
+the northern portions of Mohave and Coconino Counties in Arizona, but does not extend south as
+far as the Colorado River. The boundaries as proposed by H.R. 4766 are provided in the map in
+the Appendix.
+A companion Senate bill (S. 1865) also would have made the United States liable for damages to
+downwinders, onsite participants, and affected sheep herds as well as uranium miners. The bill
+would have created a federal advisory board with the authority to add to the list of specified
+cancers. The affected area for downwinder eligibility was expressed in terms of counties and
+other geographic features and included the following areas:
+ in Arizona, the area north of the Grand Canyon and west of the Colorado River;
+ in Nevada, the counties of Eureka, Lander, Lincoln, Nye, and White Pine; and
+ in Utah, the counties of Beaver, Carbon, Duchesne, Emery, Garfield, Grand, Iron,
+Kane, Juab, Millard, Piute, San Juan, Sanpete, Sevier, Uintah, Washington, and
+Wayne.
+In addition, the bill would have given the Secretary of Health, Education, and Welfare the
+authority to add to the list of affected areas.
+Eligibility Areas in the Original RECA Statute and the 2000 Amendments
+The original RECA statute included a smaller downwinder eligibility area than is currently
+covered by the program. Initially, only residents of the following areas were covered by RECA:
+ in Arizona, the area north of the Grand Canyon and west of the Colorado River;
+ in Nevada, the counties of Eureka, Lander, Lincoln, Nye, and White Pine and
+Clark County townships 13 through 16 at ranges 63 through 71; and
+ in Utah, the counties of Beaver, Garfield, Iron, Kane, Millard, Piute, and Sevier.
+The current downwinder eligibility area was established with the enactment of the 2000 RECA
+amendments, which added geographical areas in Arizona and Utah and created the current area
+F.2d 982 (9th Cir. 1987)). Lawsuits against atomic weapons testing contractors were barred by Section 1631 of the
+Department of Defense Authorization Act of 1985 (P.L. 98-525; commonly known as the Warner Amendment), which
+made lawsuits under the FTCA (already barred) the sole remedy for injuries due to exposure to radiation from atomic
+weapons tests thus providing immunity to any contractors involved in the atomic testing program. For additional
+information on the FTCA, see CRS Report R45732, The Federal Tort Claims Act (FTCA): A Legal Overview.
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service 12
+described in Table 3.29 The initial and current RECA downwinder eligibility areas are provided in
+the map in the Appendix.
+Legislative Attempts to Expand the Downwinder Eligibility Area
+Since the enactment of the 2000 RECA amendments, numerous bills have been introduced over
+multiple Congresses to expand the downwinder eligibility area. These bills would have expanded
+eligibility for NTS downwinders to persons who were living in Colorado, Idaho, Montana, and
+New Mexico as well as in the entire states of Arizona, Nevada, and Utah during periods of
+atmospheric atomic weapons testing at NTS. Additional legislation would have created
+downwinder eligibility for persons living in Guam during atomic weapons testing in the Pacific
+and for persons affected by fallout from the initial Trinity test in New Mexico.
+National Research Council Review of the RECA Downwinder Eligibility Area
+In 2002, in response to a congressional mandate contained in the House report to accompany the
+2002 Supplemental Appropriations Act for Further Recovery From and Response to Terrorist
+Attacks on the United States (P.L. 107-206), HRSA asked the National Research Council (NRC)
+Board on Radiation Effects Research to study scientific evidence related to the health effects of
+radiation exposure and make recommendations to Congress, including whether the RECA
+downwinder area should be expanded.30 The NRC issued its final report on this study in 2005.31
+The NRC concluded that any decisions on additional eligibility for downwinders should not be
+made solely on the basis of geographic area. Thus, it advised against simply adding more
+downwind counties. Citing studies showing that NTS fallout covered the entire country and that
+people living far beyond the current downwinder eligibility area may have been exposed to higher
+amounts of radiation, the NRC recommended an alternative science-based approach to
+determining downwinder eligibility for RECA benefits.
+Individuals’ exposure to fallout depended on multiple factors, including where they lived, the
+amount of time they spent outdoors, and their consumption of milk. That last factor is especially
+significant because the most important pathway of exposure was the ingestion of Iodine 131
+(131I)32 through the consumption of milk from cows and goats that ate contaminated vegetation.33
+To be equitable, the NRC report recommended that the RECA program use a model of probability
+of causation to evaluate individual claims for benefits instead of basing downwinder eligibility
+solely on geography and a presumption of eligibility. Under this model, each applicant’s
+29 The 2000 RECA amendments inadvertently excluded the portion of Mohave County, Arizona, that is north of the
+Grand Canyon that had been included in the original RECA legislation. This portion of Mohave County was added
+back to the downwinder eligibility area by Section 11007 of the 21st Century Department of Justice Appropriations
+Authorization Act (P.L. 107-273).
+30 U.S. Congress, House Committee on Appropriations, Making Supplemental Appropriations for Further Recovery
+From and Response to Terrorist Attacks on the United States for the Fiscal Year Ending September 30, 2002, and for
+Other Purposes, report to accompany H.R. 4775, 107th Cong., 2nd sess., May 20, 2002, H.Rept. 107-480, p. 38.
+31 National Research Council, Assessment of the Scientific Information for the Radiation Exposure Screening and
+Education Program, 2005.
+32 Iodine 131 is a radioactive isotope of the element iodine.
+33 National Cancer Institute, Estimated Exposures and Thyroid Doses Received by the American People from Iodine-
+131 in Fallout Following Nevada Atmospheric Nuclear Bomb Tests, October 1997. Additional information on this
+study, including detailed county-level data and an online calculator to estimate 131I doses, is available at
+http://www.cancer.gov/cancertopics/causes/i131.
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service 13
+individual absorbed dose of radionuclides would be estimated using geographic, demographic,
+and behavioral factors and every person in the country would be eligible to apply for benefits.
+This estimated dose would then be used to calculate, using established radio-epidemiology
+formulas developed by NCI, the probability that the individual’s specific type of cancer was
+caused by his or her exposure to ionizing radiation. Congress would then have to set the threshold
+at which to award benefits or perhaps award varying levels of benefits based on a sliding scale of
+probabilities.
+This model, which is similar to one of the methods used to determine eligibility for benefits under
+Part B of EEOICPA and for disability compensation provided by the VA, has never been part of
+the RECA program or its amendments to expand the downwinder area. No legislation has ever
+been introduced to convert RECA downwinder eligibility from a model based on geography to
+one based on the probability of causation. In addition, in both the EEOICPA and veterans’
+programs, the probability of causation model has been largely supplanted by a presumption of
+eligibility model similar to that used in RECA.34
+The presumptive eligibility model used by RECA may be favored by some advocates for
+compensation because the probability of causation model recommended by the NRC is likely to
+result in fewer successful claims. This is due to the generally low levels of radiation exposure
+from fallout and the fact that ionizing radiation is not an especially potent cancer-causing agent.
+In the executive summary to its report, the NRC states
+The scientific evidence indicates that in most cases it is unlikely that exposure to radiation
+from fallout was a substantial contributing cause to developing cancer. Moreover,
+scientifically based changes that Congress may make in the eligibility criteria for
+compensation in response to this report are likely to result in few successful claims. The
+committee is aware that such conclusion may be disappointing, but they have been reached
+in accordance with the committee’s charge to base its conclusions on the results of best
+available scientific information.35
+Benefits for Post-1971 Uranium Workers
+Under current law, RECA benefits for uranium miners, millers, and ore transporters are only
+available if the worker was exposed to radiation during uranium work before 1972. In the original
+RECA legislation, the December 31, 1971, cutoff date for uranium worker eligibility was selected
+because the federal government’s procurement of uranium for atomic weapons ended in 1971.
+Beginning in 1964 with the enactment of the Private Ownership of Special Nuclear Materials Act
+(P.L. 88-489), private ownership of uranium for fuel for nuclear power plants has been legal,
+creating an additional market for mined and milled uranium and ensuring that mining, milling,
+and transporting of uranium continued after the cutoff date for RECA eligibility.
+Since the enactment of the 2000 RECA amendments, legislation has been introduced in Congress
+to expand RECA eligibility to uranium workers who may have been exposed to radiation after
+34 In the case of the Energy Employees Occupational Illness Compensation Program Act (EEOICPA), the majority of
+cases paid have come through the Special Exposure Cohort process rather than the dose reconstruction process. In the
+case of veterans, the Radiation Exposed Veterans Compensation Act (REVCA; P.L. 100-321) was enacted in 1988 to
+provide a presumption of eligibility model for disability compensation benefits.
+35 National Research Council, Assessment of the Scientific Information for the Radiation Exposure Screening and
+Education Program, 2005, p. 4.
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service 14
+1971. Legislation has also been introduced to include uranium mine core drillers in the RECA
+program and to require research into the health effects of uranium tailing piles.
+Advocates for extending RECA eligibility for uranium work after 1971 argue that despite
+improved safety regulations enacted since 1971, including the enactment in 1977 of the Mine
+Safety and Health Act (P.L. 91-173), uranium workers, especially miners, remain at elevated risk
+for radon-induced diseases.36 For example, the current Mine Safety and Health Administration
+(MSHA) annual exposure limit for radiation of 4 WLM37 is higher than the annual exposure limit
+of 1 WLM recommended by the National Institute for Occupational Safety and Health (NIOSH),
+meaning that current uranium miners can be exposed to higher than recommended levels of radon
+while still being in compliance with federal safety standards.38
+The RECA program’s intent, as expressed in Section 2 of the statute, is to make “partial
+restitution” to persons who were affected by fallout from atomic weapons tests and uranium
+miners who were working in mines “that were providing uranium for the primary use and benefit
+of the nuclear weapons program of the United States Government,” in recognition that the “lives
+and health of uranium miners and of individuals who were exposed to radiation were subjected to
+increased risk of injury and disease to serve the national security interests of the United States.”
+An expansion of RECA to cover post-1971 uranium activities would largely cover workers in the
+commercial uranium sector, which would expand the program beyond its original statutory intent.
+In addition, illnesses contracted during uranium mining, milling, and ore transporting for
+commercial clients, rather than the federal government, would likely be covered by existing state
+workers’ compensation systems, which are the traditional means of providing medical benefits
+and compensation in cases of commercial workplace injuries, illnesses, or deaths.
+36 See, for example, Gary E. Madsen and Susan E. Dawson, “Unfinished Business: Radiation Exposure Compensation
+Act (RECA) for Post-1971 U.S. Uranium Underground Miners,” Journal of Health and Social Policy, vol. 19, no. 4
+(2004), pp. 45-59.
+37 30 C.F.R. §57.5038.
+38 National Institute for Occupational Safety and Health, A Recommended Standard for Occupational Exposure to
+Radon Progeny in Underground Mines, October 1987.
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service 15
+Appendix. RECA Program Data and Downwinder
+Area Map
+Table A-1. RECA Program Claims Data
+(as of May 2, 2022)
+Claim Type Pending Approved Denied Total
+Benefits
+Approved ($)
+Onsite Participant 86 5,213 3,740 9,039 380,654,399
+Downwinder 207 24,991 4,868 30,066 1,249,520,000
+Uranium Miner 132 6,814 4,007 10,953 680,674,560
+Uranium Miller 45 1,892 624 2,561 189,200,000
+Ore Transporter 11 392 164 567 39,200,000
+Total 481 39,302 13,403 53,186 2,539,248,959
+Source: Department of Justice, Radiation Exposure Compensation System, Awards to Date: Summary of Claims
+Received by 05/02/2022, May 3, 2022, https://www.justice.gov/civil/awards-date-050322.
+CRS-16
+Figure A-1. RECA Downwinder Area
+Source: Congressional Research Service.
+The Radiation Exposure Compensation Act (RECA)
+Congressional Research Service R43956 · VERSION 11 · UPDATED 17
+Author Information
+Scott D. Szymendera
+Analyst in Disability Policy
+Disclaimer
+This document was prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and
+under the direction of Congress. Information in a CRS Report should not be relied upon for purposes other
+than public understanding of information that has been provided by CRS to Members of Congress in
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not
+subject to copyright protection in the United States. Any CRS Report may be reproduced and distributed in
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or
+material from a third party, you may need to obtain the permission of the copyright holder if you wish to
+copy or otherwise use copyrighted material.

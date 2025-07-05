@@ -1,0 +1,749 @@
+1
+1 This table of contents is not part of the Act but is included for user convenience. The
+numbers in brackets refer to section numbers in title 7, United States Code.
+2 P.L. 98–8, 97 Stat. 13, March 24, 1983.
+EMERGENCY FOOD ASSISTANCE ACT OF 1983
+[Public Law 98–8; Enacted Sept. 2, 1983; 97 Stat. 608]
+[As Amended Through P.L. 118–22, Enacted November 17, 2023]
+øCurrency: This publication is a compilation of the text of Public Law 98–8. It was
+last amended by the public law listed in the As Amended Through note above and
+below at the bottom of each page of the pdf version and reflects current law
+through the date of the enactment of the public law listed at https://
+www.govinfo.gov/app/collection/comps/¿
+øNote: While this publication does not represent an official version of any Federal
+statute, substantial efforts have been made to ensure the accuracy of its contents.
+The official version of Federal law is found in the United States Statutes at Large
+and in the United States Code. The legal effect to be given to the Statutes at
+Large and the United States Code is established by statute (1 U.S.C. 112, 204).¿
+TABLE OF CONTENTS 1
+Sec. 201. ø7501 note¿ Short title.
+Sec. 201A. ø7501¿ Definitions.
+Sec. 202. ø7502¿ Availability of CCC commodities.
+Sec. 202A. ø7503¿ State plan.
+Sec. 203A. ø7504¿ Initial processing costs.
+Sec. 203B. ø7505¿ Federal and State responsibilities.
+Sec. 203C. ø7506¿ Assurances; anticipated use.
+Sec. 203D. ø7507¿ State and local supplementation of commodities.
+Sec. 204. ø7508¿ Authorization and appropriations.
+Sec. 205. ø7509¿ Relationship to other programs.
+Sec. 206. ø7510¿ Commodities not income.
+Sec. 208. ø7511¿ Prohibition against certain State charges.
+Sec. 209. ø7511a¿ Emergency food program infrastructure grants.
+Sec. 210. ø7512¿ Regulations.
+Sec. 211. ø7513¿ Finality of determinations.
+Sec. 213. ø7514¿ Incorporation of additional commodities.
+Sec. 214. ø7515¿ Required purchases of commodities.
+Sec. 215. ø7516¿ Settlement and adjustment of claims.
+AN ACT Making appropriations to provide productive employment for hundreds of
+thousands of jobless Americans, to hasten or initiate Federal projects and con-
+struction of lasting value to the Nation and its citizens, and to provide humani-
+tarian assistance to the indigent for fiscal year 1983, and for other purposes.
+TITLE II—EMERGENCY FOOD ASSISTANCE ACT OF 1983 2
+SEC. 201. ø7 U.S.C. 7501 note¿ This title may be cited as the
+‘‘Emergency Food Assistance Act of 1983’’, and is hereinafter in this
+title referred to as ‘‘this Act’’.
+SEC. 201A. ø7 U.S.C. 7501¿ DEFINITIONS.
+In this Act:
+VerDate Nov 24 2008 14:51 Nov 28, 2023 Jkt 000000 PO 00000 Frm 00001 Fmt 9001 Sfmt 9001 G:\COMP\FNS\EFAAO1.BEL HOLC
+November 28, 2023
+G:\COMP\FNS\EMERGENCY FOOD ASSISTANCE ACT OF 1983.XML
+As Amended Through P.L. 118-22, Enacted November 17, 2023
+2Sec. 201A EMERGENCY FOOD ASSISTANCE ACT OF 1983
+(1) ADDITIONAL COMMODITIES.—The term ‘‘additional com-
+modities’’ means commodities made available under section
+214 in addition to the commodities made available under sec-
+tions 202 and 203D.
+(2) AVERAGE MONTHLY NUMBER OF UNEMPLOYED PER-
+SONS.—The term ‘‘average monthly number of unemployed per-
+sons’’ means the average monthly number of unemployed per-
+sons in each State during the most recent fiscal year for which
+information concerning the number of unemployed persons is
+available, as determined by the Bureau of Labor Statistics of
+the Department of Labor.
+(3) ELIGIBLE RECIPIENT AGENCY.—The term ‘‘eligible recipi-
+ent agency’’ means a public or nonprofit organization that—
+(A) administers—
+(i) an emergency feeding organization;
+(ii) a charitable institution (including a hospital
+and a retirement home, but excluding a penal institu-
+tion) to the extent that the institution serves needy
+persons;
+(iii) a summer camp for children, or a child nutri-
+tion program providing food service;
+(iv) a nutrition project operating under the Older
+Americans Act of 1965 (42 U.S.C. 3001 et seq.), includ-
+ing a project that operates a congregate nutrition site
+and a project that provides home-delivered meals; or
+(v) a disaster relief program;
+(B) has been designated by the appropriate State
+agency, or by the Secretary; and
+(C) has been approved by the Secretary for participa-
+tion in the program established under this Act.
+(4) EMERGENCY FEEDING ORGANIZATION.—The term ‘‘emer-
+gency feeding organization’’ means a public or nonprofit organi-
+zation that administers activities and projects (including the
+activities and projects of a charitable institution, a food bank,
+a food pantry, a hunger relief center, a soup kitchen, or a simi-
+lar public or private nonprofit eligible recipient agency) pro-
+viding nutrition assistance to relieve situations of emergency
+and distress through the provision of food to needy persons, in-
+cluding low-income and unemployed persons.
+(5) FOOD BANK.—The term ‘‘food bank’’ means a public or
+charitable institution that maintains an established operation
+involving the provision of food or edible commodities, or the
+products of food or edible commodities, to food pantries, soup
+kitchens, hunger relief centers, or other food or feeding centers
+that, as an integral part of their normal activities, provide
+meals or food to feed needy persons on a regular basis.
+(6) FOOD PANTRY.—The term ‘‘food pantry’’ means a public
+or private nonprofit organization that distributes food to low-
+income and unemployed households, including food from
+sources other than the Department of Agriculture, to relieve
+situations of emergency and distress.
+(7) POVERTY LINE.—The term ‘‘poverty line’’ has the mean-
+ing provided in section 673(2) of the Community Services Block
+Grant Act (42 U.S.C. 9902(2)).
+VerDate Nov 24 2008 14:51 Nov 28, 2023 Jkt 000000 PO 00000 Frm 00002 Fmt 9001 Sfmt 9001 G:\COMP\FNS\EFAAO1.BEL HOLC
+November 28, 2023
+G:\COMP\FNS\EMERGENCY FOOD ASSISTANCE ACT OF 1983.XML
+As Amended Through P.L. 118-22, Enacted November 17, 2023
+3 Sec. 202EMERGENCY FOOD ASSISTANCE ACT OF 1983
+3 Sec. 1565 of the Food Security Act of 1985, P.L. 99–198, 99 Stat. 1591, Dec. 23, 1985, amend-
+ed this sec. by striking out ‘‘a’’ and by striking out subsec. (b).
+(8) SOUP KITCHEN.—The term ‘‘soup kitchen’’ means a pub-
+lic or charitable institution that, as an integral part of the nor-
+mal activities of the institution, maintains an established feed-
+ing operation to provide food to needy homeless persons on a
+regular basis.
+(9) TOTAL VALUE OF ADDITIONAL COMMODITIES.—The term
+‘‘total value of additional commodities’’ means the actual cost
+of all additional commodities that are paid by the Secretary
+(including the distribution and processing costs incurred by the
+Secretary).
+(10) VALUE OF ADDITIONAL COMMODITIES ALLOCATED TO
+EACH STATE.—The term ‘‘value of additional commodities allo-
+cated to each State’’ means the actual cost of additional com-
+modities allocated to each State that are paid by the Secretary
+(including the distribution and processing costs incurred by the
+Secretary).
+AVAILABILITY OF CCC COMMODITIES
+S EC. 202. ø7 U.S.C. 7502¿ (a) Notwithstanding any other provi-
+sion of law, in order to complement the domestic nutrition pro-
+grams, make maximum use of the Nation’s agricultural abundance,
+and expand and improve the domestic distribution of price-sup-
+ported commodities, commodities acquired by the Commodity Cred-
+it Corporation that the Secretary of Agriculture (hereinafter re-
+ferred to as the ‘‘Secretary’’) determines, in his discretion, are in
+excess of quantities needed to—
+(1) carry out other domestic donation programs,
+(2) meet other domestic obligations (including quantities
+needed to carry out a payment-in-kind acreage diversion pro-
+gram),
+(3) meet international market development and food aid
+commitments, and
+(4) carry out the farm price and income stabilization pur-
+poses of the Agricultural Adjustment Act of 1938, the Agricul-
+tural Act of 1949, and the Commodity Credit Corporation
+Charter Act,
+shall be made available by the Secretary, without charge or credit
+for such commodities, for use by eligible recipient agencies for food
+assistance.
+ø(b) 3¿
+(c) In addition to any commodities described in subsection (a),
+in carrying out this Act, the Secretary may use agricultural com-
+modities and the products thereof made available under clause (2)
+of the second sentence of section 32 of the Act entitled ‘‘An Act to
+amend the Agricultural Adjustment Act, and for other purposes’’,
+approved August 24, 1935 (7 U.S.C. 612c).
+(d) Commodities made available under this Act shall include a
+variety of commodities and products thereof that are most useful
+to eligible recipient agencies, including but not limited to, dairy
+products, wheat or the products thereof, rice, honey and cornmeal.
+VerDate Nov 24 2008 14:51 Nov 28, 2023 Jkt 000000 PO 00000 Frm 00003 Fmt 9001 Sfmt 9001 G:\COMP\FNS\EFAAO1.BEL HOLC
+November 28, 2023
+G:\COMP\FNS\EMERGENCY FOOD ASSISTANCE ACT OF 1983.XML
+As Amended Through P.L. 118-22, Enacted November 17, 2023
+4Sec. 202A EMERGENCY FOOD ASSISTANCE ACT OF 1983
+(e) Effective April 1, 1986, the Secretary shall submit semi-
+annually to the Committee on Agriculture of the House of Rep-
+resentatives and the Committee on Agriculture, Nutrition, and For-
+estry of the Senate a report on the types and amounts of commod-
+ities made available for distribution under this Act.
+(f) Notwithstanding any other provision of law, the programs
+authorized by sections 153 and 1163 of the Food Security Act of
+1985 (15 U.S.C. 713a–14 and 7 U.S.C. 1731 note) shall not be oper-
+ated in a manner that will, in any way, reduce the quantities of
+dairy products that traditionally are made available to carry out
+this Act or any other domestic feeding program.
+(g)(1) Whenever commodities acquired by the Commodity Cred-
+it Corporation are made available for donation to domestic food
+programs in quantities that exceed Federal obligations, the Sec-
+retary shall give equal consideration to making donations of such
+commodities to emergency feeding organizations participating in
+the program authorized by this Act as is given to other commodity
+recipient agencies, taking into account the types and amounts of
+commodities available and appropriate for distribution to these or-
+ganizations.
+(2) In determining the commodities that will be made available
+to emergency feeding organizations under this Act, the Secretary
+may distribute commodities that become available on a seasonal or
+irregular basis.
+(h) KOSHER AND HALAL FOOD.—As soon as practicable after the
+date of enactment of this subsection, the Secretary shall finalize
+and implement a plan—
+(1) to increase the purchase of Kosher and Halal food from
+food manufacturers with a Kosher or Halal certification to
+carry out the program established under this Act if the Kosher
+and Halal food purchased is cost neutral as compared to food
+that is not from food manufacturers with a Kosher or Halal
+certification; and
+(2) to modify the labeling of the commodities list used to
+carry out the program in a manner that enables Kosher and
+Halal distribution entities to identify which commodities to ob-
+tain from local food banks.
+SEC. 202A. ø7 U.S.C. 7503¿ STATE PLAN.
+(a) PLANS.—
+(1) IN GENERAL.—To receive commodities under this Act, a
+State shall submit to the Secretary an operation and adminis-
+tration plan for the provision of benefits under this Act.
+(2) UPDATES.—A State shall submit to the Secretary for
+approval any amendment to a plan submitted under paragraph
+(1) in any case in which the State proposes to make a change
+to the operation or administration of a program described in
+the plan.
+(b) REQUIREMENTS.—Each plan shall—
+(1) designate the State agency responsible for distributing
+the commodities received under this Act;
+(2) set forth a plan of operation and administration to ex-
+peditiously distribute commodities under this Act;
+VerDate Nov 24 2008 14:51 Nov 28, 2023 Jkt 000000 PO 00000 Frm 00004 Fmt 9001 Sfmt 9001 G:\COMP\FNS\EFAAO1.BEL HOLC
+November 28, 2023
+G:\COMP\FNS\EMERGENCY FOOD ASSISTANCE ACT OF 1983.XML
+As Amended Through P.L. 118-22, Enacted November 17, 2023
+5 Sec. 203BEMERGENCY FOOD ASSISTANCE ACT OF 1983
+4 Sec. 203 was repealed by sec. 1567(c) of the Food Security Act of 1985, P.L. 99–198, 99 Stat.
+1592, Dec. 23, 1985.
+(3) set forth the standards of eligibility for recipient agen-
+cies;
+(4) set forth the standards of eligibility for individual or
+household recipients of commodities, which shall require—
+(A) individuals or households to be comprised of needy
+persons; and
+(B) individual or household members to be residing in
+the geographic location served by the distributing agency
+at the time of applying for assistance;
+(5) at the option of the State agency, describe a plan of op-
+eration for 1 or more projects in partnership with 1 or more
+emergency feeding organizations located in the State to har-
+vest, process, package, or transport donated commodities re-
+ceived under section 203D(d); and
+(6) describe a plan, which may include the use of a State
+advisory board established under subsection (c), that provides
+emergency feeding organizations or eligible recipient agencies
+within the State an opportunity to provide input on the com-
+modity preferences and needs of the emergency feeding organi-
+zation or eligible recipient agency.
+(c) STATE ADVISORY BOARD.—The Secretary shall encourage
+each State receiving commodities under this Act to establish a
+State advisory board consisting of representatives of all entities in
+the State, both public and private, interested in the distribution of
+commodities received under this Act.
+ø PROCESSING AGREEMENTS ¿
+øSEC. 203. 4 ¿
+INITIAL PROCESSING COSTS
+SEC. 203A. ø7 U.S.C. 7504¿ The Secretary may use funds of
+the Commodity Credit Corporation to pay costs of initial processing
+and packaging of commodities to be distributed under the program
+established under this Act into forms, and in quantities, suitable,
+as determined by the Secretary, for use in individual households
+when such commodities are to be consumed by individual house-
+holds or for institutional use, as applicable. The Secretary may pay
+such costs in the form of Corporation-owned commodities equal in
+value to such costs. The Secretary shall ensure that any such pay-
+ments in kind will not displace commercial sales of such commod-
+ities.
+FEDERAL AND STATE RESPONSIBILITIES
+SEC. 203B. ø7 U.S.C. 7505¿ (a) The Secretary shall, as expedi-
+tiously as possible, provide the commodities made available under
+this Act in such quantities as can be used without waste to State
+agencies designated by the Governor or other appropriate State of-
+ficial for distribution to eligible recipient agencies, except that the
+Secretary may provide such commodities directly to eligible recipi-
+ent agencies and to private companies that process such commod-
+VerDate Nov 24 2008 14:51 Nov 28, 2023 Jkt 000000 PO 00000 Frm 00005 Fmt 9001 Sfmt 9001 G:\COMP\FNS\EFAAO1.BEL HOLC
+November 28, 2023
+G:\COMP\FNS\EMERGENCY FOOD ASSISTANCE ACT OF 1983.XML
+As Amended Through P.L. 118-22, Enacted November 17, 2023
+6Sec. 203C EMERGENCY FOOD ASSISTANCE ACT OF 1983
+ities for eligible recipient agencies under section 203A. Notwith-
+standing any other provision of this Act, in the distribution of com-
+modities under this Act, each State agency shall have the option
+to give priority to existing food bank networks and other organiza-
+tions whose ongoing primary function is to facilitate the distribu-
+tion of food to low-income households, including food from sources
+other than the Department of Agriculture.
+(b) State agencies receiving commodities under this Act shall,
+as expeditiously as possible, distribute such commodities, in the
+quantities requested (to the extent practicable), to eligible recipient
+agencies within their respective States. However, if a State agency
+cannot meet all requests for a particular commodity under this Act,
+the State agency shall give priority in the distribution of such com-
+modity to eligible recipient agencies providing nutrition assistance
+to relieve situations of emergency and distress through the provi-
+sion of food to needy persons, including low-income and unem-
+ployed persons. Each State agency shall encourage distribution of
+such commodities in rural areas.
+(c) Each State agency receiving commodities for individual
+household use under this Act shall distribute such commodities to
+eligible recipient agencies in the State that serve needy persons,
+and shall, with the approval of the Secretary, determine those per-
+sons in the State that shall qualify as needy persons eligible for
+such commodities.
+(d) Each State agency receiving commodities under this title
+may—
+(1) enter into cooperative agreements with State agencies
+of other States for joint provision of such commodities to an
+emergency feeding organization that serves needy persons in a
+single geographical area part of which is situated in each of
+such States; or
+(2) transfer such commodities to any such emergency feed-
+ing organization in the other State under such agreement.
+ASSURANCES; ANTICIPATED USE
+SEC. 203C. ø7 U.S.C. 7506¿ (a) The Secretary shall take pre-
+cautions as the Secretary deems necessary to assure that any eligi-
+ble recipient agency receiving commodities under this Act will pro-
+vide such commodities to persons served by the eligible recipient
+agency and will not diminish its normal expenditures for food by
+reason of the receipt of such commodities. The Secretary shall also
+take such precautions as the Secretary deems necessary to assure
+that commodities made available under this Act will not displace
+commercial sales of such commodities or the products thereof. The
+Secretary shall not make commodities available for donation in any
+quantity or manner that the Secretary, in the Secretary’s discre-
+tion, determines may, substitute for the same or any other agricul-
+tural produce that would otherwise be purchased in the market.
+(b) Commodities provided under this Act shall be distributed
+only in quantities that can be consumed without waste. No eligible
+recipient agency may receive commodities under this Act in excess
+of anticipated use, based on inventory records and controls, or in
+excess of its ability to accept and store such commodities.
+VerDate Nov 24 2008 14:51 Nov 28, 2023 Jkt 000000 PO 00000 Frm 00006 Fmt 9001 Sfmt 9001 G:\COMP\FNS\EFAAO1.BEL HOLC
+November 28, 2023
+G:\COMP\FNS\EMERGENCY FOOD ASSISTANCE ACT OF 1983.XML
+As Amended Through P.L. 118-22, Enacted November 17, 2023
+7 Sec. 203DEMERGENCY FOOD ASSISTANCE ACT OF 1983
+SEC. 203D. ø7 U.S.C. 7507¿ STATE AND LOCAL SUPPLEMENTATION OF
+COMMODITIES.
+(a) AUTHORIZATION.—The Secretary shall establish procedures
+under which State and local agencies, charitable institutions, or
+any other person may supplement the commodities distributed
+under the program authorized by this Act for use by emergency
+feeding organizations with nutritious and wholesome commodities
+that such entities or persons donate to State agencies and emer-
+gency feeding organizations for distribution, in all or part of the
+State, in addition to the commodities otherwise made available
+under this Act.
+(b) USE OF FUNDS AND FACILITIES.—States and emergency
+feeding organizations may use the funds appropriated under this
+Act and equipment, structures, vehicles, and all other facilities in-
+volved in the storage, handling, or distribution of commodities
+made available under this Act, and the personnel, both paid or vol-
+unteer, involved in such storage, handling, or distribution, to store,
+handle or distribute commodities donated for the use of emergency
+feeding organizations under subsection (a).
+(c) VOLUNTEER WORKERS.—State and emergency feeding orga-
+nizations shall continue, to the maximum extent practical, to use
+volunteer workers and commodities and other foodstuffs donated by
+charitable and other organizations in the operation of the program
+authorized by this section.
+(d) PROJECTS TO HARVEST, PROCESS, PACKAGE, OR TRANSPORT
+D ONATED COMMODITIES.—
+(1) DEFINITION OF PROJECT.—In this subsection, the term
+‘‘project’’ means the harvesting, processing, packaging, or
+transportation of unharvested, unprocessed, or unpackaged
+commodities donated by agricultural producers, processors, or
+distributors for use by emergency feeding organizations under
+subsection (a).
+(2) FEDERAL FUNDING FOR PROJECTS.—
+(A) I N GENERAL.—Subject to subparagraphs (B) and
+(C) and paragraph (3), using funds made available under
+paragraph (5), the Secretary may provide funding to States
+to pay for the costs of carrying out a project.
+(B) FEDERAL SHARE.—The Federal share of the cost of
+a project under subparagraph (A) shall not exceed 50 per-
+cent of the total cost of the project.
+(C) ALLOCATION.—
+(i) IN GENERAL.—Each fiscal year, the Secretary
+shall allocate the funds made available under subpara-
+graph (A), based on a formula determined by the Sec-
+retary, to States that have submitted a State plan de-
+scribing a plan of operation for a project under section
+202A(b)(5).
+(ii) REALLOCATION.—If the Secretary determines
+that a State will not expend all of the funds allocated
+to the State for a fiscal year under clause (i), the Sec-
+retary shall reallocate the unexpended funds to other
+States that have submitted under section 202A(b)(5) a
+State plan describing a plan of operation for a project
+VerDate Nov 24 2008 14:51 Nov 28, 2023 Jkt 000000 PO 00000 Frm 00007 Fmt 9001 Sfmt 9001 G:\COMP\FNS\EFAAO1.BEL HOLC
+November 28, 2023
+G:\COMP\FNS\EMERGENCY FOOD ASSISTANCE ACT OF 1983.XML
+As Amended Through P.L. 118-22, Enacted November 17, 2023
+8Sec. 203D EMERGENCY FOOD ASSISTANCE ACT OF 1983
+during that fiscal year or the subsequent fiscal year,
+as the Secretary determines appropriate.
+(iii) REPORTS.—Each State to which funds are al-
+located for a fiscal year under this subparagraph shall,
+on a regular basis, submit to the Secretary financial
+reports describing the use of the funds.
+(3) PROJECT PURPOSES.—A State may only use Federal
+funds received under paragraph (2) for a project the purposes
+of which are—
+(A) to reduce food waste at the agricultural production,
+processing, or distribution level through the donation of
+food;
+(B) to provide food to individuals in need; and
+(C) to build relationships between agricultural pro-
+ducers, processors, and distributors and emergency feeding
+organizations through the donation of food.
+(4) C OOPERATIVE AGREEMENTS.—The Secretary may en-
+courage a State agency that carries out a project using Federal
+funds received under paragraph (2) to enter into cooperative
+agreements with State agencies of other States under section
+203B(d) to maximize the use of commodities donated under the
+project.
+(5) FUNDING.—Out of funds not otherwise appropriated,
+the Secretary of the Treasury shall transfer to the Secretary to
+carry out this subsection $4,000,000 for each of fiscal years
+2019 through 2024, to remain available until the end of the
+subsequent fiscal year.
+(e) FOOD WASTE.—The Secretary shall issue guidance outlining
+best practices to minimize the food waste of the commodities do-
+nated under subsection (a).
+(f) FOOD DONATION STANDARDS.—
+(1) DEFINITIONS.—In this subsection:
+(A) APPARENTLY WHOLESOME FOOD.—The term ‘‘appar-
+ently wholesome food’’ has the meaning given the term in
+section 22(b) of the Child Nutrition Act of 1966 (42 U.S.C.
+1791(b)).
+(B) I NSTITUTION OF HIGHER EDUCATION.—The term ‘‘in-
+stitution of higher education’’ has the meaning given the
+term in section 102 of the Higher Education Act of 1965
+(20 U.S.C. 1002).
+(C) QUALIFIED DIRECT DONOR.—The term ‘‘qualified di-
+rect donor’’ means a retail food store, wholesaler, agricul-
+tural producer, restaurant, caterer, school food authority,
+or institution of higher education.
+(2) GUIDANCE.—
+(A) IN GENERAL.—Not later than 180 days after the
+date of enactment of the Agriculture Improvement Act of
+2018, the Secretary shall issue guidance to promote aware-
+ness of donations of apparently wholesome food protected
+under section 22(c) of the Child Nutrition Act of 1966 (42
+U.S.C. 1791(c)) by qualified direct donors in compliance
+with applicable State and local health, food safety, and
+food handling laws (including regulations).
+VerDate Nov 24 2008 14:51 Nov 28, 2023 Jkt 000000 PO 00000 Frm 00008 Fmt 9001 Sfmt 9001 G:\COMP\FNS\EFAAO1.BEL HOLC
+November 28, 2023
+G:\COMP\FNS\EMERGENCY FOOD ASSISTANCE ACT OF 1983.XML
+As Amended Through P.L. 118-22, Enacted November 17, 2023
+9 Sec. 204EMERGENCY FOOD ASSISTANCE ACT OF 1983
+(B) ISSUANCE.—The Secretary shall encourage State
+agencies and emergency feeding organizations to share the
+guidance issued under subparagraph (A) with qualified di-
+rect donors.
+AUTHORIZATION AND APPROPRIATIONS
+SEC. 204. ø7 U.S.C. 7508¿ (a)(1) There are authorized to be ap-
+propriated $100,000,000 for fiscal year 2008 and each fiscal year
+thereafter, for the Secretary to make available to the States to pay
+for the direct and indirect costs of the States related to the proc-
+essing, storage, transporting, and distributing to eligible recipient
+agencies of commodities provided by the Secretary under this Act
+and commodities secured from other sources, including commodities
+secured by gleaning (as defined in section 111(a) of the Hunger
+Prevention Act of 1988 (7 U.S.C. 612c note; Public Law 100–435))
+and donated wild game. Funds appropriated under this paragraph
+for any fiscal year shall be allocated to the States on an advance
+basis, dividing such funds among the States in the same propor-
+tions as the commodities distributed under this Act for such fiscal
+year are divided among the States. If a State agency is unable to
+use all of the funds so allocated to it, the Secretary shall reallocate
+such unused funds among the other States.
+(2) Each State shall make available to emergency feeding orga-
+nizations in the State not less than 40 per centum of the funds pro-
+vided as authorized in paragraph (1) that it has been allocated for
+a fiscal year, as necessary to pay for, or provide advance payments
+to cover, the direct expenses of the emergency feeding organiza-
+tions for distributing commodities to needy persons, but only to the
+extent such expenses are actually so incurred by such organiza-
+tions. As used in this paragraph, the term ‘‘direct expenses’’ in-
+cludes costs of transporting, storing, handling, repackaging, proc-
+essing, and distributing commodities incurred after they are re-
+ceived by the organization; costs associated with determinations of
+eligibility, verification, and documentation; costs of providing infor-
+mation to persons receiving commodities under this Act concerning
+the appropriate storage and preparation of such commodities; and
+costs of recordkeeping, auditing, and other administrative proce-
+dures required for participation in the program under this Act. If
+a State makes a payment, using State funds, to cover direct ex-
+penses of emergency feeding organizations, the amount of such
+payment shall be counted toward the amount a State must make
+available for direct expenses of emergency feeding organizations
+under this paragraph.
+(3) States to which funds are allocated for a fiscal year under
+this subsection shall submit financial reports to the Secretary, on
+a regular basis, as to the use of such funds. No such funds may
+be used by States or emergency feeding organizations for costs
+other than those involved in covering the expenses related to the
+distribution of commodities by emergency feeding organizations.
+(4)(A) Except as provided in subparagraph (B), effective Janu-
+ary 1, 1987, to be eligible to receive funds under this subsection,
+a State shall provide in cash or in kind (according to procedures
+approved by the Secretary for certifying these in-kind contribu-
+VerDate Nov 24 2008 14:51 Nov 28, 2023 Jkt 000000 PO 00000 Frm 00009 Fmt 9001 Sfmt 9001 G:\COMP\FNS\EFAAO1.BEL HOLC
+November 28, 2023
+G:\COMP\FNS\EMERGENCY FOOD ASSISTANCE ACT OF 1983.XML
+As Amended Through P.L. 118-22, Enacted November 17, 2023
+10Sec. 205 EMERGENCY FOOD ASSISTANCE ACT OF 1983
+5 Sec. 207 amended sec. 4(c) of the Agriculture and Consumer Protection Act of 1973.
+tions) from non-Federal sources a contribution equal to the dif-
+ference between—
+(i) the amount of such funds so received; and
+(ii) any part of the amount allocated to the State and paid
+by the State—
+(I) to emergency feeding organizations; or
+(II) for the direct expenses of such organizations;
+for use in carrying out this Act.
+(B)(i) Except as provided in clause (ii), subparagraph (A) shall
+apply to States beginning on January 1, 1987.
+(ii) If the legislature of a State does not convene in regular ses-
+sion before January 1, 1987, paragraph (1) shall apply to such
+State beginning on October 1, 1987.
+(C) Funds allocated to a State under this section may, upon
+State request, be allocated before States satisfy the matching re-
+quirement specified in subparagraph (A), based on the estimated
+contribution required. The Secretary shall periodically reconcile es-
+timated and actual contributions and adjust allocations to the State
+to correct for overpayments and underpayments.
+(5) States may not charge for commodities made available to
+emergency feeding organizations, and may not pass on to such or-
+ganizations the cost of any matching requirements, under this Act.
+(b) The value of the commodities made available under this Act
+and the funds of the Corporation used to pay the costs of initial
+processing, packaging (including forms suitable for home use), and
+delivering commodities to the States shall not be charged against
+appropriations made or authorized under this section.
+RELATIONSHIP TO OTHER PROGRAMS
+S EC. 205. ø7 U.S.C. 7509¿ (a) Section 4(b) of the Food and Nu-
+trition Act of 2008 shall not apply with respect to the distribution
+of commodities under this Act.
+(b) Except as otherwise provided in section 203A of this Act,
+none of the commodities distributed under this Act shall be sold or
+otherwise disposed of in commercial channels in any form.
+COMMODITIES NOT INCOME
+SEC. 206. ø7 U.S.C. 7510¿ Notwithstanding any other provision
+of law, commodities distributed under this Act shall not be consid-
+ered income or resources for any purposes under any Federal,
+State, or local law.
+øPENALTIES¿
+øSEC. 207. 5 ¿
+PROHIBITION AGAINST CERTAIN STATE CHARGES
+S EC. 208. ø7 U.S.C. 7511¿ Whenever a commodity is made
+available without charge or credit under any nutrition program ad-
+ministered by the Secretary for distribution within the States to el-
+igible recipient agencies, the State may not charge recipient agen-
+cies any amount that is in excess of the State’s direct costs of stor-
+VerDate Nov 24 2008 14:51 Nov 28, 2023 Jkt 000000 PO 00000 Frm 00010 Fmt 9001 Sfmt 9001 G:\COMP\FNS\EFAAO1.BEL HOLC
+November 28, 2023
+G:\COMP\FNS\EMERGENCY FOOD ASSISTANCE ACT OF 1983.XML
+As Amended Through P.L. 118-22, Enacted November 17, 2023
+11 Sec. 210EMERGENCY FOOD ASSISTANCE ACT OF 1983
+ing and transporting the commodities to recipient agencies minus
+any amount the Secretary provides the State for the costs of stor-
+ing and transporting such commodities.
+SEC. 209. ø7 U.S.C. 7511a¿ EMERGENCY FOOD PROGRAM INFRASTRUC-
+TURE GRANTS.
+(a) DEFINITION OF ELIGIBLE ENTITY.—In this section, the term
+‘‘eligible entity’’ means an emergency feeding organization.
+(b) P ROGRAM AUTHORIZED.—
+(1) IN GENERAL.—The Secretary shall use funds made
+available under subsection (d) to make grants to eligible enti-
+ties to pay the costs of an activity described in subsection (c).
+(2) RURAL PREFERENCE.—The Secretary shall use not less
+than 50 percent of the funds described in paragraph (1) for a
+fiscal year to make grants to eligible entities that serve pre-
+dominantly rural communities for the purposes of—
+(A) expanding the capacity and infrastructure of food
+banks, State-wide food bank associations, and food bank
+collaboratives that operate in rural areas; and
+(B) improving the capacity of the food banks to pro-
+cure, receive, store, distribute, track, and deliver time-sen-
+sitive or perishable food products.
+(c) USE OF FUNDS.—An eligible entity shall use a grant re-
+ceived under this section for any fiscal year to carry out activities
+of the eligible entity, including—
+(1) the development and maintenance of a computerized
+system for the tracking of time-sensitive food products;
+(2) capital, infrastructure, and operating costs associated
+with the collection, storage, distribution, and transportation of
+time-sensitive and perishable food products;
+(3) improving the security and diversity of the emergency
+food distribution and recovery systems of the United States
+through the support of small or mid-size farms and ranches,
+fisheries, and aquaculture, and donations from local food pro-
+ducers and manufacturers to persons in need;
+(4) providing recovered foods to food banks and similar
+nonprofit emergency food providers to reduce hunger in the
+United States;
+(5) improving the identification of—
+(A) potential providers of donated foods;
+(B) potential nonprofit emergency food providers; and
+(C) persons in need of emergency food assistance in
+rural areas; and
+(6) constructing, expanding, or repairing a facility or
+equipment to support hunger relief agencies in the community.
+(d) AUTHORIZATION OF APPROPRIATIONS.—There is authorized
+to be appropriated to carry out this section $15,000,000 for each of
+fiscal years 2008 through 2023.
+REGULATIONS
+SEC. 210. ø7 U.S.C. 7512¿ (a) The Secretary shall issue regula-
+tions within 30 days to implement this Act.
+(b) In administering this Act, the Secretary shall minimize, to
+the maximum extent practicable, the regulatory, recordkeeping,
+VerDate Nov 24 2008 14:51 Nov 28, 2023 Jkt 000000 PO 00000 Frm 00011 Fmt 9001 Sfmt 9001 G:\COMP\FNS\EFAAO1.BEL HOLC
+November 28, 2023
+G:\COMP\FNS\EMERGENCY FOOD ASSISTANCE ACT OF 1983.XML
+As Amended Through P.L. 118-22, Enacted November 17, 2023
+12Sec. 211 EMERGENCY FOOD ASSISTANCE ACT OF 1983
+6 Sec. 212 was struck by sec. 871(e)(4) of the Personal Responsibility and Work Opportunity
+Reconciliation Act of 1996, P.L. 104–193, 110 Stat. 2345, Aug. 22, 1996.
+and paperwork requirements imposed on eligible recipient agen-
+cies.
+(c)(1) The Secretary shall as early as feasible but not later than
+the beginning of each fiscal year, publish in the Federal Register
+an estimate of the types and quantities of commodities that the
+Secretary anticipates are likely to be made available under the
+commodity distribution program under this Act during the fiscal
+year.
+(2) The actual types and quantities of commodities made avail-
+able by the Secretary under this Act may differ from the estimates
+made under paragraph (1).
+(d) The regulations issued by the Secretary under this section
+shall include provisions that set standards with respect to liability
+for commodity losses under the program under this title in situa-
+tions in which there is no evidence of negligence or fraud, and con-
+ditions for payment to cover such losses. Such provisions shall take
+into consideration the special needs and circumstances of emer-
+gency feeding organizations.
+(e) The Secretary is authorized to issue final regulations with-
+out first issuing proposed regulations for public comment in order
+to carry out the provisions of sections 213 and 214. If final regula-
+tions are issued without such prior public comment the Secretary
+shall permit public comment on such regulations, consider perti-
+nent comments, and make modifications of such regulations as ap-
+propriate not later than 1 year after the date of enactment of this
+subsection. Such final and modified regulations shall be accom-
+panied by a statement of the basis and purpose for such regula-
+tions.
+FINALITY OF DETERMINATIONS
+SEC. 211. ø7 U.S.C. 7513¿ Determinations made by the Sec-
+retary of Agriculture under this Act and the facts constituting the
+basis for any donation of commodities under this Act, or the
+amount thereof, when officially determined in conformity with the
+applicable regulations prescribed by the Secretary, shall be final
+and conclusive and shall not be reviewable by any other officer or
+agency of the Government.
+ø PROGRAM TERMINATION ¿
+øSEC. 212. 6 ¿
+SEC. 213. ø7 U.S.C. 7514¿ INCORPORATION OF ADDITIONAL COMMOD-
+ITIES.
+(a) IN GENERAL.—The Secretary shall administer the program
+authorized under this Act in a manner that incorporates into the
+program additional commodities purchased by the Secretary under
+section 214 to be distributed to States for use in such States by
+emergency feeding organizations, as defined in section 201A(1).
+Such additional commodities, to the extent practicable and appro-
+priate, shall include commodities purchased within a given State
+for distribution within such State.
+VerDate Nov 24 2008 14:51 Nov 28, 2023 Jkt 000000 PO 00000 Frm 00012 Fmt 9001 Sfmt 9001 G:\COMP\FNS\EFAAO1.BEL HOLC
+November 28, 2023
+G:\COMP\FNS\EMERGENCY FOOD ASSISTANCE ACT OF 1983.XML
+As Amended Through P.L. 118-22, Enacted November 17, 2023
+13 Sec. 214EMERGENCY FOOD ASSISTANCE ACT OF 1983
+(b) SUPPLEMENT COMMODITIES AVAILABLE.—The Secretary
+shall supplement the commodities made available to emergency
+feeding organizations under sections 202 and 203D(a) with nutri-
+tious and useful commodities purchased by the Secretary under
+section 214.
+SEC. 214. ø7 U.S.C. 7515¿ REQUIRED PURCHASES OF COMMODITIES.
+(a) MANDATORY ALLOTMENTS.—In each fiscal year, the Sec-
+retary shall allot—
+(1) 60 percent of the total value of additional commodities
+provided to States in a manner such that the value of addi-
+tional commodities allocated to each State bears the same ratio
+to 60 percent of the total value of additional commodities as
+the number of persons in households within the State having
+incomes below the poverty line bears to the total number of
+persons in households within all States having incomes below
+such poverty line, and each State shall be entitled to receive
+such value of additional commodities; and
+(2) 40 percent of the total value of additional commodities
+provided to States in a manner such that the value of addi-
+tional commodities allocated to each State bears the same ratio
+to 40 percent of the total value of additional commodities as
+the average monthly number of unemployed persons within the
+State bears to the average monthly number of unemployed per-
+sons within all States during the same fiscal year, and each
+State shall be entitled to receive such value of additional com-
+modities.
+(b) REALLOCATION.—The Secretary shall notify each State of
+the amount of the additional commodities that such State is allot-
+ted to receive under subsection (a), and each State shall promptly
+notify the Secretary if such State determines that it will not accept
+any or all of the commodities made available under such allocation.
+On such a notification by a State, the Secretary shall reallocate
+and distribute the amount the State was allocated to receive under
+the formula prescribed in subsection (a) but declines to accept. The
+Secretary shall further establish procedures to permit States to de-
+cline to receive portions of such allocation during each fiscal year
+as the State determines is appropriate and the Secretary shall re-
+allocate and distribute such allocation. In the event of any drought,
+flood, hurricane, or other natural disaster affecting substantial
+numbers of persons in a State, county, or parish, the Secretary may
+request that States unaffected by such a disaster consider assisting
+affected States by allowing the Secretary to reallocate commodities
+to which each such unaffected State is entitled to States containing
+areas adversely affected by the disaster.
+(c) ADMINISTRATION.—
+(1) I N GENERAL.—Commodities made available for each fis-
+cal year under this section shall be delivered at reasonable in-
+tervals to States based on the grants calculated under sub-
+section (a), or reallocated under subsection (b), before Decem-
+ber 31 of the following fiscal year.
+(2) ENTITLEMENT.—Each State shall be entitled to receive
+the value of additional commodities determined under sub-
+section (a).
+VerDate Nov 24 2008 14:51 Nov 28, 2023 Jkt 000000 PO 00000 Frm 00013 Fmt 9001 Sfmt 9001 G:\COMP\FNS\EFAAO1.BEL HOLC
+November 28, 2023
+G:\COMP\FNS\EMERGENCY FOOD ASSISTANCE ACT OF 1983.XML
+As Amended Through P.L. 118-22, Enacted November 17, 2023
+14Sec. 215 EMERGENCY FOOD ASSISTANCE ACT OF 1983
+(d) MAINTENANCE OF EFFORT.—If a State uses its own funds to
+provide commodities or services to organizations receiving funds or
+services under this section, such State shall not diminish the level
+of support it provides to such organizations.
+SEC. 215. ø7 U.S.C. 7516¿ SETTLEMENT AND ADJUSTMENT OF CLAIMS.
+(a) IN GENERAL.—The Secretary or a designee of the Secretary
+shall have the authority to—
+(1) determine the amount of, settle, and adjust any claim
+arising under this Act; and
+(2) waive such a claim if the Secretary determines that to
+do so will serve the purposes of this Act.
+(b) LITIGATION.—Nothing contained in this section shall be con-
+strued to diminish the authority of the Attorney General of the
+United States under section 516 of title 28, United States Code, to
+conduct litigation on behalf of the United States.
+VerDate Nov 24 2008 14:51 Nov 28, 2023 Jkt 000000 PO 00000 Frm 00014 Fmt 9001 Sfmt 9001 G:\COMP\FNS\EFAAO1.BEL HOLC
+November 28, 2023
+G:\COMP\FNS\EMERGENCY FOOD ASSISTANCE ACT OF 1983.XML
+As Amended Through P.L. 118-22, Enacted November 17, 2023

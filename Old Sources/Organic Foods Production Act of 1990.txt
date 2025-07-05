@@ -1,0 +1,2189 @@
+
+S 2108 IS
+101st CONGRESS
+2d Session
+S. 2108
+To promote the production of organically produced foods through the
+establishment of a national standard production for organically produced
+products and providing for the labeling of organically produced products,
+and for other purposes.
+IN THE SENATE OF THE UNITED STATES
+February 8 (legislative day, JANUARY 23), 1990
+Mr. LEAHY (for himself, Mr. CRANSTON, Mr. HEFLIN, Mr. BENTSEN, Mr. WILSON,
+Mr. DASCHLE, Mr. CONRAD, Mr. PACKWOOD, Mr. HARKIN, Mr. PRYOR, Mr. KERREY,
+Mr. BOREN, Mr. SHELBY, Mr. BUMPERS, Mr. KOHL, Mr. LIEBERMAN, Mr. BAUCUS,
+Mr. KENNEDY, and Mr. KERRY) introduced the following bill; which was read
+twice and referred to the Committee on Agriculture, Nutrition, and Forestry
+A BILL
+To promote the production of organically produced foods through the
+establishment of a national standard production for organically produced
+products and providing for the labeling of organically produced products,
+and for other purposes.
+  Be it enacted by the Senate and House of Representatives of the United
+  States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+  This Act may be cited as the `Organic Foods Production Act of 1990'.
+SEC. 2. TABLE OF CONTENTS.
+  The table of contents is as follows:
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+Sec. 3. Findings and purposes.
+TITLE I--NATIONAL STANDARDS GOVERNING THE ORGANIC PRODUCTION OF AGRICULTURAL
+PRODUCTS
+Sec. 101. Definitions.
+Sec. 102. National organic production program.
+Sec. 103. Establishment of label.
+Sec. 104. General requirements.
+Sec. 105. State organic certification program.
+Sec. 106. Accreditation program.
+Sec. 107. Requirements of certifying agents.
+Sec. 108. Inspectors.
+Sec. 109. Peer review of certifying agents.
+Sec. 110. National standards for organic production.
+Sec. 111. National list.
+Sec. 112. Prohibited crop production practices and materials.
+Sec. 113. Contents of organic farm plan.
+Sec. 114. Animal production practices and materials.
+Sec. 115. Post-harvest handling.
+Sec. 116. Processing and marketing.
+Sec. 117. Labeling of ingredients.
+Sec. 118. Additional guidelines.
+Sec. 119. Other production and handling practices.
+Sec. 120. Violations of Act.
+Sec. 121. Citizen suits.
+Sec. 122. Administration.
+Sec. 123. Authorization of appropriations.
+TITLE II--NATIONAL BOARDS
+Sec. 201. Definitions.
+Sec. 202. National organic promotion program.
+Sec. 203. Issuance of orders.
+Sec. 204. Required terms of orders.
+Sec. 205. Initial national organic delegate body.
+Sec. 206. Duties of the delegate body.
+Sec. 207. Initial national organic board.
+Sec. 208. Initial organic standards board.
+Sec. 209. Referendum.
+Sec. 210. Establishment of national organic assembly.
+Sec. 211. Duties of national organic assembly.
+Sec. 212. National organic board.
+Sec. 213. Assessments.
+Sec. 214. Organic standards board.
+Sec. 215. Proposed national list.
+Sec. 216. Permissive terms of orders.
+Sec. 217. Petition and review.
+Sec. 218. Enforcement.
+Sec. 219. Investigations and power to subpoena.
+Sec. 220. Refund of assessments.
+Sec. 221. Suspension and termination.
+Sec. 222. Regulations.
+Sec. 223. Authorization of appropriations.
+TITLE III--LOW INPUT LABEL DEMONSTRATION PROGRAM
+Sec. 301. Definitions.
+Sec. 302. National label demonstration program.
+Sec. 303. Administration.
+Sec. 304. Establishment of labels.
+Sec. 305. Reports.
+Sec. 306. Authorization of appropriations.
+TITLE IV--NATIONAL LABORATORY ACCREDITATION
+Sec. 401. Purposes.
+Sec. 402. Definitions.
+Sec. 403. National laboratory accreditation program.
+Sec. 404. Accreditation.
+Sec. 405. Samples.
+Sec. 406. Application.
+Sec. 407. Reporting.
+Sec. 408. Fees.
+Sec. 409. Public disclosure.
+Sec. 410. Regulations.
+Sec. 411. Authorization of appropriations.
+Sec. 412. Effective date.
+SEC. 3. FINDINGS AND PURPOSES.
+  (a) FINDINGS- Congress finds that--
+  (1) consumers are demanding fresh and processed foods produced using
+  organic methods;
+  (2) organic farming methods promote more sustainable agricultural practices
+  than traditional farming methods using high levels of chemicals;
+  (3) existing rules that govern the labeling of fresh and processed food
+  do not provide national standards for food production;
+  (4) while some regional variation is necessary and desirable, current State
+  and private organizations have such differing organic definitions, standards,
+  and certification procedures that interstate commerce is hampered; and
+  (5) there is a need for a national program designed to standardize and
+  promote the production of food through organic and sustainable farming
+  methods.
+  (b) PURPOSES- It is the purpose of this Act--
+  (1) to establish national standards governing the labeling of certain
+  agricultural products as organically produced products;
+  (2) to provide consumers with reliable information concerning which products
+  are organically produced;
+  (3) to assure consumers that products labeled as organically produced are
+  not produced with, or handled with, compounds that cause adverse human
+  health or environmental effects;
+  (4) to encourage environmental stewardship through the increased adoption
+  of organic and sustainable farming methods;
+  (5) to assist emerging and important food industry sectors that produce,
+  process, and market organically produced products;
+  (6) to provide market incentives to encourage the use of organic and
+  sustainable farming practices;
+  (7) to preserve the integrity of organic food programs that have been
+  implemented by States and encourage other States to adopt organic food
+  programs;
+  (8) to facilitate interstate commerce in fresh and processed food that is
+  organically produced; and
+  (9) to establish accreditation procedures for laboratories that provide
+  certain chemical residue testing services.
+TITLE I--NATIONAL STANDARDS GOVERNING THE ORGANIC PRODUCTION OF AGRICULTURAL
+PRODUCTS
+SEC. 101. DEFINITIONS.
+  As used in this title:
+  (1) AGRICULTURAL PRODUCTS- The term `agricultural products' means any
+  agricultural commodity or product, whether raw or processed, including any
+  commodity or product derived from livestock, or fowl that is marketed in
+  the United States for human and livestock consumption.
+  (2) CERTIFYING AGENT- The term `certifying agent' means the chief executive
+  officer of a State or, in a State that provides for the Statewide election
+  of a Commissioner of Agriculture, the Commissioner of Agriculture,
+  or an individual (including private entities) who is accredited by the
+  Secretary as a certifying agent for the purpose of certifying a farm or
+  handling operation as an organically certified farm or handling operation
+  in accordance with this title.
+  (3) CERTIFIED ORGANIC FARM- The term `certified organic farm' means a farm,
+  or portion of a farm, that is certified by the certifying agent under this
+  title as utilizing a system of organic farming as described by this title.
+  (4) CERTIFIED ORGANIC HANDLING OPERATION- The term `certified organic
+  handling operation' means any operation, or portion of any handling
+  operation, that is certified by the certifying agent under this title as
+  utilizing a system of organic handling as described under this title.
+  (5) CROP YEAR- The term `crop year' means the normal growing season for
+  a crop as determined by the Secretary.
+  (6) GOVERNING STATE OFFICIAL- The term `governing State official' means the
+  chief executive official of a State or, in a State that provides for the
+  Statewide election of a Commissioner of Agriculture, the Commissioner of
+  Agriculture, who administers the organic certification program established
+  under section 102(a) and approved by the Secretary.
+  (7) GROWING MEDIUM- The term `growing medium' means a substance that provides
+  nutrients for plants or fungi but that is separate from the land surface.
+  (8) HANDLE- The term `handle' means to sell, process, or package organically
+  produced agricultural products.
+  (9) HANDLER- The term `handler' means any individual engaged in the business
+  of handling agricultural products.
+  (10) HANDLING OPERATION- The term `handling operation' means any operation
+  or portion of an operation that--
+  (A) receives or otherwise acquires agricultural products from the producer
+  of such products; and
+  (B) processes, packages, or stores such products.
+  (11) INDIVIDUAL- The term `individual' means a person, group of people,
+  corporation, association, organization, cooperative, or other entity.
+  (12) MICRONUTRIENTS- The term `micronutrients' means trace or minor elements
+  in the soil that are essential for normal plant growth.
+  (13) NATIONAL LIST- The term `National List' means a list of approved and
+  prohibited substances as provided for in section 111.
+  (14) ORGANIC FARM PLAN- The term `organic farm plan' means a plan of
+  management of an organic farm that has been agreed to by the producer
+  and the certifying agent and that includes written plans concerning all
+  aspects of agricultural production described in this title including crop
+  rotation and other practices as required under section 107.
+  (15) ORGANICALLY PRODUCED- The term `organically produced' means an
+  agriculture product that is produced using organic farming methods as
+  described in this title, on an organically certified farm and handled by
+  organically certified handling operations.
+  (16) ORGANICALLY PRODUCED LABEL- The term `organically produced label'
+  means a label that is established under section 103.
+  (17) PESTICIDE- The term `pesticide' means any substance which alone, in
+  chemical combination, or in any formulation with one or more substances,
+  is defined as a pesticide in the Federal Insecticide, Fungicide, and
+  Rodenticide Act (7 U.S.C. 136 et seq.).
+  (18) PROCESSING- The term `processing' means cooking, baking, heating,
+  drying, mixing, grinding, churning, separating, extracting, cutting,
+  fermenting, eviscerating, preserving, dehydrating, freezing, or otherwise
+  manufacturing, and includes the packaging, canning, jarring, or otherwise
+  enclosing food in a container.
+  (19) PRODUCER- The term `producer' means an individual who engages in the
+  business of growing or producing food for consumption by humans or livestock.
+  (20) SECRETARY- The term `Secretary' means the Secretary of Agriculture.
+  (21) STATE ORGANIC CERTIFICATION PROGRAM- The term `State organic
+  certification program' means a program that meets the requirements of
+  section 104, is approved by the Secretary, and that is designed to ensure
+  that a product that is labeled as `organically produced' under this title
+  is produced and handled using organic methods.
+  (22) SYNTHETIC- The term `synthetic' means a substance that is formulated or
+  manufactured by a process which chemically changes a substance extracted
+  from naturally occurring plant, animal, or mineral sources, excepting
+  microbiological processes.
+SEC. 102. NATIONAL ORGANIC PRODUCTION PROGRAM.
+  (a) IN GENERAL- The Secretary shall establish an organic certification
+  program for producers and handlers of agricultural products that have been
+  produced using organic methods as provided for in this title.
+  (b) STATE PROGRAM- In establishing the program under subsection (a), the
+  Secretary shall permit each State to implement a State organic certification
+  program for producers and handlers of agricultural products that have been
+  produced using organic methods as provided for in this title.
+  (c) CONSULTATION- In developing the program under subsection (a), and the
+  National List under section 111, the Secretary shall consult with any
+  Organic Standards Board or Initial Organic Standards Board established
+  under title II.
+  (d) LABELING- Each certifying agent may label agricultural products that
+  have been produced on organically certified farms and handled through
+  certified handling operations as `organically produced'.
+  (e) CERTIFICATION- Each certifying agent may certify a farm or handling
+  operation that meets the requirements of this title and the requirements
+  of the organic certification program of the State (if applicable) as an
+  organically certified farm or handling operation.
+SEC. 103. ESTABLISHMENT OF LABEL.
+  (a) IN GENERAL- The Secretary shall establish a label to be affixed to
+  agricultural products that have been produced on organically certified
+  farms and have been handled by organically certified handlers.
+  (b) CONTENT OF LABEL- The label established under subsection (a) shall
+  state that the agricultural product to which such label is affixed has
+  been `organically produced' and shall bear the seal of the Department
+  of Agriculture.
+  (c) AFFIXING LABEL-
+  (1) REQUIREMENT- The Secretary or certifying agent may affix such label
+  only on an agricultural product that has been produced and handled in
+  accordance with this title and the organic certification program of the
+  State (if applicable) that is implemented in accordance with this title.
+  (2) AFFIXATION- The Secretary or the certifying agent shall have the
+  exclusive authority to affix such label to an agricultural product.
+  (d) TAMPERING WITH LABEL- No individual may replicate, affix, or otherwise
+  tamper with an organically produced label in any manner other than a normal
+  consumer use, as determined by the Secretary.
+  (e) LIMITATION ON LABELING-
+  (1) RESTRICTION- On or after September 1, 1992, no individual may affix a
+  label to an agricultural product that implies, directly or indirectly, that
+  such product is organically, naturally, or ecologically produced, grown,
+  processed, or marketed, except in accordance with this title and under an
+  approved State organic certification program implemented under this title.
+  (2) EXEMPTION- Paragraph (1) shall not apply to individuals who sell
+  agricultural products at local farmers markets if compensation for the
+  sale of such products does not exceed $1,000 annually.
+  (3) EXEMPTION FOR IMPORTED PRODUCTS- Paragraph (1) shall not apply to
+  imported agricultural products with labels that imply that such product
+  is organically or naturally produced if the Secretary determines that
+  such products have been produced and handled under an organic program that
+  provides safeguards and guidelines governing the production and handling of
+  such products that are at least equivalent to the requirements of this Act.
+  (f) STATE LABEL- The certifying agent, on the approval of the Secretary,
+  may affix an additional label to an agricultural product that indicates
+  the State origin and certifying body of such product.
+SEC. 104. GENERAL REQUIREMENTS.
+  (a) IN GENERAL- A program established under this title shall--
+  (1) require that each agricultural product that bears an organically
+  produced label must--
+  (A) be produced only on organically certified farms and handled only through
+  organically certified handling operations in accordance with this title; and
+  (B) be produced and handled in accordance with such program;
+  (2) require that producers desiring to participate under such program
+  establish an organic farm plan under section 113;
+  (3) establish procedures that permit producers and handlers to appeal an
+  adverse administrative determination under this title;
+  (4) require that each organic farming operation or each organic handling
+  operation covered under such program certify to the Secretary, the governing
+  State official (if applicable), and the certifying agent on an annual basis,
+  that such producer or handler has not produced or handled any agricultural
+  product bearing an organically produced label except in accordance with
+  this title and any applicable State program;
+  (5) require annual on-site inspections of each farm and handling operation
+  that has been certified under this title;
+  (6) require periodic residue testing of agricultural products that have been
+  produced on organically certified farms and handled through organically
+  certified handling operations to determine whether such products contain
+  any pesticide or other nonorganic residue or natural toxicants;
+  (7) establish appropriate and adequate enforcement procedures, as determined
+  by the Secretary to be necessary and consistent with section 120;
+  (8) establish regulations to protect against conflict-of-interest as
+  specified under section 107(i);
+  (9) require public access to certification documents and laboratory analyses
+  that support certifications under this title; and
+  (10) require such other terms and conditions as may be determined by the
+  Secretary to be necessary.
+  (b) DISCRETIONARY REQUIREMENTS- An organic certification program established
+  under this title may--
+  (1) provide for the collection of reasonable fees from producers and
+  handlers who participate in such program; and
+  (2) provide for the certification of an entire farm or handling operation
+  or specific fields of a farm or parts of a handling operation if--
+  (A) in the case of a farm, the fields to be certified have distinct,
+  defined boundaries and buffer zones separating the land being operated
+  through the use of organic methods from land that is not being operated
+  through the use of such methods;
+  (B) in the case of a handling operation, the part of a handling operation
+  to be certified under this title is adequately separated, as determined
+  by the certifying agent, from other parts of the handling operation that
+  are not organically managed;
+  (C) the operators of such farm or handling operation maintain separate
+  records of all operations and make such records available at all times
+  for inspection by the Secretary, the certifying agent, and the governing
+  State official; and
+  (D) appropriate physical facilities, machinery, and management practices
+  are established to prevent the possibility of a mixing of organic and
+  nonorganic products or a penetration of prohibited chemicals or other
+  substances on the certified land or area.
+  (c) STATE PROGRAM- A State organic certification program approved under
+  this title may contain additional guidelines governing the production
+  or handling of products labeled as organically produced in such State as
+  required in section 105.
+SEC. 105. STATE ORGANIC CERTIFICATION PROGRAM.
+  (a) IN GENERAL- A State may establish a State organic certification program
+  that meets the requirements of this title.
+  (b) ADDITIONAL REQUIREMENTS-
+  (1) AUTHORITY- A State organic certification program established under
+  subsection (a) may contain more restrictive requirements governing the
+  organic certification of farms and handling operations and the production
+  and handling of agricultural products that are to be labeled as organically
+  produced under this title than are contained in the program established
+  by the Secretary.
+  (2) CONTENT- Additional requirements established under paragraph (1) shall--
+  (A) further the purposes of this title;
+  (B) not be inconsistent with this title;
+  (C) not be discriminatory towards agricultural commodities produced in
+  other States that are certified under this title; and
+  (D) be approved by the Secretary.
+  (c) SUBMISSION TO THE SECRETARY-
+  (1) INITIAL PLAN- The governing State official shall prepare and submit, to
+  the Secretary, a plan for the establishment of a State organic certification
+  program, and the Secretary shall approve or disapprove of such plan.
+  (2) SUBSEQUENT REVIEW- The Secretary shall review programs established under
+  plans approved under paragraph (1) not less than once during each 5-year
+  period following the date of the approval of such program under paragraph
+  (1).
+  (3) CHANGES IN PROGRAM- The governing State official, prior to implementing
+  any substantive change to programs approved under paragraph (1), shall
+  submit such change to the Secretary for approval.
+  (4) TIME FOR DETERMINATION- The Secretary shall make a determination
+  concerning any plan, proposed change to a plan, or a review of a plan
+  not later than 6 months after receipt of such plan, such proposed change,
+  or the initiation of such review.
+SEC. 106. ACCREDITATION PROGRAM.
+  (a) IN GENERAL- The Secretary shall establish and implement a program
+  to provide a governing State official or a private individual that meets
+  the requirements of this section, with an accreditation as a certifying
+  agent for the purpose of certifying a farm or handling operation as an
+  organically certified farm or handling operation.
+  (b) REQUIREMENTS- To be accredited as a certifying agent under this section,
+  a governing State official or private individual shall--
+  (1) prepare and submit, to the Secretary, an application for such
+  accreditation;
+  (2) have sufficient expertise in organic farming and handling techniques; and
+  (3) comply with the requirements of this title.
+  (c) DURATION OF DESIGNATION- An accreditation made under this section
+  shall be for a period of not to exceed 4 years, or a shorter period,
+  as determined appropriate by the Secretary.
+SEC. 107. REQUIREMENTS OF CERTIFYING AGENTS.
+  (a) ABILITY TO IMPLEMENT REQUIREMENTS- To be accredited as a certifying agent
+  under section 106, a governing State official or an individual must be able
+  to fully implement the organic labeling program established under this title.
+  (b) USE OF ORGANICALLY PRODUCED LABEL- A certifying agent shall use the
+  organically produced label only in accordance with this title and the
+  State organic certification program (if applicable).
+  (c) INSPECTORS- A certifying agent shall employ a sufficient number of
+  inspectors as necessary to implement the program established under this
+  title, as determined appropriate by the Secretary.
+  (d) RECORDKEEPING-
+  (1) MAINTENANCE OF RECORDS- A certifying agent shall maintain all records
+  concerning the activities of such agent under this title for a period of
+  not less than 10 years.
+  (2) ACCESS FOR SECRETARY- A certifying agent shall permit representatives
+  of the Secretary and the governing State official to have access to any
+  and all records concerning the activities of such agent under this title.
+  (3) TRANSFERENCE OF RECORDS- If a private individual that has been
+  accredited as a certified agent under section 106 is dissolved or loses
+  its accreditation, all records concerning activities of such individual
+  under this title shall become the property of the Secretary and shall be
+  transferred to the Secretary.
+  (e) AGREEMENT- A certifying agent shall enter into an agreement with the
+  Secretary under which, such agent shall--
+  (1) agree to carry out this title;
+  (2) agree to such other terms and conditions as the Secretary determines
+  appropriate; and
+  (3) agree to arrange for and submit, annually to the Secretary, the results
+  of an independent audit of the operations and activities of such agent
+  under this title.
+  (f) PRIVATE CERTIFYING AGENT AGREEMENT- A private individual that has
+  been accredited as a certifying agent under section 106, in addition to
+  the agreement required under subsection (e), shall--
+  (1) agree to hold the Secretary harmless for any failure on the part of
+  the agent to carry out this title; and
+  (2) furnish reasonable security, in an amount determined by the Secretary,
+  for the purpose of protecting the rights of participants in the program
+  established under this title and to hold the Secretary harmless for any
+  failure on the part of such agent to carry out this title.
+  (g) COMPLIANCE WITH STATE PROGRAM- A certifying agent shall fully comply
+  with the terms and conditions of the applicable State organic certification
+  program implemented under this title.
+  (h) CONFIDENTIALITY- Except as provided in section 104(a)(9), a certifying
+  agent shall maintain strict confidentiality, with respect to the clients
+  of such agent, and shall not disclose to third parties (with the exception
+  of the Secretary or the applicable governing State official) any business
+  related information concerning such client that was obtained while the
+  agent was implementing this title.
+  (i) CONFLICT OF INTEREST- A certifying agent shall not--
+  (1) carry out any inspections of any operation in which such agent,
+  or employee of such agent has, or has had, a commercial interest in,
+  including the provision of consultancy services by such agent;
+  (2) accept payment, gifts, or favors of any kind from the business inspected
+  that is in excess of prescribed fees; or
+  (3) provide advice concerning organic practices or techniques for a fee,
+  other than for fees established under such program.
+  (j) ADMINISTRATOR- A certifying agent that is a private individual shall
+  designate the person who controls the day to day operations of the agent and
+  who shall be responsible for all matters in connection with the activities
+  of the agent under this title.
+  (k) SALE OF NON-ORGANIC PRODUCTS- A certifying agent shall not permit any
+  individual certified by such agent under this title to deliver or sell
+  any agricultural commodities labeled as organically produced under this
+  title if such commodities do not meet the requirements of this title.
+  (l) LOSS OF ACCREDITATION-
+  (1) NONCOMPLIANCE- If the Secretary or the governing State official (if
+  applicable) determines that a certifying agent is not in compliance with
+  this title, the Secretary or such governing State official may suspend
+  the accredidation of such agent.
+  (2) EFFECT ON CERTIFIED OPERATIONS- If the accredidation of a certifying
+  agent is suspended under paragraph (1), the Secretary or the governing State
+  official (if applicable) shall promptly determine whether farming or handling
+  operations certified by such agent may retain their organic certification.
+SEC. 108. INSPECTORS.
+  (a) NUMBER- A certifying agent shall employ a sufficient number of inspectors
+  that have knowledge of organic farming or organic handling operations to
+  carry out this title, as determined appropriate by the Secretary and the
+  governing State official (if applicable).
+  (b) FARMING OPERATIONS- Inspectors employed by the certifying agent under
+  subsection (1) to inspect organic farming operations shall be qualified
+  to perform such inspections based on the education and training of such
+  inspectors, as determined appropriate by the Secretary and the governing
+  State official (if applicable). Such inspectors should have a minimum of
+  5 years experience in organic farming or organic production.
+  (c) HANDLING OPERATIONS- Inspectors employed by the certifying agent under
+  subsection (1) to inspect organic handling operations shall be qualified
+  to perform such inspection based on the education and training of such
+  inspectors, as determined appropriate by the Secretary and the governing
+  State official (if applicable). Such inspectors should have a minimum of 5
+  years experience in the organic production of food or in appropriate food
+  industry experience.
+  (d) LIST OF INSPECTORS- A certifying agent shall maintain a list of all
+  inspectors employed by such agent and shall furnish such list to the
+  Secretary and the governing State official (if applicable) annually.
+SEC. 109. PEER REVIEW OF CERTIFYING AGENTS.
+  (a) PEER REVIEW- In determining whether to approve an application for
+  accreditation submitted under section 106, the Secretary shall consider a
+  report concerning such applicant that shall be prepared by a peer review
+  panel established under subsection (b).
+  (b) PEER REVIEW PANEL- To assist the Secretary in evaluating applications
+  under section 106, the Secretary shall establish a panel of not less than
+  three persons who have expertise in organic farming and handling methods,
+  to evaluate the State or private individual that is seeking accredidation
+  as a certifying agent under such section. Not less than two members of
+  such panel shall be individuals who are not employees of the Department
+  of Agriculture or of the applicable State government.
+SEC. 110. NATIONAL STANDARDS FOR ORGANIC PRODUCTION.
+  (a) ORGANICALLY PRODUCED PRODUCTS- To be labeled as an organically produced
+  agricultural commodity under this title, such commodity shall meet the
+  minimum standards established under this section.
+  (b) PROHIBITED PRACTICES- To be labeled as an organically produced
+  agricultural product under this title, an agricultural commodity shall
+  not have been produced through the use of any production practices that
+  are prohibited under this title during the greater of 3 crop years or
+  3 calendar years prior to the crop year during which such agricultural
+  product is produced.
+  (c) HANDLING- To be labeled as an organically produced agricultural product
+  under this title, an agricultural commodity shall be handled in accordance
+  with this title and the applicable State organic certification program.
+  (d) SYNTHETIC CHEMICALS- To be labeled as an organically produced
+  agricultural product under this title, an agricultural commodity shall
+  have been produced--
+  (1) without the use of synthetic chemicals; and
+  (2) on land that has not had synthetic chemicals applied during the greater
+  of 3 crop years or 3 calendar years prior to the crop year during which
+  such product is produced.
+  (e) SOIL QUALITY- To be labeled as an organically produced agricultural
+  product under this title, an agricultural commodity shall not have been
+  produced on soil or in any growing medium that has been determined by the
+  certifying agent (after appropriate soil testing) to contain levels of
+  chemical residue that are likely to result in unsafe residue levels in
+  any food produced on such soil.
+  (f) SOIL BUILDING- To be labeled as an organically produced agricultural
+  product under this title, an agricultural commodity shall have been produced
+  using practices that replenish and maintain soil fertility by providing
+  optimal conditions for soil biological activity.
+  (g) COMPLIANCE WITH ORGANIC FARM PLAN- To be labeled as an organically
+  produced agricultural product under this title, an agricultural commodity
+  shall be produced in compliance with an organic farm plan agreed to by the
+  producer of such product and the governing State official (if applicable).
+SEC. 111. NATIONAL LIST.
+  (a) IN GENERAL- The Secretary shall establish a National List of approved
+  and prohibited substances that shall be included in the standards for
+  organic production established under this title in order for such products
+  to be labeled as organically produced under this title.
+  (b) CONTENT OF LIST-
+  (1) ITEMIZATION OF SUBSTANCES- The List established under subsection (a)
+  shall contain an itemization of--
+  (A) the specific synthetic substances that may be used in the production
+  and handling of agricultural products labeled as organically produced
+  under this title, even though the use of such substances is prohibited
+  elsewhere in this title; or
+  (B) the specific natural substances that may not be used in the production
+  and handling of agricultural products labeled as organically produced under
+  this title, even though the use of such substances would be allowed under
+  other provisions of this title.
+  (2) SPECIFIC USES- An exemption granted under paragraph (1)(A) or the
+  prohibition contained in paragraph (1)(B) with respect to a specific
+  synthetic or natural substance shall be limited to a specific use of such
+  substance in a farming or handling operation.
+  (c) GUIDELINES FOR PROHIBITIONS OR EXEMPTIONS-
+  (1) EXEMPTION FOR PROHIBITED SUBSTANCES- The National List may provide
+  for the use of substances in an organic farming or handling operation that
+  are otherwise prohibited under this title only if--
+  (A) the Secretary determines that the use of such substances--
+  (i) would not be harmful to human health or the environment;
+  (ii) is necessary to the production or handling of the crop because of
+  the unavailability of wholly natural substitute products; and
+  (iii) is consistent with organic farming procedures; and
+  (B) the specific exemption is developed using the procedures described in
+  subsection (d).
+  (2) PROHIBITION OF USE OF SPECIFIC NATURAL SUBSTANCES- The National List
+  may provide for the prohibition of the use of specific natural substances
+  in an organic farming or handling operation that are otherwise permitted
+  under this title only if--
+  (A) the Secretary determines that the use of such substances--
+  (i) would be harmful to human health or the environment; and
+  (ii) is inconsistent with organic farming procedures and the purposes of
+  this title; and
+  (B) the specific prohibition is developed using the procedures described
+  in subsection (d).
+  (d) PROCEDURE FOR ESTABLISHING NATIONAL LIST-
+  (1) IN GENERAL- The National List established by the Secretary shall be
+  based on a proposed national list or proposed amendments to the National
+  List that is developed by the Organic Standards Board (or the Initial
+  Organic Standards Board, as applicable).
+  (2) NO ADDITIONS- The Secretary shall not include exemptions for the use
+  of specific synthetic substances in the National List other than those
+  exemptions contained in the proposed national list or proposed amendments
+  to the National List.
+  (3) NOTICE AND COMMENT- Prior to establishing the National List or making
+  amendments to such, the Secretary shall provide for the publishing of the
+  proposed national list or any proposed amendments to the National List
+  in the Federal Register and seek public comment on such proposals. The
+  Secretary shall include in such publication any changes to such proposed
+  list or amendments recommended by the Secretary.
+  (4) PUBLICATION OF NATIONAL LIST- After evaluating all comments received
+  concerning the proposed national list or proposed amendments to the National
+  List, the Secretary shall publish the final National List in the Federal
+  Register, together with a discussion of comments received.
+  (e) SUNSET PROVISION- No exemption or prohibition contained in the National
+  List shall be valid unless the National Organic Board has reviewed such
+  exemption or prohibition as required under title II within 5 years of such
+  exemption or prohibition being adopted.
+SEC. 112. PROHIBITED CROP PRODUCTION PRACTICES AND MATERIALS.
+  (a) SEED, SEEDLINGS AND PLANTING PRACTICES-
+  (1) PROHIBITED PRACTICES- For a farm to be certified under this title,
+  producers on such farm shall not--
+  (A) use synthetic pesticides or soil fumigants in any seedlings or plant
+  materials produced on such farm for organic production;
+  (B) except as provided in paragraph (2), use
+  synthetic-pesticide-treated-seeds; or
+  (C) apply materials to, or engage in practices on, seeds or seedlings
+  that are determined by the Secretary or by the applicable governing
+  State official to be contrary to, or inconsistent with, this title or the
+  applicable State organic certification program.
+  (2) SYNTHETIC-PESTICIDE-TREATED-SEED- A producer may use specific
+  synthetic-pesticide-treated-seed on such farm under paragraph (1) prior to
+  January 1, 1995, if such specific use is authorized under the applicable
+  State organic certification program.
+  (b) IRRIGATION WATER- For a farm to be certified under this title,
+  producers on such farm shall not use irrigation water for the production
+  of agricultural products unless such water has been analyzed for quality,
+  salinity, and purity and such analysis has been submitted for the approval
+  of the certifying agent.
+  (c) SOIL AMENDMENTS- For a farm to be certified under this title, producers
+  on such farm shall not--
+  (1) use any fertilizers containing synthetic ingredients or any commercially
+  blended fertilizers containing materials prohibited under this title or
+  under the applicable State organic certification program;
+  (2) use as a source of nitrogen--
+  (A) anhydrous ammonia;
+  (B) ammonium nitrate;
+  (C) contaminated organic materials; or
+  (D) mixed synthetic sources of soluble nitrates at high concentrations
+  for the sole purpose of increasing production;
+  (3) use as a source of phosphorus--
+  (A) ordinary or triple superphosphate; or
+  (B) any excessively soluble material, acidifying material, or both, with
+  a high salt index;
+  (4) use quicklime or slaked or hydrated lime applied to the soil as a
+  source of calcium;
+  (5) use as a source of micronutrients--
+  (A) chemically fortified liquid; or
+  (B) excessive doses of any micronutrient, as determined by the certifying
+  agent; and
+  (6) use any synthetic growth promoters or synthetic growth regulators.
+  (d) CROP MANAGEMENT-
+  (1) PEST CONTROL- For a farm to be certified under this title, producers
+  on such farm shall not--
+  (A) use synthetic pesticides;
+  (B) use traps containing prohibited pesticides, unless authorized in
+  writing by the applicable governing State official with the approval of
+  the Secretary; and
+  (C) use natural poisons such as arsenic or lead salts that have long-term
+  effects and persist in the environment, as determined by the applicable
+  governing State official or the Secretary.
+  (2) WEED CONTROL- For a farm to be certified under this title, producers
+  on such farm shall not--
+  (A) use synthetic or petroleum-distillate pesticides;
+  (B) use synthetic growth regulators;
+  (C) use micronutrients at toxic levels to kill weeds in crops that tolerate
+  excess micronutrients, such as boron in beet production, as determined by
+  the applicable governing State official or the Secretary; or
+  (D) use plastic mulches, unless such mulches are removed at the end of
+  each growing or harvest season.
+  (3) DISEASE CONTROL- For a farm to be certified under this title,
+  producers on such farm shall not use synthetic fungicides, fumigants,
+  synthetic sterilizing agents, or synthetic bactericidal agents for the
+  purpose of controlling diseases.
+SEC. 113. CONTENTS OF ORGANIC FARM PLAN.
+  (a) IN GENERAL- A producer seeking certification under this title shall
+  submit an organic farm plan to the certifying agent that meets the
+  requirements of this title and the State organic certification program
+  (if applicable), and such plan shall be reviewed by the certifying agent
+  who shall determine if such plan meets the requirements of such programs.
+  (b) SOIL FERTILITY- An organic farm plan shall contain provisions designed
+  to foster soil fertility, primarily through the management of the organic
+  content of the soil through proper tillage, crop rotation, and manuring.
+  (c) CROP ROTATION- An organic farm plan shall require producers to rotate,
+  according to an established crop rotation plan, each crop, except--
+  (1) perennial crops;
+  (2) crops included in a permaculture system;
+  (3) crops grown in a container or other growing medium; or
+  (4) crops grown on a non-rotating basis in accordance with regional organic
+  practices, as determined by the applicable governing State official or
+  the Secretary.
+  (d) CROP ROTATION PLAN- An organic farm plan shall include a crop rotation
+  plan that has been agreed to by the producer and the applicable governing
+  State official.
+  (e) MANURING-
+  (1) INCLUSION IN ORGANIC FARM PLAN- An organic farm plan shall contain
+  terms and conditions that regulate the application of manure to crops.
+  (2) APPLICATION OF MANURE- Such organic farm plan shall provide that raw
+  manure may be applied to--
+  (A) any green manure crop;
+  (B) any perennial crop;
+  (C) any crop not for human consumption; and
+  (D) any crop for human consumption, if such crop is harvested after a
+  reasonable period of time after the most recent application of raw manure,
+  determined by the certifying agent to ensure the safety of such crop, but
+  in no event shall such period be less than 60 days after such application.
+  (3) CONTAMINATION BY MANURE- Such organic farm plan shall prohibit raw manure
+  from being applied to any crop in a way that significantly contributes to
+  water contamination by nitrates.
+  (f) LIMITATION ON CONTENT OF PLAN- An organic farm plan shall not include
+  any production practices that are inconsistent with this title and the
+  applicable State organic certification program.
+SEC. 114. ANIMAL PRODUCTION PRACTICES AND MATERIALS.
+  (a) ORGANICALLY PRODUCED LIVESTOCK PRODUCTS-
+  (1) SLAUGHTER LIVESTOCK-
+  (A) RAISED IN ACCORDANCE WITH TITLE- Except as provided in subparagraph
+  (B), any meat, poultry, wild or domesticated game, or other nonplant life
+  that is to be slaughtered and sold as organically produced shall be raised
+  in accordance with this title.
+  (B) EXCEPTION- With respect to any meat, poultry, wild or domesticated game,
+  or other nonplant life that is to be slaughtered and sold as organically
+  produced prior to January 1, 1995, such livestock shall be raised in
+  accordance with this title for a minimum of the final 60 percent of the
+  slaughter weight of such livestock.
+  (2) LAYING LIVESTOCK-
+  (A) ORGANICALLY MANAGED- Except as provided in subparagraph (B), any poultry
+  from which eggs will be labeled as organically produced, shall be managed
+  in accordance with this subsection prior to and during the period in which
+  such eggs are sold.
+  (B) EXCEPTION- Any poultry from which eggs will be labeled as organically
+  produced prior to January 1, 1995, shall be managed in accordance with
+  this subsection for not less than a 4-month period prior to the sale of
+  such eggs and during the period in which such eggs are sold.
+  (3) DAIRY LIVESTOCK-
+  (A) ORGANICALLY MANAGED- Except as provided in paragraph (B), any dairy cow
+  from which milk and milk products will be labeled as organically produced,
+  shall be raised in accordance with this title prior to the sale of such
+  milk and continuously thereafter.
+  (B) EXCEPTION- Any dairy cow from which milk and milk products will be
+  labeled `organically produced' prior to January 1, 1995, must be raised
+  in accordance with this title for not less than a 12-month period prior
+  to the sale of such milk and continuously thereafter.
+  (b) FEED-
+  (1) ORGANICALLY PRODUCED FEED- For a farm that produces livestock to be
+  certified under this title, producers on such farm shall feed such livestock
+  organically produced feed that meets the requirements of this title.
+  (2) PROHIBITED FEED- For a farm that produces livestock to be organically
+  certified under this title, producers on such farm shall not use the
+  following feed--
+  (A) plastic pellets for roughage;
+  (B) manure refeeding;
+  (C) any synthetic compounds;
+  (D) feed formulas containing urea;
+  (E) milk from livestock receiving antibiotics; or
+  (F) any feed or milk replacement formula that contains synthetic chemicals.
+  (c) SUPPLEMENTS- For a farm that produces livestock to be organically
+  certified under this title, producers on such farm shall not use growth
+  promoters and hormones, whether implanted, ingested, or injected, including
+  antibiotics and trace elements used to stimulate growth or production of
+  livestock covered by this title.
+  (d) HEALTH CARE-
+  (1) PROHIBITED PRACTICES- For a farm that produces livestock to be
+  organically certified under this title, producers on such farm shall not--
+  (A) use synthetic pesticides;
+  (B) use subtherapeutic doses of antibiotics;
+  (C) use internal parasiticides on a routine basis;
+  (D) administer medication other than vaccinations in the absence of illness
+  as diagnosed by a veterinarian; or
+  (E) administer any vaccinations other than forward of the shoulder area.
+  (2) TREATED ANIMALS- No product from any livestock that has been administered
+  antibiotics in accordance with paragraph (1) shall be labeled as organically
+  produced until at least 120 days has elapsed from the time such antibiotic
+  was administered and such product is prepared for market.
+  (e) DRINKING WATER-
+  (1) ANALYSIS OF DRINKING WATER- A certifying agent may require, in order
+  for a farm to be organically certified under this title, that producers on
+  such farm submit for analysis any water to be made available for livestock
+  covered by this title for the purpose of determining the quality, salinity,
+  and purity of such water and the presence of pesticides and nitrates in
+  such water.
+  (2) IMPURE WATER- A farm shall not be certified under this title with respect
+  to livestock if the certifying agent determines that drinking water to be
+  made available to the livestock covered by this title is contaminated.
+  (f) LIVESTOCK IDENTIFICATION-
+  (1) IN GENERAL- For a farm that produces livestock to be certified under
+  this title, producers on such farm shall ensure that each slaughter animal
+  is identifiable from birth through processing.
+  (2) RECORDS- To carry out paragraph (1), each producer shall keep accurate
+  records on each slaughter animal including--
+  (A) dates;
+  (B) amounts and sources of all medications administered;
+  (C) all feeds bought and fed;
+  (D) all feed supplements used;
+  (E) the weight of each slaughter animal on entering organic production; and
+  (F) the weight of each animal at slaughter.
+SEC. 115. POST-HARVEST HANDLING.
+  (a) IN GENERAL- For a farm or handling operation to be organically certified
+  under this title, producers on such farm or an individual on such handling
+  operation shall not apply to any agricultural product covered by this
+  title at any point during post-harvest handling, transportation, or storage--
+  (1) synthetic fumigants;
+  (2) sprouting inhibitors, ripeners, or growth regulators;
+  (3) preservatives;
+  (4) coloring agents; or
+  (5) waxes (except beeswax) or oils.
+  (b) MEAT- For a farm or handling operation to be organically certified
+  under this title, producers on such farm or individual on such handling
+  operation shall ensure that organically produced meat does not come in
+  contact with nonorganically produced meat.
+SEC. 116. PROCESSING AND MARKETING.
+  For a handling operation to be certified under this title, each individual
+  on such handling operation shall not, with respect to any agricultural
+  product covered by this title--
+  (1) add any synthetic ingredient, including preservatives, coloring,
+  flavoring, texturizers, or emulsifiers, during the processing or marketing
+  of the product;
+  (2) add any ingredient known to contain excessive levels of nitrates,
+  heavy metals, or toxic residues;
+  (3) add any sulfites, nitrates, or nitrites;
+  (4) add any ingredients that are not organically produced in accordance
+  with this title and the applicable State organic certification program,
+  unless such ingredients are approved by the Secretary or the applicable
+  governing State official, and unless such ingredients are included in the
+  National List;
+  (5) use any packaging materials that contain fungicides, preservatives,
+  or other chemical additives; or
+  (6) use any bag or container that had previously been in contact with any
+  substance that could compromise the organic quality of such product.
+SEC. 117. LABELING OF INGREDIENTS.
+  A processed agricultural product labeled as organically produced under
+  this title shall not be sold or distributed for sale unless such product
+  contains a label describing each ingredient contained in such product and
+  the approximate percentage component of each such ingredient.
+SEC. 118. ADDITIONAL GUIDELINES.
+  (a) IN GENERAL- The Secretary, the governing State official, and the
+  certifying agent shall utilize a system of residue testing to test products
+  labeled as organically produced under this title to assist in the enforcement
+  of this title.
+  (b) RESIDUE TESTING- If the Secretary, the applicable governing State
+  official, or the certifying agent determines that an agricultural product
+  labeled as organically produced under this title--
+  (1) contains any detectable pesticide or other nonorganic residue, the
+  Secretary, the applicable governing State official, or the certifying agent
+  shall conduct an investigation to determine if the organic certification
+  program has been violated, and may require the producer or handler of such
+  product to prove that such nonorganic residue or pesticide was not applied
+  to such product; and
+  (2) contains any pesticide or other nonorganic residue in excess of 5
+  percent of the tolerance level established by the Administrator of the
+  Environmental Protection Agency for that substance in food, or 5 percent of
+  the action level for food as established by the Administrator of the Food
+  and Drug Administration, such agricultural product shall not be labeled
+  as organically produced under this title.
+  (c) RECORDKEEPING REQUIREMENTS- Producers who operate certified farming or
+  handling operations under this title shall maintain records covering the
+  5-year period immediately preceding certification concerning the production
+  or handling of agricultural products labeled as organically produced under
+  this title by such operation, including--
+  (1) a detailed history of substances applied to fields or agricultural
+  products; and
+  (2) the names of persons who applied such substances, the dates, the rate
+  and method of application of such substances.
+SEC. 119. OTHER PRODUCTION AND HANDLING PRACTICES.
+  If a production or handling practice is not prohibited or otherwise
+  restricted under this title, such practice shall be permitted unless the
+  Secretary or the applicable governing State official determines that such
+  practice would be inconsistent with the purposes of this title.
+SEC. 120. VIOLATIONS OF TITLE.
+  (a) MISUSE OF LABEL- Any individual who misuses, affixes, or otherwise
+  tampers with an organically produced label, except in accordance with this
+  title, shall be subject to a civil penalty of not more than $100,000 and
+  imprisonment of not more than 5 years.
+  (b) FALSE CERTIFICATION- Any individual who issues a false certification
+  under this title to the Secretary, a governing State official, or a
+  certifying agent shall be subject to the provisions of section 1001 of
+  title 18, United States Code.
+  (c) INELIGIBILITY-
+  (1) IN GENERAL- Except as provided in paragraph (2), any producer who--
+  (A) issues a false certification;
+  (B) attempts to have an organically produced label affixed to an agricultural
+  product that such producer knows to have been produced in a manner that
+  is not in accordance with this title; or
+  (C) otherwise violates the purposes of the national organic certification
+  program established under section 102(a);
+as determined by the Secretary or the applicable governing State official,
+shall not be eligible, for a period of 5 years for the date of such occurrence,
+to receive certification under this title with respect to any farm or handling
+operation in which such producer has an interest.
+  (2) WAIVER- Notwithstanding paragraph (1), the Secretary may reduce or
+  eliminate such period of ineligibility if the Secretary determines that
+  such modification or waiver would be in the best interests of the national
+  organic certification program established under this title.
+  (d) REPORTING OF VIOLATIONS- A certifying agent shall immediately report any
+  violations of this title to the Secretary or the governing State official
+  (if applicable) and shall decertify any individual determined to be in
+  violation of this title.
+  (e) VIOLATIONS BY CERTIFYING AGENT- Any certifying agent that is a private
+  individual that violates the provisions of this title or that falsely or
+  negligently certifies any farming or handling operation and that does not
+  meet the terms and conditions of the applicable organic certification
+  program as an organic operation, as determined by the Secretary or the
+  governing State official (if applicable) shall--
+  (1) lose its accreditation as a certifying agent under this title; and
+  (2) be ineligible to be accredited as a certifying agent under this title
+  for a period of not less than 3 years subsequent to such determination.
+  (f) APPLICABILITY TO OTHER LAWS- Any transactions involving agricultural
+  products labeled under this title as organically produced shall be subject
+  to the provision of the Perishable Agricultural Commodities Act, 1930
+  (7 U.S.C. 499a et seq.).
+  (g) MISBRANDING- The provisions of the Federal Meat Inspection Act (21
+  U.S.C. 601 et seq.) and the Poultry Inspection Act (21 U.S.C. 451 et
+  seq.) concerning the misbranding of meat and poultry products shall be
+  applicable to meat and poultry products labeled under this title.
+SEC. 121. CITIZEN SUITS.
+  (a) IN GENERAL- Except as provided in subsection (c), any citizen may
+  commence a civil action on behalf of such citizen--
+  (1) against any person (including the United States or any other governmental
+  instrumentality or agency to the extent permitted by the Eleventh amendment
+  to the Constitution) who is alleged to be in violation of the provisions
+  of this title or any State organic certification program established under
+  this title; or
+  (2) against the Secretary or the governing State official where there is an
+  alleged failure of the Secretary or the governing State official to perform
+  any act or duty required under this title that is not discretionary with
+  the Secretary or the governing State official.
+  (b) JURISDICTION- The district courts of the United States shall have
+  original jurisdiction, without regard to the amount in controversy or the
+  citizenship of the parties, to enforce the provisions of this title or
+  any State organic certification program established under this title, or
+  to order the Secretary or the governing State official to perform such act
+  or duty, as the case may be, and to apply any appropriate civil penalties
+  under section 119.
+  (c) NOTICE- No action shall be commenced--
+  (1) under subsection (a)(1) of this section--
+  (A) prior to 60 days after the plaintiff has given notice of the alleged
+  violation--
+  (i) to the Secretary;
+  (ii) to the State in which the alleged violation occurs; and
+  (iii) to any alleged violator of the title or State program; or
+  (B) if the Secretary or State has commenced and is diligently prosecuting
+  a civil or criminal action in a court of the United States, or a State to
+  require compliance with the title or State program, but in any action in a
+  court of the United States any citizen may intervene as a matter of right; or
+  (2) under subsection (a)(2) prior to 60 days after the plaintiff has given
+  notice of such action to the Secretary;
+except that such action may be brought immediately after such notification
+in the case of an action under this section with respect to a violation of
+section 118(b)(2). Notice under this subsection shall be provided in such
+manner as the Secretary shall prescribe by regulation.
+  (d) PROCEDURAL PROVISIONS-
+  (1) VENUE- Any action under this title, or concerning a State program
+  established under this title, or to require the Secretary or governing
+  State official to take action under this title may be brought under this
+  section only in the judicial district in which the individual is located.
+  (2) INTERVENTION- In any action under this section, the Secretary, if not
+  a party, may intervene as a matter of right.
+  (3) PROTECTION OF UNITED STATES INTERESTS- When any action is brought under
+  this section in a district court of the United States, the plaintiff shall
+  serve a copy of the complaint on the Attorney General and the Secretary. No
+  consent judgment shall be entered in any action in which the United States
+  is not a party prior to 45 days following the receipt of a copy of the
+  proposed consent judgment by the Attorney General and the Secretary.
+  (e) LITIGATION COSTS- The court, in issuing any final order in any
+  action brought pursuant to this section, may award costs of litigation
+  (including reasonable attorney and expert witness fees) to any prevailing
+  or substantially prevailing party, if the court determines such award is
+  appropriate. The court may, if a temporary restraining order or preliminary
+  injunction is sought, require the filing of a bond or equivalent security
+  in accordance with the Federal Rules of Civil Procedure.
+  (f) STATUTORY OR COMMON LAW RIGHTS NOT RESTRICTED- Nothing in this section
+  shall restrict any right that any person (or class of persons) may have
+  under any statute or common law to seek enforcement of any provision
+  of this title or to seek any other relief (including relief against the
+  Secretary or the governing State official or the certifying agent).
+  (g) CITIZEN- For purposes of this section, the term `citizen' means a person
+  or persons having an interest that is or may be adversely affected by a
+  violation of the provisions of this title or by the failure of the Secretary
+  or the governing State official to take actions required by this title.
+  (h) CIVIL ACTION BY STATE GOVERNORS- The chief executive officer of a State
+  may commence a civil action under subsection (a), without regard to the
+  limitations of subsection (b), against the Secretary if there is alleged
+  a failure of the Secretary to enforce the provisions of this title and
+  the violation of this title is occurring in another State and is causing
+  an adverse effect on the public health or welfare in the State of such
+  chief executive.
+SEC. 122. ADMINISTRATION.
+  (a) REGULATIONS- Not later than 180 days after the date of enactment of
+  this title, the Secretary shall issue proposed regulations to carry out
+  this title.
+  (b) ASSISTANCE TO STATE-
+  (1) TECHNICAL AND OTHER ASSISTANCE- The Secretary shall provide technical,
+  administrative, and Extension Service assistance to each State that
+  implements an organic certification program under this title.
+  (2) FINANCIAL ASSISTANCE- The Secretary may provide financial assistance to
+  any State that implements an organic certification program under this title.
+SEC. 123. AUTHORIZATION OF APPROPRIATIONS.
+  There are authorized to be appropriated for each fiscal year such sums as
+  may be necessary to carry out this title.
+TITLE II--NATIONAL BOARDS
+SEC. 201. DEFINITIONS.
+  As used in this title:
+  (1) ASSEMBLY- The term `Assembly' means the National Organic Assembly
+  created under section 211.
+  (2) ASSESSMENT- The term `assessment' means funds collected by the Board
+  under section 213.
+  (3) BOARD- The term `Board' means the National Organic Board established
+  under section 207.
+  (4) CONSUMER INFORMATION- The term `consumer information' means any action
+  taken to provide information to, and broaden the understanding of, the
+  general public regarding the use, environmental benefits, nutritional
+  attributes, and care of organically produced agricultural products.
+  (5) CERTIFYING AGENT- The term `certifying agent' means the chief executive
+  officer of a State or, in a State that provides by law for the Statewide
+  election of a Commissioner of Agriculture, the Commissioner of Agriculture,
+  or an individual (including private entities) who is accredited by the
+  Secretary as a certifying agent for the purpose of certifying a farm or
+  handling operation as an organically certified farm or handling operation
+  in accordance with this title.
+  (6) DELEGATE BODY- The term `Delegate Body' means the Initial National
+  Organic Delegate Body established under section 205.
+  (7) HANDLE- The term `handle' means to sell, process, or package organically
+  produced agricultural products.
+  (8) HANDLER- The term `handler' means any individual in the business of
+  handling organically produced agricultural products.
+  (9) INDIVIDUAL- The term `individual' means any person, group of people,
+  partnership, corporation, association, cooperative, or other entity.
+  (10) MARKETING- The term `marketing' means the sale or other disposition
+  of organically produced agricultural products in commerce.
+  (11) NOMINATING STATE OFFICIAL- The term `nominating state official' means--
+  (A) in the case of a State with an established organic certification program
+  under title I, the individual serving as the governing State official
+  (as defined in title I) of such State; or
+  (B) in the case of a State without such a program--
+  (i) the chief executive officer of such State; or
+  (ii) if such State holds a Statewide election for the Commissioner of
+  Agriculture, such Commissioner.
+  (12) NATIONAL LIST- The term `National List' means the list established
+  under section 111.
+  (13) ORDER- The term `order' means an organic research, promotion, and
+  consumer information order issued by the Secretary under section 203.
+  (14) ORGANICALLY PRODUCED- The term `organically produced' means food
+  that is produced using organic farming methods, as specified in title I,
+  on an organically certified farm and handled by organically certified
+  handling operations.
+  (15) ORGANIC STANDARDS BOARD- The term "Organic Standards Board" means
+  the board established under section 214.
+  (16) PRODUCER- The term `producer' means an individual who produces an
+  organically produced agricultural product in the United States for sale
+  in commerce.
+  (17) PROMOTION- The term `promotion' means any action taken under this title,
+  including paid advertising, to present a favorable image for organically
+  produced agricultural products to the general public with the express
+  intent of improving the competitive position and stimulating the sale of
+  such products.
+  (18) RESEARCH- The term `research' means any type of research relating to
+  organically produced agricultural products and designed to advance the
+  image, desirability, marketability, or quality of organically produced
+  agricultural products.
+  (19) SECRETARY- The term `Secretary' means the Secretary of Agriculture.
+  (20) STATE AND UNITED STATES- The terms `State' and `United States'
+  shall include each of the several States, the District of Columbia, and
+  Puerto Rico.
+SEC. 202. NATIONAL ORGANIC PROMOTION PROGRAM.
+  (a) IN GENERAL- The Secretary shall establish a National Organic Promotion,
+  Research, and Consumer Education Program to carry out the purposes described
+  in subsection (b).
+  (b) PURPOSES- The purposes of the National Organic Promotion, Research,
+  and Consumer Education Program are--
+  (1) to authorize the establishment of an orderly procedure for the
+  development and financing, through an adequate assessment, of an effective
+  and coordinated program of research, promotion, and consumer information
+  regarding organically produced agricultural products;
+  (2) to establish representative organic bodies to provide advice to the
+  Secretary on all aspects of organic production under this Act, including
+  the development of a National List;
+  (3) to strengthen the position of the organic industry in domestic and
+  foreign markets;
+  (4) to maintain, develop, and expand domestic and foreign markets for
+  organically grown agricultural products; and
+  (5) to allow for a democratic process by which individuals who are involved
+  in the organic industry may determine whether a permanent National Organic
+  Promotion, Research, and Consumer Education Program should be implemented
+  after 1992.
+SEC. 203. ISSUANCE OF ORDERS.
+  (a) IN GENERAL- The Secretary shall issue, review, and make appropriate
+  amendments to organic research, promotion, and consumer information orders
+  applicable to handlers and producers of agricultural products that are
+  organically produced and handled in a manner that meets the requirements
+  of title I.
+  (b) NOTICE AND PUBLIC COMMENT- The Secretary shall publish the order
+  proposed to be issued under subsection (a) and provide reasonable notice
+  and an opportunity for public comment concerning such order (including
+  holding such public meetings as the Secretary determines to be necessary).
+  (c) SUBMISSION OF A PROPOSED ORDER OR AMENDMENT- An individual who is
+  affected by this title may submit a proposal for an order or amendment or
+  request an opportunity for public comment on such order or amendment as
+  described in subsection (a).
+  (d) INITIAL PROPOSAL- Not later than 90 days after the Secretary receives
+  a proposal for an order under subsection (c), the Secretary shall comply
+  with subsection (b).
+  (e) FINDINGS AND ISSUANCE OF AN ORDER- After notice of, and an opportunity
+  for, public comment on an order or amendment is provided under subsection
+  (b), the Secretary shall issue such order or amendment if the Secretary
+  determines that, on the basis of the evidence introduced by such public
+  comment, the issuance of such order or amendment will further the purposes
+  of this title.
+  (f) EFFECTIVE DATE- An order issued under subsection (a) shall become
+  effective on the date on which the final order is published in the Federal
+  Register.
+SEC. 204. REQUIRED TERMS OF ORDERS.
+  Except as provided under section 216, an order issued by the Secretary
+  under section 203 shall only contain the terms and conditions that are
+  described in this title.
+SEC. 205. INITIAL NATIONAL ORGANIC DELEGATE BODY.
+  (a) ESTABLISHMENT- An order issued by the Secretary under section 203 prior
+  to January 1, 1992, shall provide for the establishment, not later than
+  120 days after the effective date of such order, of the Initial National
+  Organic Delegate Body.
+  (b) PURPOSE- The Initial National Organic Delegate Body shall--
+  (1) elect the Initial National Organic Board and the Initial Organic
+  Standards Board;
+  (2) make a recommendation as to whether an organic promotion program should
+  be established and implemented; and
+  (3) shall provide recommendations to the Secretary concerning the
+  implementation of titles I and II.
+  (c) COMPOSITION-
+  (1) APPOINTMENT- The Secretary shall appoint individuals to serve on the
+  Delegate Body from among nominations received in accordance with this
+  subsection.
+  (2) LIMIT ON PARTICIPANTS- The membership of the Delegate Body shall not
+  exceed 208 individuals and, to the extent practicable, shall have at least
+  four members from each State.
+  (3) NOMINATIONS-
+  (A) RECEIPT OF NOMINATIONS- The Secretary shall only accept nominations
+  for membership in the Delegate Body from a nominating State official,
+  or through a written petition signed by 20 organic producers in a State.
+  (B) RESIDENCY REQUIREMENT- A nominating State official or an organic
+  producer in such State shall only nominate individuals who are residing
+  in such State at the time of the nomination.
+  (C) INVOLVEMENT IN ORGANIC PRODUCTION- Not less than 50 percent of the
+  membership of the Delegate Body shall consist of individuals who--
+  (i) are involved in the production and handling of organically produced
+  agricultural products; and
+  (ii) have derived at least 75 percent of the food-related business income
+  and at least 50 percent of the total income of such individuals from food
+  sold as organic or natural, for not less than a 3-year period preceding
+  the appointment of such individuals to the Delegate Body.
+  (D) OTHER MEMBERS- Not more than 50 percent of the membership of the
+  Delegate Body shall consist of individuals who are--
+  (i) retailers of organic agricultural products and certifying agents; and
+  (ii) academic experts, consumers, environmental experts, and government
+  officials who are experts in organic farming and processing methods.
+  (4) PROCEDURES FOR WRITTEN NOMINATION PETITION- The Secretary shall establish
+  and make public the procedures that shall govern the time and place for
+  the filing of written petitions for nominations under paragraph (2).
+  (5) APPOINTMENT- Not later than 60 days after the Secretary has received
+  nominations for membership, or not later than 150 days after the effective
+  date of this Act, whichever is later, the Secretary shall appoint members
+  from the nominees, as provided under paragraph (2), to the Delegate Body.
+  (6) INSUFFICIENT NOMINATIONS-
+  (A) IN GENERAL- If the Secretary does not receive a sufficient number of
+  eligible nominations from a State, the Secretary may nominate eligible
+  individuals from such State for membership on the Delegate Body or, if
+  the Secretary determines that there is not a sufficient number of eligible
+  individuals in such State, the Secretary may waive the membership requirement
+  for such State.
+  (B) REVIEW OF WAIVER- The Secretary shall review the necessity for a waiver
+  under subparagraph (A) on an annual basis.
+  (7) VACANCIES- If a vacancy occurs on the Delegate Body, the Secretary,
+  after receiving nominations from the nominating State official, shall
+  appoint an individual to fill such vacancy for the remainder of the term
+  of the Delegate Body.
+  (c) MEETINGS- The Delegate Body shall meet at least once each year to
+  conduct business, to nominate individuals for appointment to the Initial
+  National Organic Board and the Initial Organic Standards Board if necessary,
+  and to carry out the duties required under section 206.
+  (d) TERM-
+  (1) TERM OF BODY- The Delegate Body shall exist for a period not to exceed
+  3 years after the appointment of the members of such Body by the Secretary
+  under subsection (b).
+  (2) LENGTH OF MEMBERSHIP- Each member of the Delegate Body shall serve
+  for the entire term of the Delegate Body.
+  (e) COMPENSATION- A member of the Delegate Body shall serve without
+  compensation.
+  (f) QUORUM- A majority of the members of the Delegate Body who are entitled
+  to cast a vote shall constitute a quorum for the purpose of conducting
+  business.
+  (g) DECISIVE VOTES- A majority of the votes cast at a meeting of the
+  Delegate Body at which a quorum is present shall be decisive of a motion
+  or election presented to such Delegate Body for a vote.
+SEC. 206. DUTIES OF THE DELEGATE BODY.
+  (a) SELECTION OF MEMBERS AND CHAIRPERSON-
+  (1) IN GENERAL- At the initial annual meeting, the Delegate Body shall--
+  (A) elect a Chairperson;
+  (B) elect 15 members of the Delegate Body who shall each serve for a 3-year
+  term on the Initial National Organic Board; and
+  (C) appoint, with the concurrence of the Secretary, 15 individuals who
+  shall each serve for a 3-year term on the Initial Organic Standards Board.
+  (2) REQUIREMENT OF MAJORITY- The election of the Chairperson and the
+  membership of the Boards referred to in paragraph (1) shall be by a
+  majority of the members of the Delegate Body who are present and voting
+  in the initial annual meeting of such Body.
+  (3) CHAIRPERSON- At each annual meeting after the initial annual meeting
+  of the Delegate Body, the President of the Initial Board shall serve as
+  the Chairperson of such Body.
+  (b) NATIONAL LIST- The Delegate Body may make recommendations concerning
+  the National List to the Initial Standards Board.
+  (c) ASSESSMENTS- The Delegate Body shall recommend to the Initial Board
+  and to the Secretary whether orders providing for assessments should be
+  proposed in 1992.
+  (d) IMPLEMENTATION- The Delegate Body shall provide recommendations to
+  the Initial Board regarding the implementation of this Act.
+SEC. 207. INITIAL NATIONAL ORGANIC BOARD.
+  (a) DUTIES- There is established an Initial National Organic Board that
+  shall--
+  (1) elect a President; and
+  (2) make recommendations to the Secretary regarding the implementation
+  of titles I and II, including the enforcement provisions and shall
+  make determinations relating to standards for the organic production of
+  agricultural products and the composition of the National List.
+  (b) MEMBERSHIP- The Initial Board shall--
+  (1) have 15 members, of which not less than 8 such members shall be
+  individuals who own or operate an organic farming operation; and
+  (2) be composed of a representative geographic distribution of members.
+  (c) TERM- The Initial National Organic Board shall exist for a period
+  of not greater than 3 years, or until the establishment of the National
+  Organic Board under section 212.
+SEC. 208. INITIAL ORGANIC STANDARDS BOARD.
+  (a) DUTIES- There is established an Initial Organic Standards Board that
+  shall establish the proposed National List or amendments to such National
+  List as provided for in section 111, and shall submit such proposals to
+  the Secretary.
+  (b) MEMBERSHIP- The Initial Organic Standards Board shall have 15 members
+  of which--
+  (1) not less than 3 shall be individuals who own or operate an organic
+  farming operation;
+  (2) not less than 3 shall be individuals who own or operate an organic
+  handling operation;
+  (3) not less than 2 shall be individuals with expertise in the areas of
+  environmental protection and resource conservation;
+  (4) not less than 2 shall be individuals who represent public interest or
+  consumer interest organizations;
+  (5) not less than 1 shall be an individual who has expertise in the field
+  of agronomy; and
+  (6) not less than 2 shall be individuals who have expertise in the fields
+  of toxicology, ecology, or biochemistry.
+  (c) TERM- The Initial Organic Standards Board shall exist for a period of
+  not to exceed 3 years, or until the establishment of the Organic Standards
+  Board under section 214.
+SEC. 209. REFERENDUM.
+  (a) IN GENERAL- After January 1, 1992, the Secretary may conduct referenda
+  among producers and handlers of organic agricultural products to determine
+  whether a majority of such producers and handlers favor the issuance of
+  proposed orders under this title, the amendment of existing orders issued
+  under this title, or the termination of existing orders issued under
+  this title.
+  (b) PARTICIPANTS IN REFERENDUM- The Secretary shall conduct referendum
+  under this section among producers and handlers who--
+  (1) are not exempt from an assessment issued under section 213;
+  (2) are certified organic producers and handlers under title I; and
+  (3) produced or handled organically produced agricultural products during
+  a representative period as determined by the Secretary.
+  (c) REQUIRED REFERENDUM- The Secretary shall conduct a referendum under
+  this section prior to the issuance of any order or amendment to an order
+  providing for an assessment under section 203 or for the establishment of
+  the National Organic Assembly.
+  (d) PUBLICATION- The Secretary shall publish the results of any referendum
+  conducted under this section within a reasonable time after such referendum.
+  (e) TERMINATION OF ORDER- If the referendum conducted under this section
+  indicates that an order or proposed order under section 203 is not favored
+  by a majority of the producers and handlers voting in such referendum,
+  the Secretary shall terminate or refuse to issue such order.
+  (f) CONFIDENTIALITY- The Secretary shall hold the ballots and other
+  information or reports that reveal, or tend to reveal, the vote of any
+  individual under this section in strict confidence.
+  (g) SUBSEQUENT REFERENDA- Not later than 90 days after the receipt of a
+  petition requesting a referendum under this section by a majority of the
+  producers and handlers of at least two States who have been certified as
+  organic producers and handlers, the Secretary shall conduct such referendum
+  as provided for in this section.
+  (h) DISAPPROVAL OF ORDER- If an order providing for the collection of an
+  assessment is disapproved in a referendum conducted under this section,
+  the National Organic Board shall cease collecting such assessments the
+  first day of the first month after such referendum is conducted or within
+  20 days after such referendum is conducted, whichever is later.
+SEC. 210. ESTABLISHMENT OF NATIONAL ORGANIC ASSEMBLY.
+  (a) IN GENERAL- An order issued by the Secretary under section 203 after
+  the end of the term of the Delegate Body shall provide for the election,
+  in accordance with this section, and establishment not later than 120 days
+  after the date of such order, of the National Organic Assembly.
+  (b) ELECTION-
+  (1) CONDUCTED BY SECRETARY- The Secretary shall conduct the election
+  required under subsection (a).
+  (2) COORDINATION WITH STATES- The Secretary may conduct an election
+  under this subsection in coordination with nominating State officials and
+  certifying agents.
+  (3) ELIGIBLE TO VOTE- Individuals who own or operate certified organic
+  farming or handling operations under title I shall be eligible to vote in
+  any election conducted under this section.
+  (c) COMPOSITION OF ASSEMBLY-
+  (1) MEMBERSHIP- The election carried out under this section shall, to the
+  extent practicable, provide for elected membership in the Assembly from
+  among persons who are--
+  (A) producers who operate farms or handling operations that are certified
+  by the applicable governing State official as organic under title I; and
+  (B) certifying agents or academic experts, consumers, or government officials
+  specializing in organic farming and handling methods, as determined by
+  the Secretary.
+  (2) NUMBER OF MEMBERS WHO ARE PRODUCERS AND HANDLERS- To the extent
+  practicable, the Assembly--
+  (A) shall be comprised of at least two representatives from each State
+  who are producers and handlers; and
+  (B) may have additional representatives from each State who are appointed by
+  the Secretary from nominations received from the nominating State official
+  on the basis of shares assigned to each State under paragraph (3).
+  (3) CALCULATION OF SHARES-
+  (A) INITIAL PERIOD- For the 4-year period immediately following the date
+  on which the Delegate Body is terminated, shares shall be assigned under
+  paragraph (2)(B) on the basis of one share for each dollar value of farm
+  market value of organically produced goods marketed from such State,
+  as determined by the Secretary based on the preceding calendar year and
+  rounded to the nearest dollar.
+  (B) SUBSEQUENT PERIOD- For each 4-year period subsequent to the period
+  referred to in subparagraph (A), such shares shall be assigned on the
+  basis of one share for each $1,000 of the average aggregate amount of
+  assessments collected (minus refunds) under section 213 in such State from
+  individuals described in section 213, rounded to the nearest $1,000 during
+  the immediately preceding 4-year period.
+  (C) ASSIGNMENT BASED ON SHARES- If the number of shares of a State under
+  this paragraph is--
+  (i) more than 1,000 but less than 50,000, the Secretary shall appoint no
+  more than three producers to be members of the Assembly for such State; or
+  (ii) more than 50,000, the Secretary shall appoint no more than four
+  producers to be members of the Assembly for such State.
+  (4) NONPRODUCER MEMBERS- The Assembly shall, subject to paragraph (5),
+  be comprised of no more than two individuals who are nonproducers from
+  each State.
+  (5) MAKEUP OF ASSEMBLY-
+  (A) CERTIFIED ORGANIC PRODUCERS- Not less than 50 percent of the membership
+  of the Assembly shall consist of individuals who own or operate farms or
+  handling operations that are certified as organic under title I.
+  (B) OTHER MEMBERS- Not more than 50 percent of the membership of the
+  Delegate Body may be individuals who are academic experts, consumers, or
+  government officials specializing in organic farming and processing methods.
+  (d) INSUFFICIENT MEMBERSHIP-
+  (1) IN GENERAL- If there is not a sufficient number of eligible individuals
+  elected to the Assembly from a State under this section, the Secretary
+  may nominate eligible individuals from such State for membership on the
+  Assembly or, if the Secretary determines that there is not a sufficient
+  number of individuals who are eligible for nominations in such State,
+  the Secretary may waive the membership requirement for such State.
+  (2) STATES WITHOUT AN ORGANIC CERTIFICATION PROGRAM-
+  (A) IN GENERAL- If a State has not implemented an organic certification
+  program as provided in title I, or if the Secretary has not approved
+  any certifying agent to certify organic farming or handling operations,
+  the Secretary may appoint not to exceed one individual from such State to
+  the Assembly.
+  (B) QUALIFICATION OF APPOINTED INDIVIDUAL- An individual appointed
+  under subparagraph (A) shall be engaged in the production or handling of
+  agricultural products produced using organic methods, or shall be considered
+  to be an expert in organic farming methods.
+  (C) NOMINATING PROCEDURE- If, during any term of the Assembly, such
+  State establishes an organic certification program under title I, or the
+  Secretary approves a certifying agent for such State, the Secretary shall
+  establish an election procedure consistent with this section to provide
+  for representation of such State in the Assembly.
+  (D) TERM OF MEMBERSHIP- The term of members of the Assembly appointed under
+  this subparagraph shall parallel the terms of members of the Assembly as
+  referred to in subsection (a).
+  (3) REVIEW OF WAIVER- The Secretary shall review a waiver granted under
+  paragraph (2), on an annual basis.
+  (e) VACANCY- If a vacancy occurs on the Assembly, the Secretary, after
+  receiving nominations from the nominating State official, shall appoint
+  an individual to fill such vacancy for the remainder of the term of the
+  original member.
+  (f) MEETINGS- The Assembly shall meet annually to conduct business, to
+  nominate individuals for appointment to the National Organic Board and the
+  Organic Standards Board (if necessary), and for other purposes as provided
+  for in section 211.
+  (g) TERM- A member of the Assembly shall serve for a term of 4 years,
+  except that the term of such member shall continue until the successor of
+  such member, if any, is appointed in accordance with this section.
+  (h) COMPENSATION- A member of the Assembly shall serve without compensation.
+  (i) DISQUALIFICATION- If a member or alternate of the Assembly ceases
+  to meet the eligibility requirements provided for in this section,
+  as determined by the Secretary, such member shall be disqualified from
+  serving on the Assembly.
+  (j) QUORUM- A majority of the members of the Assembly who are entitled to
+  cast a vote on the Delegate Body shall constitute a quorum for the purpose
+  of conducting business.
+  (k) DECISIVE VOTES- A majority of the votes cast at a meeting of the
+  Assembly at which a quorum is present shall be decisive of a motion or
+  election presented to the Assembly for a vote.
+SEC. 211. DUTIES OF NATIONAL ORGANIC ASSEMBLY.
+  (a) INITIAL MEETING- At the initial meeting of the Assembly, such Assembly
+  shall--
+  (1) elect a Chairperson; and
+  (2) elect 15 members of the Assembly, who shall each serve for a 3 year
+  term on the Initial National Organic Board; and
+  (3) appoint, with the concurrence of the Secretary, 15 individuals who
+  shall each serve for a 3 year term on the Organic Standards Board.
+  (b) MAJORITY REQUIREMENT- The election of the Chairperson of the Assembly
+  and the members of the Boards shall be by a majority of the members who are
+  present and voting in the meeting of the Assembly at which such election
+  is made.
+  (c) CHAIRPERSON- At each meeting after the initial meeting, the President
+  of the Board shall serve as the Chairperson of the Assembly.
+  (d) RECOMMENDATIONS OF ASSEMBLY- The Assembly shall--
+  (1) make recommendations concerning the rate of assessment prescribed by
+  the order and any increase in such rate pursuant to section 213;
+  (2) determine the percentage of the aggregate amount of assessments
+  collected in a State that such State shall receive under section 213;
+  (3) recommend to the Organic Standards Board and to the Secretary changes in
+  the standards, including the composition of the National List, that serve as
+  the basis for determining organically grown production methods and products;
+  (4) elect members to serve on the Board and appoint individuals to serve
+  on the Organic Standards Board (with the concurrence of the Secretary)
+  on the expiration of the terms of members of such Boards; and
+  (5) recommend to the National Organic Board research and promotion activities
+  to be carried out under this title.
+SEC. 212. NATIONAL ORGANIC BOARD.
+  (a) DUTIES- The National Organic Board shall provide recommendations to
+  the Secretary regarding the implementation of this Act.
+  (b) MEMBERSHIP- The National Organic Board shall--
+  (1) be composed of 15 members, of which not less than eight shall be
+  individuals who own or operate a certified organic farming operation; and
+  (2) have a representative geographic distribution of members.
+  (c) TERM- The members of the National Organic Board shall serve for a
+  period of 4 years. A member may be re-elected to serve on the National
+  Organic Board.
+  (d) ACTIONS OF BOARD- The National Organic Board shall--
+  (1) select a President;
+  (2) administer orders issued by the Secretary under section 203, and
+  amendments to such orders, in accordance with such orders and consistent
+  with this title;
+  (3) prescribe rules and regulations to effectuate such orders;
+  (4) receive, investigate, and report to the Secretary any accounts of
+  violations of such orders;
+  (5) make recommendations to the Secretary with respect to amendments that
+  should be made to such orders; and
+  (6) employ a manager and staff.
+  (e) BUDGET AND PLAN-
+  (1) BUDGET-
+  (A) DEVELOPMENT- The National Organic Board shall prepare and submit to the
+  Secretary a budget, on a fiscal period basis as determined appropriate by
+  the Secretary, of the anticipated expenses and disbursements of the Board
+  in the administration of the order, including probable costs of research,
+  promotion, and consumer information.
+  (B) EFFECTUATION- A budget under subparagraph (A) shall become effective
+  on the approval of the Secretary.
+  (2) PLAN-
+  (A) IN GENERAL- Each budget, as referred to in paragraph (1), shall include a
+  plan for research, promotion, and consumer information regarding organically
+  produced agricultural products.
+  (B) EFFECTUATION- Such plan shall take effect on the approval of the
+  Secretary.
+  (f) CONTRACTS AND AGREEMENTS- The Board may enter into contracts and
+  agreements, with the approval of the Secretary, for--
+  (1) the development and implementation of plans under subsection (c); and
+  (2) the payment of the cost of such plan with funds collected under
+  section 213(c).
+  (g) COMPENSATION- A member of the Board shall serve without compensation,
+  but may be reimbursed by the Board from assessments for transportation
+  expenses incurred in performing duties as a member of the Board.
+  (h) VOTING RESTRICTION- Members of the Board who are not owners or
+  operators of certified organic farming or handling operations shall not
+  vote on matters respecting the use of assessments collected under this title.
+SEC. 213 ASSESSMENTS.
+  (a) IN GENERAL- An order issued after the termination of the Delegate Body
+  shall provide that an assessment shall be paid in the manner prescribed
+  in the order.
+  (b) IMPOSITION- The order, as referred to in subsection (a), shall
+  provide for the imposition and collection of assessments with regard to
+  the production and handling of organically produced agricultural products
+  as follows:
+  (1) PRODUCERS- Producers of agricultural products labeled as being
+  organically produced under title I shall pay annual assessments--
+  (A) with respect to producers who sell over $50,000 worth of organically
+  produced agricultural products during each calendar year, based on the
+  average sales from the immediately preceding 3 years as determined by the
+  Secretary, of $100; and
+  (B) with respect to producers who sell under $50,000 worth of organically
+  produced agricultural products during each calendar year, based on the
+  average sales from the immediately preceding 3 years as determined by the
+  Secretary, of $50.
+  (2) HANDLERS- Individuals who operate handling operations that are
+  certified as organic handling operations under title I and who are the
+  first handlers of the organically produced agricultural products shall
+  pay an annual assessment--
+  (A) with respect to handlers who market or process over $50,000 worth of
+  organically produced agricultural products during each calendar year based
+  on the average sales from the immediately preceding 3 years as determined
+  by the Secretary, of $100; and
+  (B) with respect to handlers who market or process under $50,000 worth
+  of organically produced agricultural products during each calendar year,
+  based on the average sales from the immediately preceding 3 years, as
+  determined by the Secretary, of $50.
+  (c) COLLECTION OF ASSESSMENT- Except as provided in paragraph (4), the
+  first handler of organically produced agricultural products shall--
+  (1) be responsible for the collection and payment to the Board, of producer
+  and handler assessments under this section; and
+  (2) maintain a separate record of the agricultural products of each producer
+  handled by such handler, including the organically produced agricultural
+  products grown by such handler.
+  (d) PRODUCER AND HANDLER- For purposes of subsection (c), an individual
+  who is both a producer and a handler shall be considered the first handler
+  of agricultural products produced by such individual.
+  (e) SUPPLEMENTAL ASSESSMENT-
+  (1) IN GENERAL- Subject to the recommendations of the Board and approval
+  in a referendum as provided for in section 216, the Secretary may issue
+  an amendment to an order stating that, in each calendar year, the rate of
+  an assessment under this section shall be supplemented by an additional
+  amount to be collected or paid as provided in this section.
+  (2) AMOUNT OF ASSESSMENT- An additional amount under paragraph (1) shall
+  not exceed 0.25 percent of the value of organically produced agricultural
+  products sold by individuals from organically certified farms.
+  (f) ESTABLISHMENT OF ESCROW ACCOUNT- The Board shall hold a sufficient
+  portion of the assessments in escrow to ensure that all requests for
+  refunds under section 221 may be honored.
+  (g) EXEMPTION- An individual is exempt from an assessment under this
+  section if such individual is--
+  (1) a producer who produces less than $5,000 of organically produced
+  agricultural products per year; or
+  (2) a handler who handles less than $5,000 of organically produced
+  agricultural products per year.
+  (h) CLAIMING AN EXEMPTION- To claim an exemption under subsection (f)
+  for a particular year, an individual shall prepare and submit, to the
+  Board, an application that contains a description of the basis for such
+  exemption and a certification that such individual will not exceed the
+  limitation required under subsection (e) in the calendar year in which
+  such application is submitted.
+  (i) USE OF ASSESSMENTS-
+  (1) IN GENERAL- An order issued by the Secretary under section 203 shall
+  provide that funds paid to the Board as assessments--
+  (A) may be used by the Board--
+  (i) to pay for research, promotion, and consumer information described in
+  the budget of the Board and for other expenses incurred by the Board in
+  the administration of an order;
+  (ii) to pay such other expenses for the administration, maintenance,
+  and functioning of the Board and the Organic Standards Board as may be
+  authorized by the Secretary; and
+  (iii) to fund a reserve established under section 212(5); and
+  (B) except as provided in subsection (i), shall be used to pay the expenses
+  incurred by the Secretary, including expenses of government employees in
+  implementing and administering the order.
+  (j) REIMBURSEMENT- An order issued by the Secretary under section 203 after
+  January 1, 1992, shall provide that the Board shall reimburse the Secretary,
+  from assessments, for any expenses incurred by the Secretary in conducting
+  referenda under this title, except for the salaries of government employees
+  who carry out such referenda.
+  (k) FALSE CLAIMS- An order issued by the Secretary under section 203 shall
+  provide that any promotion of organically produced agricultural product
+  funded with assessments shall not make--
+  (1) any false or unwarranted claims on behalf of organically produced
+  agricultural products; and
+  (2) any false or unwarranted statements with respect to the attributes or
+  use of any product that competes with organically produced agricultural
+  products for sale in commerce.
+  (l) PROHIBITION ON USE OF FUNDS- An order issued under section 203 shall
+  provide that funds collected by the Board through assessments shall not,
+  in any manner, be used for the purpose of influencing legislation or
+  governmental policy or action, except for making recommendations to the
+  Secretary as provided for in this Act.
+  (m) BOARD RECORDS AND REPORTS-
+  (1) BOARD- An order issued under section 203 shall require the Board--
+  (A) to maintain books and records with respect to the receipt and
+  disbursement of funds received by the Board through assessments collected
+  under this section;
+  (B) to submit to the Secretary such reports as the Secretary may require
+  for appropriate accounting; and
+  (C) to submit to the Secretary at the end of each fiscal year a complete
+  audit report regarding the activities of the Board during such fiscal year.
+  (2) HANDLERS- In order to provide information and data to the Board and
+  the Secretary that is appropriate or necessary for the effectuation,
+  administration, or enforcement of this title or any order or regulation
+  issued under this title, such order shall require handlers who are
+  responsible for the collection of assessments under this section--
+  (A) to maintain and make available for inspection by the Secretary such
+  books and records as may be required by the order; and
+  (B) to file reports, at the times, in the manner, and having the content
+  prescribed by the order, that concern the collection of such assessments.
+  (n) CONFIDENTIALITY-
+  (1) IN GENERAL- An order issued under section 203 shall require that
+  all information obtained pursuant to subsection (h)(2) shall be kept
+  confidential by all officers and employees of the Department of Agriculture
+  and of the Board.
+  (2) DISCLOSURE- The Secretary shall only disclose such information--
+  (A) the Secretary considers relevant in a lawsuit; or
+  (B) in the course of an administrative hearing brought at the request of
+  the Secretary or to which the Secretary or any officer of the United States
+  is a party, involving the order with respect to which such information
+  was furnished or acquired.
+  (3) NONCONFIDENTIAL INFORMATION- The Secretary may--
+  (A) issue general statements based on the reports of a number of producers
+  and handlers if such statements do not identify any individual who provides
+  such information; or
+  (B) publish the name of any individual violating an order issued by the
+  Secretary under section 203 along with a statement of the particular
+  provisions of the order violated by such individual.
+SEC. 214. ORGANIC STANDARDS BOARD.
+  (a) DUTIES- The Organic Standards Board shall establish the proposed
+  National List or amendments to such National List as provided in section
+  111 and shall submit such proposals to the Secretary.
+  (b) MEMBERSHIP- The Organic Standards Board shall be comprised of 15 members,
+  of which--
+  (1) not less than 3 shall be individuals who own or operate a certified
+  organic farming operation;
+  (2) not less than 3 shall be individuals who own or operate a certified
+  organic handling operation;
+  (3) not less than 2 shall be individuals with expertise in the areas of
+  environmental protection and resource conservation;
+  (4) not less than 2 shall be individuals who represent public interest or
+  consumer interest organizations;
+  (5) not less than 1 shall be an individual who has expertise in the field
+  of agronomy; and
+  (6) not less than 2 shall be individuals who have expertise in the fields
+  of toxicology, ecology, or biochemistry.
+  (c) TERM- The members of the Organic Standards Board shall serve for a
+  period of not to exceed 4 years. Such members may be reappointed to serve
+  on the Organic Standards Board.
+  (d) DISAPPROVAL OF ORDER-
+  (1) APPOINTMENT BY SECRETARY- If a majority of those voting in the
+  referendum conducted under section 209(c) do not favor the establishment
+  of the National Assembly, the Secretary shall appoint the members of the
+  Organic Standards Board in accordance with the provisions of this section.
+  (2) RESPONSIBILITIES- The Organic Standards Board established under this
+  subsection shall have the duties and responsibilities as specified in this
+  section and section 215.
+  (3) OTHER TERMS AND CONDITIONS- The Secretary may authorize the Organic
+  Standards Board established under this subsection to hire a manager
+  and staff and may, in accordance with relevant Appropriations Acts, pay
+  necessary expenses incurred by such Organic Standards Board in carrying
+  out the provisions of this title, as determined by the Secretary.
+SEC. 215. PROPOSED NATIONAL LIST.
+  (a) IN GENERAL- The Organic Standards Board (or the Initial Organic Standards
+  Board) shall develop the proposed national list or proposed amendments to the
+  National List for submission to the Secretary in accordance with section 111.
+  (b) CONTENT OF PROPOSED LIST-
+  (1) ITEMIZATION OF SUBSTANCES- The proposed list referred to in subsection
+  (a) shall contain an itemization of--
+  (A) specific synthetic substances that may be used in the production and
+  handling of agricultural products labeled as organically produced under
+  title I, even though the use of such substances is prohibited elsewhere
+  in title I; or
+  (B) specific natural substances that shall not be used in the production
+  and handling of agricultural products labeled as organically produced
+  under title I, even though the use of such substances would be allowed
+  under other provisions of title I.
+  (2) SPECIFIC USES- An exemption under paragraph (1)(A) or prohibition
+  under paragraph (1)(B) with respect to a specific synthetic or natural
+  substance may be limited to a specific use of such substance in a farming
+  or handling operation.
+  (c) GUIDELINES FOR PROHIBITIONS OR EXEMPTIONS-
+  (1) EXEMPTION FOR PROHIBITED SUBSTANCES- The proposed national list
+  may provide for the use of substances in an organic farming or handling
+  operation that are otherwise prohibited under title I only if--
+  (A) the Organic Standards Board determines that the use of such substances--
+  (i) would not be harmful to human health or the environment;
+  (ii) is necessary to the production or handling of the crop because of
+  the unavailability of wholly natural substitute products; and
+  (iii) is consistent with organic farming; and
+  (B) the specific exemption is developed in accordance with this section.
+  (2) PROHIBITION OF USE OF SPECIFIC NATURAL SUBSTANCES- The proposed
+  national list may provide for the prohibition on the use of specific
+  natural substances in an organic farming or handling operation that are
+  otherwise allowed under this title only if--
+  (A) the Organic Standards Board determines that the use of such substances--
+  (i) would be harmful to human health or the environment; and
+  (ii) is inconsistent with organic farming and the purposes of this title; and
+  (B) the specific prohibition is developed in accordance with this section.
+  (d) REQUIREMENTS- In establishing the proposed national list or proposed
+  amendments to the National List, the Organic Standards Board shall--
+  (1) review available information from the Environmental Protection Agency,
+  the National Institute of Environmental Health Studies, and such other
+  sources as appropriate, concerning the human and environmental toxicity
+  of substances considered for inclusion in the proposed national list;
+  (2) work with manufacturers of substances considered for inclusion in the
+  proposed national list to determine whether such substances contain inert
+  materials that are synthetically produced; and
+  (3) submit to the Secretary, along with the proposed national list or any
+  proposed amendments, the results of the Organic Standards Board evaluation
+  of all substances considered for inclusion in the National List.
+  (e) EVALUATION- In evaluating substances considered for inclusion in the
+  proposed national list or proposed amendments to the National List, the
+  Organic Standards Board shall determine--
+  (1) the potential of such substances for detrimental chemical interactions
+  with other materials used in organic farming systems;
+  (2) the toxicity and mode of action of the substance and of its breakdown
+  products or any contaminants, and their persistence and areas of
+  concentration in the environment;
+  (3) the probability of environmental contamination during manufacture,
+  use, or misuse of such substance;
+  (4) the effects of the substance on human health;
+  (5) the effects of the material on biological and chemical interactions
+  in the agroecosystem, including the physiological effects of the substance
+  on soil organisms (including consideration of salt index and solubility),
+  crops, and livestock;
+  (6) the alternatives to using the substance in terms of practices or other
+  available materials; and
+  (7) its compatibility with a system of sustainable agriculture.
+  (f) PETITIONS- The Organic Standards Board shall establish procedures
+  under which individuals may petition the Organic Standards Board for the
+  purpose of evaluating substances for inclusion on the National List.
+  (g) REVIEW-
+  (1) EVERY 4 YEARS- The Organic Standards Board shall review each substance
+  included as an exemption or prohibition on the National List at least
+  once during each 4-year period beginning on the date such substance was
+  initially included on the National List or on the date of the last review
+  of such substance under this subsection.
+  (2) SUBMISSION TO SECRETARY- The Organic Standards Board shall submit
+  the results of a review under paragraph (1) to the Secretary with a
+  recommendation as to whether such substance should continue to be included
+  on the National List.
+  (h) CONFIDENTIALITY- Any business sensitive material obtained by the Organic
+  Standards Board (or the Initial Organic Standards Board) in carrying out
+  this section shall be treated as confidential information by such Board
+  and shall not be released to the public.
+SEC. 216. PERMISSIVE TERMS OF ORDERS.
+  On the recommendation of the Board and with the approval of the Secretary,
+  an order issued by the Secretary under section 203 may--
+  (1) require that, with respect to any Federal marketing order issued
+  regarding organically produced agricultural products, that--
+  (A) is in effect prior to the date of the enactment of this title; and
+  (B) the Secretary determines is comparable to an order issued under
+  this title;
+there shall be paid to the Board, as provided for in section 213, that portion
+of the assessment under such section that is greater than the assessment,
+if any, paid on the organically produced agricultural products pursuant to
+such other marketing order;
+  (2) provide authority to the Board to designate different producer and
+  handler payment and reporting schedules to recognize differences in
+  production and handling practices and procedures among producers and
+  handlers;
+  (3) permit the Board to convene working groups made up of producers,
+  handlers, or the general public to assist in the development of research,
+  marketing, and standards programs for organically produced agricultural
+  products;
+  (4) permit the Board to accumulate reserve funds from assessments collected
+  under section 213 to permit an effective and continuous coordinated
+  program of research, promotion, and consumer information in years in which
+  production and assessment income may be reduced, except that any reserve
+  fund so established shall not exceed the amount budgeted for operation of
+  this title for 1 year;
+  (5) permit the Board to use, with the approval of the Secretary, funds
+  collected under section 213 for the development and expansion of organically
+  produced agricultural product sales in foreign markets;
+  (6) permit the Organic Standards Board to employ a manager and a staff; and
+  (7) provide for terms and conditions--
+  (A) incidental to, and not inconsistent with, the terms and conditions
+  described in this title; and
+  (B) necessary to effectuate such order.
+SEC. 217. PETITION AND REVIEW.
+  (a) PETITION-
+  (1) IN GENERAL- An individual who is subject to an order under this title
+  may prepare and submit to the Secretary, within a period prescribed by
+  the Secretary, a written petition--
+  (A) stating that such order, a provision of such order, or an obligation
+  imposed in connection with such order is not in accordance with the law; and
+  (B) requesting a modification of the order or an exemption from such order.
+  (2) HEARING- The Secretary shall promulgate regulations to permit an
+  individual, who submits a petition under paragraph (1), an opportunity
+  for a hearing on such petition.
+  (3) REVIEW- After the hearing described in paragraph (2), the Secretary
+  shall make a ruling on the petition that shall be subject to review under
+  subsection (b).
+  (b) REVIEW-
+  (1) COMMENCEMENT OF ACTION- Not later than 30 days after the date that a
+  ruling is made under subsection (a)(3), an individual may obtain a review
+  of such ruling by initiating a civil action in the district court of the
+  United States for the district in which such individual--
+  (A) resides; or
+  (B) carries on business related to the subject matter of such action.
+  (2) PROCESS- In civil action under this section, service of process may be
+  made on the Secretary by delivering a copy of the complaint to the Secretary.
+  (3) REMANDS- If the district court, as referred to in paragraph (1),
+  determines that such ruling is not in accordance with law, such court
+  shall remand the proceedings to the Secretary with directions--
+  (A) to make a ruling as such court shall determine to be in accordance
+  with law; or
+  (B) to take such further proceedings as, in the opinion of such court,
+  the law requires.
+  (4) ENFORCEMENT- The pendency of proceedings instituted pursuant to this
+  subsection shall not impede, hinder, or delay the United States or the
+  Secretary from obtaining relief pursuant to section 214.
+SEC. 218. ENFORCEMENT.
+  (a) JURISDICTION- Each district court of the United States shall be vested
+  with jurisdiction to enforce, and to prevent and restrain any individual
+  from violating, any order or regulation made or issued under this title.
+  (b) REFERRAL TO ATTORNEY GENERAL-
+  (1) GENERAL RULE- Except as provided for in paragraph (2), if the Secretary
+  is involved in a civil action under section 213, the Secretary shall refer
+  the facts relating to such action to the Attorney General for appropriate
+  action.
+  (2) EXCEPTION- Notwithstanding paragraph (1), the Secretary shall not refer a
+  violation of this title to the Attorney General if the Secretary determines
+  that the administration and enforcement of the order or regulation that is
+  involved in such violation would be adequately served by administrative
+  action under subsection (c) or by providing a suitable written notice or
+  warning to an individual committing such violation.
+  (c) CIVIL PENALTIES AND ORDERS-
+  (1) CIVIL PENALTIES- The Secretary may assess a civil penalty fine of
+  not less than $500 nor more than $5,000 for each instance in which an
+  individual violates any order or regulation issued by the Secretary under
+  this title or fails or refuses to pay, collect, or remit any assessment
+  or fee required of the individual under such order or regulation. Each
+  violation shall be considered as a separate offense.
+  (2) CEASE-AND-DESIST ORDERS- In addition to, or in lieu of, a civil
+  penalty under paragraph (1), the Secretary may issue an order requiring
+  an individual to cease and desist from continuing a violation.
+  (3) NOTICE AND HEARING- The Secretary shall not assess a civil penalty
+  or issue a cease-and-desist order under this subsection applicable to any
+  individual unless the Secretary provides such individual with notice and
+  an opportunity for a hearing before the Secretary with respect to such
+  violation.
+  (4) FINALITY- The decree of the Secretary assessing a civil penalty or
+  imposing a cease-and-desist order on any individual under this subsection
+  shall be final and conclusive unless such individual files an appeal of
+  such decree with the appropriate United States Court of Appeals.
+  (d) REVIEW BY COURT OF APPEALS-
+  (1) COMMENCEMENT OF ACTION- Any individual, against whom a violation as
+  referred to in subsection (c)(1) is found and a civil penalty assessed or
+  cease-and-desist order issued under subsection (c), may obtain review of
+  such penalty or order by--
+  (A) filing, not later than 30 days from the date on which such penalty is
+  assessed or order issued, a notice of appeal in--
+  (i) the United States Court of Appeals for the circuit in which such
+  individual resides or carries on business; or
+  (ii) the United States Court of Appeals for the District of Columbia; and
+  (B) simultaneously sending a copy of such notice by certified mail to
+  the Secretary.
+  (2) RECORD- The Secretary shall promptly file the record on which such
+  violation under paragraph (1) was found in the court selected under paragraph
+  (1)(A).
+  (3) STANDARD OF REVIEW- The court referred to under paragraph (1)(A) shall
+  set aside the findings of the Secretary only if such court determines that
+  such findings are unsupported by substantial evidence.
+  (e) FAILURE TO OBEY ORDER-
+  (1) IN GENERAL- The Secretary may assess a civil penalty fine, of not
+  more than $500 for each violation described under subsection (c)(1),
+  to an individual who fails to obey a cease-and-desist order issued under
+  subsection (c) after--
+  (A) such order has become final and unappealable or after the appropriate
+  Court of Appeals has entered a final judgment in favor of the Secretary; and
+  (B) after opportunity for a hearing and for judicial review under the
+  procedures described in subsections (c) and (d).
+  (2) CONTINUING OFFENSE- Each day during which an individual fails to obey
+  a cease-and-desist order shall be considered as a separate offense.
+  (f) FAILURE TO PAY PENALTIES-
+  (1) IN GENERAL- If an individual fails to pay an assessment of a civil
+  penalty under subsection (c)(1), after such assessment has become a final
+  and unappealable order or after the appropriate United States Court of
+  Appeals has entered final judgment in favor of the Secretary, the Secretary
+  shall refer such failure to pay to the Attorney General for recovery of the
+  amount of such penalty in an appropriate district court of the United States.
+  (2) REVIEW OF FINAL ORDER- In a recovery action described under paragraph
+  (1), the validity and appropriateness of the final order imposing such
+  civil penalty shall not be subject to review.
+SEC. 219. INVESTIGATIONS AND POWER TO SUBPOENA.
+  (a) IN GENERAL- The Secretary may make such investigations as the Secretary
+  considers necessary--
+  (1) to carry out the responsibilities of the Secretary under this title; and
+  (2) to determine whether an individual has engaged in any practices that
+  constitute a violation of this title, or any plan, rule, or regulation
+  issued by the Secretary under this title.
+  (b) ADMINISTRATION- For the purpose of an investigation under subsection (a),
+  the Secretary may administer oaths and affirmations, subpoena witnesses,
+  compel the attendance of such witnesses, take evidence, and require the
+  production of any books, papers, and documents that are relevant to such
+  investigation.
+  (c) SUBPOENA-
+  (1) IN GENERAL- To carry out subsection (b), the Secretary may compel the
+  attendance of witnesses and the production of any such records through
+  subpoena.
+  (2) REFUSAL TO OBEY SUBPOENA-
+  (A) REQUEST FOR AID- If an individual refuses to obey a subpoena issued
+  to such individual, the Secretary may invoke the aid of any court of
+  the United States within the jurisdiction in which such investigation or
+  proceeding is carried out, or in which such individual resides or carries
+  on business, in requiring the attendance and testimony of such individual
+  and the production of applicable books, papers, and documents.
+  (B) AUTHORITY OF COURT- The court under subparagraph (A) may issue an order
+  requiring such individual to appear before the Secretary, produce records
+  if ordered to do so by the Secretary, or to give testimony concerning the
+  matter under investigation.
+  (C) CONTEMPT- The court under subparagraph (A) may punish an individual who
+  fails to obey an order issued under subparagraph (B) for contempt of court.
+  (d) SERVICE OF PROCESS- Service of process to an individual in any action
+  to enforce this section may be served in the judicial district in which
+  such individual resides or wherever such individual may be found.
+  (e) JURISDICTION- A hearing held under this section shall be located within
+  the judicial district where the individual who is to provide evidence
+  resides or has a principal place of business.
+SEC. 220. REFUND OF ASSESSMENTS.
+  (a) IN GENERAL- Notwithstanding any other provision of this title, a
+  producer or handler of organically produced agricultural products against
+  whom an assessment is made and collected under this title and who does not
+  support the research and promotion program as described in this title,
+  may receive from the National Organic Board a refund of any assessment
+  paid under this title.
+  (b) TIME PERIOD FOR RECEIVING REFUNDS- Refunds referred to in subsection
+  (a), shall be made on a monthly basis by the Board. A request for such
+  refund shall not include a request for a refund for any period in excess
+  of the immediately preceding 3 months prior to such request.
+  (c) REQUEST TO RECEIVE REFUND- An individual requesting a refund under
+  this section shall--
+  (1) make a written request for such refund in a manner as shall be prescribed
+  by the Secretary;
+  (2) make such request not later than 60 days after the end of any month
+  during which such individual paid an assessment under this title and with
+  respect to which the producer is requesting such refund; and
+  (3) submit satisfactory proof that such individual paid the assessment
+  for which a refund is requested, as determined by the Board.
+  (d) PROVIDING REFUND- Not later than 90 days after receiving a request
+  under subsection (c), the Board shall make any refund requested available
+  to the individual making such request.
+  (e) SURPLUSES- The Secretary shall release any funds that are not refunded
+  under this section in order to carry out this Act.
+  (f) REFUNDS UPON DISAPPROVAL OF ORDER- If an order providing for the
+  collection of assessments is terminated, the assessments collected from
+  producers and handlers prior to such termination that have not been expended
+  shall be refunded on a pro rata basis to eligible producers and handlers,
+  after a deduction for a proportionate amount of the expenses incurred by the
+  Secretary and the agency of government that assists in the administration
+  of such order, when the order terminating the program established by this
+  title is published by the Secretary.
+SEC. 221. SUSPENSION AND TERMINATION.
+  (a) DETERMINATIONS OF SECRETARY- If the Secretary determines that an order
+  issued under section 203 obstructs or does not effectuate the purposes of
+  this title, the Secretary shall terminate or suspend the operation of such
+  order or provision.
+  (b) PERIODIC REPORTS- The Secretary may periodically conduct a referendum
+  to determine if organic producers and handlers support the continuation,
+  termination, or suspension of any order issued under section 203 and in
+  effect at the time of such referendum.
+SEC. 222. REGULATIONS.
+  The Secretary may promulgate such regulations as are necessary to carry
+  out this title.
+SEC. 224. AUTHORIZATION OF APPROPRIATIONS.
+  (a) IN GENERAL- There are authorized to be appropriated for each fiscal
+  year such sums as may be necessary to carry out this title.
+  (b) ADMINISTRATIVE EXPENSES- The funds appropriated under subsection (a)
+  shall not be available for payment of the expenses or expenditures of the
+  Board in administering an order issued under this title.
+TITLE III--LOW INPUT LABEL DEMONSTRATION PROGRAM
+SEC. 301. DEFINITIONS.
+  As used in this Act:
+  (1) PROGRAM- The term `Program' means the National Low Input Demonstration
+  Program established under section 302(a).
+  (2) SECRETARY- The term `Secretary' means the Secretary of Agriculture.
+  (3) STATE- The term `State' means each of the several States, the District
+  of Columbia, and Puerto Rico.
+  (4) TRANSITION FARM- The term "transition farm" means a farm that meets
+  all of the standards required under title I and the applicable State
+  program but that has not yet met the 3 year requirement to be certified
+  as an organic farm.
+SEC. 302. NATIONAL LABEL DEMONSTRATION PROGRAM.
+  (a) IN GENERAL- The Secretary shall establish a National Low Input Label
+  Demonstration Program for the purposes described in subsection (b).
+  (b) PURPOSES- The purpose of the Program is--
+  (1) to recognize that many farmers have substantially reduced the use of
+  chemical inputs and have adopted sustainable methods of farming;
+  (2) to authorize the establishment of a grant program for States to explore
+  the ramifications of establishing a low input label for agricultural products
+  produced using low input sustainable agriculture methods of production;
+  (3) to provide a labeling option for farmers who are in transition from
+  traditional to organic farming systems;
+  (4) to evaluate the impact that a low input label and a transition label
+  would have on consumer purchasing decisions and organic markets; and
+  (5) to assess whether the availability of a low input label and a transition
+  label would provide a significant incentive to motivate farmers to adapt
+  more sustainable agricultural practices.
+SEC. 303. ADMINISTRATION.
+  (a) GRANT PROGRAM- The Secretary shall make a grant from amounts appropriated
+  under section 306 to not less than 4 States that--
+  (1) have implemented a State organic certification program under title I;
+  (2) can designate a limited marketing area within the State in which the
+  label established under this title could be used and controlled;
+  (3) submit a competitive proposal that meets the requirement established
+  by the Secretary for conducting the Program; and
+  (4) will carry out a Program under this title.
+  (b) PREFERENCE- In making grants under subsection (a), the Secretary
+  shall give preference to any State that will assist in the development
+  and implementation of the Program by making funds or other resources of
+  such State available for use in the Program.
+  (c) RESPONSIBILITIES OF RECIPIENT- Each State recipient of a grant under
+  subsection (b) shall--
+  (1) design a demonstration project that meets the requirements of the
+  Secretary;
+  (2) designate farming operations eligible to participate in the Program
+  as low input sustainable farms, as determined and approved by the panel
+  of experts established by section 1466(1) of the Food Security Act of 1985
+  (7 U.S.C. 4706(1));
+  (3) designate farming operations eligible to participate as transition farms;
+  (4) authorize the sale of the products of the sustainable farms designated
+  under paragraphs (2) and (3) in retail establishments in such State; and
+  (5) prepare and submit a final report as required by section 305.
+SEC. 304. ESTABLISHMENT OF LABELS.
+  (a) IN GENERAL- The Secretary shall establish two experimental labels to
+  be affixed to agricultural products that have been produced on low input
+  sustainable farms and transition farms designated for participation in
+  the Program.
+  (b) CONTENT OF LABELS- The Secretary shall establish--
+  (1) a label that states that an agricultural product has been `produced on a
+  LISA farm' and which that bear the seal of the Department of Agriculture; and
+  (2) a label that states that an agricultural product has been produced in
+  `transition to organic' and that shall bear the seal of the Department
+  of Agriculture.
+  (c) AFFIXATION OF LABEL- The chief executive officer of a State shall
+  affix the labels referred to in subsection (a) to an agricultural product
+  only if such product has been produced in accordance with the requirements
+  established by the panel of experts established by section 1466(1) of the
+  Food Security Act of 1985 (7 U.S.C. 4706(1)).
+SEC. 305. REPORTS.
+  Not later than 2 years after the date of enactment of this title, the chief
+  executive officer of a State shall prepare and submit a final report that
+  contains the results of the Program to--
+  (1) the Secretary;
+  (2) the Committee on Agriculture of the House of Representatives; and
+  (3) the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+SEC. 306. AUTHORIZATION OF APPROPRIATIONS.
+  There are authorized to be appropriated such sums as may be necessary to
+  carry out this title.
+TITLE IV--NATIONAL LABORATORY ACCREDITATION
+SEC. 401. PURPOSES.
+  The purpose of the program established by this title is--
+  (1) to protect and assure individuals involved in the interstate commerce
+  and consumption of food that the representations by laboratories as to
+  chemical residues or the lack of residues in food is accurate;
+  (2) to authorize the Secretary of Agriculture, in consultation with other
+  agencies, to establish minimum standards concerning the quality of the
+  equipment and staff and testing protocols used by such laboratories;
+  (3) to provide for public disclosure of the results concerning the
+  accreditation of laboratories; and
+  (4) to require disclosure to the Secretary of Agriculture of all residue
+  levels that exceed tolerances set by the Administrator of the Environmental
+  Protection Agency and the Administrator of the Food and Drug Administration
+  and of all residue levels for substances prohibited or under special review
+  by the Administrator of the Food and Drug Administration.
+SEC. 402. DEFINITIONS.
+  As used in this title:
+  (1) AGRICULTURAL PRODUCTS- The term `agricultural products' means any
+  agricultural commodity or product whether raw or processed, including any
+  commodity or product derived from livestock or fowl that is marketed in
+  the United States for human and livestock consumption.
+  (2) CERTIFICATE- The term `certificate' means a certificate of accreditation
+  issued under this title.
+  (3) LABORATORY- The term `laboratory' means any facility or vehicle that
+  is owned by an individual or a public or private entity and is equipped
+  and operated for the purpose of carrying out pesticide residue analysis
+  on agricultural products.
+  (4) PESTICIDE- The term `pesticide' means any substance that alone, in
+  chemical combination, or in any formulation with one or more substances,
+  is defined as a pesticide in section 2(u) of the Federal Insecticide,
+  Fungicide, and Rodenticide Act (7 U.S.C. 136(u)).
+  (5) REFERENCE LABORATORY- The term `reference laboratory' means a laboratory
+  that is owned and operated by a governmental regulatory agency for the
+  principal purpose of analyzing samples referred by other laboratories for
+  confirmatory analysis.
+  (6) SECRETARY- The term `Secretary' means the Secretary of Agriculture.
+SEC. 403. NATIONAL LABORATORY ACCREDITATION PROGRAM.
+  (a) ESTABLISHMENT OF PROGRAM- The Secretary shall establish a National
+  Laboratory Accreditation Program under which laboratories that conduct
+  residue testing of agricultural products under this Act, or that make
+  claims to the public or buyers of agricultural products concerning chemical
+  residue levels on agricultural products, shall be determined to meet
+  certain minimum quality and reliability standards.
+  (b) REQUIREMENTS- In order to be accredited under this title, a laboratory
+  shall--
+  (1) prepare and submit an application for accreditation to the Secretary;
+  (2) complete a series of tests required by the Secretary; and
+  (3) comply with any additional terms and conditions as are determined
+  necessary by the Secretary.
+  (c) CONSULTATION- The Secretary shall, in consultation with the Administrator
+  of the Food and Drug Administration, establish minimum standards for
+  laboratories concerning--
+  (1) quality assurance programs;
+  (2) laboratory facilities;
+  (3) equipment;
+  (4) normal scientific methodologies;
+  (5) qualifications of directors and other personnel; and
+  (6) any other area concerning the operation or maintenance of a laboratory
+  that is determined by the Secretary to be necessary to ensure accurate
+  and complete analysis.
+  (d) EXCEPTIONS- This title shall not apply to--
+  (1) a laboratory operated by a government agency;
+  (2) a laboratory operated by a corporation that only performs analysis of
+  residues on agricultural products for such corporation or any wholly owned
+  subsidiary of such corporation and does not make claims to the public or
+  buyers based on such analysis;
+  (3) a laboratory operated by a partnership that only performs analysis
+  of residues on agricultural products for the partners of such partnership
+  and does not make claims to the public or buyers based on such analysis; or
+  (4) a laboratory not operated for commercial purposes that performs pesticide
+  chemical residue analysis on agricultural products for research or quality
+  control for the internal use of an individual who is initiating the analysis.
+SEC. 404. ACCREDITATION.
+  (a) IN GENERAL- The Secretary shall issue certificates of accreditation
+  to laboratories that meet the requirements of this title, as determined
+  by the Secretary.
+  (b) REQUIREMENTS FOR ACCREDITATION- To receive accreditation under this
+  title, a laboratory shall prepare and submit an application for accreditation
+  to the Secretary and shall complete all tests of samples required, and
+  meet all minimum standards established, by the Secretary under section 403.
+  (c) INTERIM ACCREDITATION-
+  (1) IN GENERAL- On the filing by a laboratory of a complete application
+  for accreditation under section 405, the Secretary may issue a certificate
+  of interim accreditation to such laboratory pending the full approval of
+  such application by the Secretary.
+  (2) CRITERIA- The Secretary may issue certificates of interim accreditation
+  to laboratories that the Secretary determines are likely to successfully
+  meet all requirements for full accreditation. In making such determination,
+  the Secretary shall consider the experience and current personnel of
+  such laboratory.
+  (3) DURATION.
+  (A) COMPLETION OF EVALUATION- An interim accreditation shall be
+  effective until the Secretary either grants or denies such laboratory
+  full accreditation.
+  (B) MAXIMUM PERIOD- An interim accreditation shall not be effective for
+  more than 180 days after the date of the issuance of such.
+  (C) NON-RENEWABLE- An interim accreditation shall not be immediately
+  renewable.
+  (d) FAILURE TO MEET ACCREDITATION STANDARDS- The Secretary shall deny an
+  application for accreditation or shall revoke any existing accreditation
+  with respect to any laboratory that--
+  (1) does not complete successfully all tests of samples and other tests
+  required by the Secretary;
+  (2) does not pass an onsite inspection conducted by the Secretary; or
+  (3) is not in compliance with the national laboratory accreditation program
+  established under this title.
+  (e) LIMITED ACCREDITATION- The Secretary may issue certificates of
+  accreditation to laboratories that are limited to specific fields of testing.
+  (f) DURATION OF ACCREDITATION- A certificate of accreditation shall be
+  effective for not more than 3 years from the date of the issuance of such.
+  (g) RENEWAL OF ACCREDITATION- A certificate of accreditation for a laboratory
+  may be renewed on the completion of all tests of samples required by the
+  Secretary and on a review of such laboratory by the Secretary to determine
+  that such laboratory meets the requirements of this title.
+SEC. 405. SAMPLES.
+  (a) PERFORMANCE EVALUATION SAMPLES-
+  (1) PROVIDED BY SECRETARY- The Secretary shall provide performance
+  evaluation samples to any laboratory that has applied for accreditation
+  or for a renewal of accreditation under this title.
+  (2) ANALYSIS BY LABORATORY- A laboratory described in paragraph (1) shall
+  analyze such performance evaluation samples and submit the results of such
+  analysis to the Secretary.
+  (3) TESTING METHODS- Samples shall be tested by the laboratory according
+  to methods specifically approved for such purpose by alternate methods of
+  demonstrated adequacy or equivalence, as determined by the Secretary.
+  (b) RESULTS OF TESTING-
+  (1) SUBMISSION OF RESULTS- The laboratory shall submit the results of the
+  tests conducted under subsection (a) to the Secretary on forms provided
+  by the Secretary, on or before the date determined by the Secretary.
+  (2) EVALUATION OF TESTS- The Secretary shall evaluate the results of
+  such tests achieved by the laboratory and shall determine whether such
+  laboratory is capable of undertaking an accurate analysis of chemical
+  residues in agricultural products.
+  (c) REVIEW OF ACCREDITATION- The Secretary shall provide performance
+  evaluation samples for analysis to laboratories accredited under this
+  title not less than two times a year.
+  (d) IDENTIFICATION- In any arrangement between laboratories that involves
+  the transfer of performance evaluation samples or portions of such samples,
+  the analyzing laboratory shall be identified in all reports regarding such
+  samples and shall be the laboratory for purposes of accreditation.
+SEC. 406. APPLICATION.
+  (a) CONTENTS OF APPLICATION- An application for accreditation or for renewal
+  of accreditation under this title shall be prepared and submitted to the
+  Secretary and shall include--
+  (1) the name and address of the laboratory;
+  (2) the name and address of the owners and managers of such laboratory;
+  (3) a statement concerning the type of analysis the laboratory intends
+  to conduct;
+  (4) a brief history of the laboratory and its previous operations; and
+  (5) such other information as may be required by the Secretary.
+  (b) RESTRICTIONS ON SUBMISSION OF APPLICATION- A laboratory that has been
+  denied, or has lost, accreditation under this title shall not reapply for
+  accreditation until the expiration of at least 1 year after such denial
+  or loss of accreditation.
+SEC. 407. REPORTING.
+  (a) IN GENERAL- Each laboratory or individual that performs, brokers, or
+  otherwise arranges for the performance of pesticide chemical analysis of
+  food shall prepare and report, to the Secretary and, by certified mail,
+  to the owner of such food, that shall contain any finding of pesticide
+  chemical residues in such food--
+  (1) for which no chemical residue tolerance has been established; or
+  (2) that is in excess of residue tolerances or tolerances for a pesticide
+  suspended, banned, or otherwise not permitted by the Environmental
+  Protection Agency.
+  (b) TIMING OF REPORT- A laboratory shall submit the report required under
+  subsection (a) to the Secretary as soon as practicable after the completion
+  of the analysis of such food.
+  (c) GUIDELINES- The Secretary shall adopt standardized reporting guidelines
+  to be applied to laboratories under this section and shall provide such
+  guidelines to laboratories accredited under this title, as well as other
+  sources of information regarding applicable pesticide chemical tolerances.
+SEC. 408. FEES.
+  (a) IN GENERAL- At the time that an application for accreditation is
+  received by the Secretary, and annually thereafter, a laboratory seeking
+  such accreditation or a renewal of accreditation under this title shall
+  pay a nonrefundable accreditation fee.
+  (b) AMOUNT OF FEE- The fee required under subsection (a) shall be established
+  by the Secretary in an amount that will assist in offsetting the cost of
+  the program established by this title.
+  (c) REIMBURSEMENT OF EXPENSES- Each laboratory that is accredited under
+  this title or that has applied for accreditation under this title shall
+  reimburse the Secretary for reasonable travel and other expenses necessary
+  to perform onsite inspections of such laboratory.
+  (d) ADJUSTMENT OF FEES- The Secretary may, on an annual basis, adjust the
+  fees imposed under this section, as necessary to support the full costs
+  of the program established by this title.
+  (e) GOVERNMENT-OWNED LABORATORY- A State or local government-owned laboratory
+  that performs work only in a reference capacity as a reference laboratory
+  shall be exempt from the payment of any accreditation fee required under
+  this section.
+SEC. 409. PUBLIC DISCLOSURE.
+  The results of the evaluations of laboratories conducted by the Secretary
+  under this title shall be made available to the public on request.
+SEC. 410. REGULATIONS.
+  The Secretary shall promulgate regulations to carry out this title.
+SEC. 411. AUTHORIZATION OF APPROPRIATIONS.
+  There are authorized to be appropriated such sums as may be necessary to
+  carry out this title.
+SEC. 412. EFFECTIVE DATE.
+  This title shall become effective on January 1, 1991.
