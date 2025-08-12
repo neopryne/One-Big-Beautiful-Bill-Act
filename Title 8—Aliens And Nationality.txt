@@ -1,5 +1,5 @@
   Current
-2024 Main Ed. (1/6/2025) [Titles 1 through 6]
+2024 Main Ed. (1/6/2025) [Titles 1 through 15]
 2018 Ed. and Supplement V (1/3/2024)
 2018 Ed. and Supplement IV (1/5/2023)
 2018 Ed. and Supplement III (1/3/2022)
@@ -82,6 +82,9 @@ Restricting Welfare and Public Benefits for Aliens
 15.
 Enhanced Border Security and Visa Entry Reform
 1701
+16.
+Immigration Fees
+1801
          CHAPTER 1—GENERAL PROVISIONS
 §§1 to 18. Repealed or Omitted
 These sections, relating to citizenship, were affected by the Nationality Act of 1940, former section 501 et seq. of this title.
@@ -5254,7 +5257,6 @@ Presidential Determination No. 87–1, Oct. 17, 1986, 51 F.R. 39637.
 Presidential Determination No. 83–2, Oct. 11, 1982, 47 F.R. 46483.
 Presidential Determination No. 82–1, Oct. 10, 1981, 46 F.R. 55233.
 Presidential Determination No. 80–28, Sept. 30, 1980, 45 F.R. 68365.
-Ex. Ord. No. 12208. Consultations on the Admission of Refugees
 §1158. Asylum
 (a) Authority to apply for asylum
 (1) In general
@@ -5329,7 +5331,7 @@ The Attorney General shall establish a procedure for the consideration of asylum
 (2) Employment
 An applicant for asylum is not entitled to employment authorization, but such authorization may be provided under regulation by the Attorney General. An applicant who is not otherwise eligible for employment authorization shall not be granted such authorization prior to 180 days after the date of filing of the application for asylum.
 (3) Fees
-The Attorney General may impose fees for the consideration of an application for asylum, for employment authorization under this section, and for adjustment of status under section 1159(b) of this title. Such fees shall not exceed the Attorney General's costs in adjudicating the applications. The Attorney General may provide for the assessment and payment of such fees over a period of time or by installments. Nothing in this paragraph shall be construed to require the Attorney General to charge fees for adjudication services provided to asylum applicants, or to limit the authority of the Attorney General to set adjudication and naturalization fees in accordance with section 1356(m) of this title.
+The Attorney General shall impose fees for the consideration of an application for asylum, for employment authorization under this section, and for adjustment of status under section 1159(b) of this title. Nothing in this paragraph may be construed to limit the authority of the Attorney General to set additional adjudication and naturalization fees in accordance with section 1356(m) of this title.
 (4) Notice of privilege of counsel and consequences of frivolous application
 At the time of filing an application for asylum, the Attorney General shall—
 (A) advise the alien of the privilege of being represented by counsel and of the consequences, under paragraph (6), of knowingly filing a frivolous application for asylum; and
@@ -5350,12 +5352,13 @@ If the Attorney General determines that an alien has knowingly made a frivolous 
 Nothing in this subsection shall be construed to create any substantive or procedural right or benefit that is legally enforceable by any party against the United States or its agencies or officers or any other person.
 (e) Commonwealth of the Northern Mariana Islands
 The provisions of this section and section 1159(b) of this title shall apply to persons physically present in the Commonwealth of the Northern Mariana Islands or arriving in the Commonwealth (whether or not at a designated port of arrival and including persons who are brought to the Commonwealth after having been interdicted in international or United States waters) only on or after January 1, 2014.
-(June 27, 1952, ch. 477, title II, ch. 1, §208, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title V, §515(a)(1), Nov. 29, 1990, 104 Stat. 5053; Pub. L. 103–322, title XIII, §130005(b), Sept. 13, 1994, 108 Stat. 2028; Pub. L. 104–132, title IV, §421(a), Apr. 24, 1996, 110 Stat. 1270; Pub. L. 104–208, div. C, title VI, §604(a), Sept. 30, 1996, 110 Stat. 3009–690; Pub. L. 107–56, title IV, §411(b)(2), Oct. 26, 2001, 115 Stat. 348; Pub. L. 107–208, §4, Aug. 6, 2002, 116 Stat. 928; Pub. L. 109–13, div. B, title I, §101(a), (b), May 11, 2005, 119 Stat. 302, 303; Pub. L. 110–229, title VII, §702(j)(4), May 8, 2008, 122 Stat. 866; Pub. L. 110–457, title II, §235(d)(7), Dec. 23, 2008, 122 Stat. 5080.)
+(June 27, 1952, ch. 477, title II, ch. 1, §208, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title V, §515(a)(1), Nov. 29, 1990, 104 Stat. 5053; Pub. L. 103–322, title XIII, §130005(b), Sept. 13, 1994, 108 Stat. 2028; Pub. L. 104–132, title IV, §421(a), Apr. 24, 1996, 110 Stat. 1270; Pub. L. 104–208, div. C, title VI, §604(a), Sept. 30, 1996, 110 Stat. 3009–690; Pub. L. 107–56, title IV, §411(b)(2), Oct. 26, 2001, 115 Stat. 348; Pub. L. 107–208, §4, Aug. 6, 2002, 116 Stat. 928; Pub. L. 109–13, div. B, title I, §101(a), (b), May 11, 2005, 119 Stat. 302, 303; Pub. L. 110–229, title VII, §702(j)(4), May 8, 2008, 122 Stat. 866; Pub. L. 110–457, title II, §235(d)(7), Dec. 23, 2008, 122 Stat. 5080; Pub. L. 119–21, title X, §100018, July 4, 2025, 139 Stat. 385.)
 
 Editorial Notes
 References in Text
 This chapter, referred to in subsec. (d)(5)(B), (6), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 Amendments
+2025—Subsec. (d)(3). Pub. L. 119–21 substituted "shall impose fees" for "may impose fees" and "Nothing in this paragraph may be construed to limit the authority of the Attorney General to set additional adjudication and naturalization fees in accordance with section 1356(m) of this title." for "Such fees shall not exceed the Attorney General's costs in adjudicating the applications. The Attorney General may provide for the assessment and payment of such fees over a period of time or by installments. Nothing in this paragraph shall be construed to require the Attorney General to charge fees for adjudication services provided to asylum applicants, or to limit the authority of the Attorney General to set adjudication and naturalization fees in accordance with section 1356(m) of this title."
 2008—Subsec. (a)(2)(E). Pub. L. 110–457, §235(d)(7)(A), added subpar. (E).
 Subsec. (b)(3)(C). Pub. L. 110–457, §235(d)(7)(B), added subpar. (C).
 Subsec. (e). Pub. L. 110–229 added subsec. (e).
@@ -9137,12 +9140,17 @@ The Secretary of Homeland Security, in consultation with the Secretary of State,
 (B) Fees
 (i) In general
 No later than 6 months after March 4, 2010, the Secretary of Homeland Security shall establish a fee for the use of the System and begin assessment and collection of that fee. The initial fee shall be the sum of—
-(I) $17 per travel authorization; and
-(II) an amount that will at least ensure recovery of the full costs of providing and administering the System, as determined by the Secretary.
+(I) $17 per travel authorization;
+(II) an amount of not less than $10 that will at least ensure recovery of the full costs of providing and administering the System, as determined by the Secretary; and
+(III) not less than $13 per travel authorization.
 (ii) Disposition of amounts collected
 Amounts collected under clause (i)(I) shall be credited to the Travel Promotion Fund established by subsection (d) of section 2131 of title 22. Amounts collected under clause (i)(II) shall be transferred to the general fund of the Treasury and made available to pay the costs incurred to administer the System.
 (iii) Sunset of Travel Promotion Fund fee
-The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after October 31, 2028.
+The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after October 31, 2034.
+(iv) Subsequent adjustment
+During fiscal year 2026 and each subsequent fiscal year, the amount specified in clause (i)(II) for a fiscal year shall be equal to the sum of—
+(I) the amount of the fee required under this subparagraph during the most recently concluded fiscal year; and
+(II) the product of the amount referred to in subclause (I) multiplied by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year.
 (C) Validity
 (i) Period
 The Secretary of Homeland Security, in consultation with the Secretary of State, shall prescribe regulations that provide for a period, not to exceed three years, during which a determination of eligibility to travel under the program will be valid. Notwithstanding any other provision under this section, the Secretary of Homeland Security may revoke any such determination or shorten the period of eligibility under any such determination at any time and for any reason.
@@ -9169,7 +9177,7 @@ The system established under paragraph (1) shall—
 Not later than 180 days after August 3, 2007, the Secretary shall submit to Congress a report that describes—
 (A) the progress made in developing and deploying the exit system established under this subsection; and
 (B) the procedures by which the Secretary shall improve the method of calculating the rates of nonimmigrants who overstay their authorized period of stay in the United States.
-(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(l)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009-620, 3009-702, 3009-703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107–173, title III, §307(a), May 14, 2002, 116 Stat. 556; Pub. L. 110–53, title VII, §711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341; Pub. L. 111–145, §9(h), formerly §9(e), Mar. 4, 2010, 124 Stat. 62, renumbered Pub. L. 113–235, div. B, title VI, §606(1), Dec. 16, 2014, 128 Stat. 2219; Pub. L. 111–198, §5(a), July 2, 2010, 124 Stat. 1357; Pub. L. 113–235, div. B, title VI, §605(b), Dec. 16, 2014, 128 Stat. 2219; Pub. L. 114–113, div. O, title II, §§202(a), (b), 203–205(a), 206, 207(a), 209, Dec. 18, 2015, 129 Stat. 2989–2995; Pub. L. 115–123, div. C, title II, §30203(a), Feb. 9, 2018, 132 Stat. 126; Pub. L. 116–94, div. I, title VIII, §806, Dec. 20, 2019, 133 Stat. 3029; Pub. L. 117–103, div. EE, §101, Mar. 15, 2022, 136 Stat. 1111.)
+(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(l)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009-620, 3009-702, 3009-703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107–173, title III, §307(a), May 14, 2002, 116 Stat. 556; Pub. L. 110–53, title VII, §711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341; Pub. L. 111–145, §9(h), formerly §9(e), Mar. 4, 2010, 124 Stat. 62, renumbered Pub. L. 113–235, div. B, title VI, §606(1), Dec. 16, 2014, 128 Stat. 2219; Pub. L. 111–198, §5(a), July 2, 2010, 124 Stat. 1357; Pub. L. 113–235, div. B, title VI, §605(b), Dec. 16, 2014, 128 Stat. 2219; Pub. L. 114–113, div. O, title II, §§202(a), (b), 203–205(a), 206, 207(a), 209, Dec. 18, 2015, 129 Stat. 2989–2995; Pub. L. 115–123, div. C, title II, §30203(a), Feb. 9, 2018, 132 Stat. 126; Pub. L. 116–94, div. I, title VIII, §806, Dec. 20, 2019, 133 Stat. 3029; Pub. L. 117–103, div. EE, §101, Mar. 15, 2022, 136 Stat. 1111; Pub. L. 119–21, title X, §100014, July 4, 2025, 139 Stat. 382.)
 
 Editorial Notes
 References in Text
@@ -9177,6 +9185,9 @@ Section 4605(j) of title 50, referred to in subsec. (a)(12)(A)(i)(II), (ii)(II),
 The International Emergency Economic Powers Act, referred to in subsec. (a)(12)(A)(i)(II), (ii)(II), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 This chapter, referred to in subsecs. (b)(1) and (c)(7)(B)(iv), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 Amendments
+2025—Subsec. (h)(3)(B)(i)(II), (III). Pub. L. 119–21, §100014(1), inserted "of not less than $10" after "an amount" in subcl. (II) and added subcl. (III).
+Subsec. (h)(3)(B)(iii). Pub. L. 119–21, §100014(2), substituted "October 31, 2034" for "October 31, 2028".
+Subsec. (h)(3)(B)(iv). Pub. L. 119–21, §100014(3), added cl. (iv).
 2022—Subsec. (h)(3)(B)(iii). Pub. L. 117–103 substituted "October 31, 2028" for "September 30, 2027".
 2019—Subsec. (h)(3)(B)(i)(I). Pub. L. 116–94 substituted "$17" for "$10".
 2018—Subsec. (h)(3)(B)(iii). Pub. L. 115–123 substituted "September 30, 2027" for "September 30, 2020".
@@ -12163,7 +12174,16 @@ Subject to paragraph (3), an alien, who is a national of a state designated unde
 (iii) the alien is admissible as an immigrant, except as otherwise provided under paragraph (2)(A), and is not ineligible for temporary protected status under paragraph (2)(B); and
 (iv) to the extent and in a manner which the Attorney General establishes, the alien registers for the temporary protected status under this section during a registration period of not less than 180 days.
 (B) Registration fee
-The Attorney General may require payment of a reasonable fee as a condition of registering an alien under subparagraph (A)(iv) (including providing an alien with an "employment authorized" endorsement or other appropriate work permit under this section). The amount of any such fee shall not exceed $50. In the case of aliens registered pursuant to a designation under this section made after July 17, 1991, the Attorney General may impose a separate, additional fee for providing an alien with documentation of work authorization. Notwithstanding section 3302 of title 31, all fees collected under this subparagraph shall be credited to the appropriation to be used in carrying out this section.
+(i) In general
+The Attorney General may require payment of a reasonable fee as a condition of registering an alien under subparagraph (A)(iv) (including providing an alien with an "employment authorized" endorsement or other appropriate work permit under this section). The amount of any such fee shall not exceed $500, subject to the adjustments required under clause (ii). In the case of aliens registered pursuant to a designation under this section made after July 17, 1991, the Attorney General may impose a separate, additional fee for providing an alien with documentation of work authorization. Notwithstanding section 3302 of title 31, all fees collected under this subparagraph shall be credited to the appropriation to be used in carrying out this section.
+(ii) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the maximum amount of the fee authorized under clause (i) shall be equal to the sum of—
+(I) the maximum amount of the fee authorized under this subparagraph for the most recently concluded fiscal year; and
+(II) the product resulting from the multiplication of the amount referred to in subclause (I) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(iii) Disposition of temporary protected status fees
+All of the fees collected pursuant to this subparagraph shall be deposited into the general fund of the Treasury.
+(iv) No fee waiver
+Fees required to be paid under this subparagraph shall not be waived or reduced.
 (2) Eligibility standards
 (A) Waiver of certain grounds for inadmissibility
 In the determination of an alien's admissibility for purposes of subparagraph (A)(iii) of paragraph (1)—
@@ -12227,12 +12247,13 @@ Not later than March 1 of each year (beginning with 1992), the Attorney General,
 (C) an explanation of the reasons why foreign states or parts thereof were designated under subsection (b)(1) and, with respect to foreign states or parts thereof previously designated, why the designation was terminated or extended under subsection (b)(3).
 (2) Committee report
 No later than 180 days after the date of receipt of such a report, the Committee on the Judiciary of each House of Congress shall report to its respective House such oversight findings and legislation as it deems appropriate.
-(June 27, 1952, ch. 477, title II, ch. 5, §244, formerly §244A, as added and amended Pub. L. 101–649, title III, §302(a), title VI, §603(a)(24), Nov. 29, 1990, 104 Stat. 5030, 5084; Pub. L. 102–232, title III, §§304(b), 307(l)(5), Dec. 12, 1991, 105 Stat. 1749, 1756; Pub. L. 103–416, title II, §219(j), (z)(2), Oct. 25, 1994, 108 Stat. 4317, 4318; renumbered §244 and amended Pub. L. 104–208, div. C, title III, §308(b)(7), (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), Sept. 30, 1996, 110 Stat. 3009–615, 3009-619, 3009-620, 3009-624.)
+(June 27, 1952, ch. 477, title II, ch. 5, §244, formerly §244A, as added and amended Pub. L. 101–649, title III, §302(a), title VI, §603(a)(24), Nov. 29, 1990, 104 Stat. 5030, 5084; Pub. L. 102–232, title III, §§304(b), 307(l)(5), Dec. 12, 1991, 105 Stat. 1749, 1756; Pub. L. 103–416, title II, §219(j), (z)(2), Oct. 25, 1994, 108 Stat. 4317, 4318; renumbered §244 and amended Pub. L. 104–208, div. C, title III, §308(b)(7), (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), Sept. 30, 1996, 110 Stat. 3009–615, 3009-619, 3009-620, 3009-624; Pub. L. 119–21, title X, §100006, July 4, 2025, 139 Stat. 369.)
 
 Editorial Notes
 References in Text
 This chapter, referred to in subsec. (a)(5), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 Amendments
+2025—Subsec. (c)(1)(B). Pub. L. 119–21 designated existing provisions as cl. (i), inserted cl. (i) heading, substituted "$500, subject to the adjustments required under clause (ii)" for "$50", and added cls. (ii) to (iv).
 1996—Subsec. (a)(1)(A). Pub. L. 104–208, §308(e)(11), substituted "remove" for "deport".
 Subsec. (a)(3)(B), (C). Pub. L. 104–208, §308(e)(1)(G), substituted "removal" for "deportation".
 Subsec. (b)(5)(B). Pub. L. 104–208, §308(e)(1)(G), substituted "removal" for "deportation".
@@ -14332,7 +14353,7 @@ To the extent practicable, the Secretary of Homeland Security shall seek to esta
 "(b) Report on Expansion.—Not later than June 1, 2004, the Secretary of Homeland Security shall submit to the Committees on the Judiciary of the House of Representatives and the Senate a report—
 "(1) evaluating whether the problems identified by the report submitted under subsection (a) have been substantially resolved; and
 "(2) describing what actions the Secretary of Homeland Security shall take before undertaking the expansion of the E-Verify Program to all 50 States in accordance with section 401(c)(1), in order to resolve any outstanding problems raised in the report filed under subsection (a)."
-[Pub. L. 118–47, div. G, title I, §103, Mar. 23, 2024, 138 Stat. 856, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 [div. C of Pub. L. 104–208] (8 U.S.C. 1324a note) [set out above] shall be applied by substituting 'September 30, 2024' for 'September 30, 2015'."
+[Pub. L. 118–47, div. G, title I, §103, Mar. 23, 2024, 138 Stat. 856, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 [div. C of Pub. L. 104–208] (8 U.S.C. 1324a note) [set out above] shall be applied by substituting 'September 30, 2024' for 'September 30, 2015'."]
 [Pub. L. 117–328, div. O, title III, §301, Dec. 29, 2022, 136 Stat. 5227, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 [div. C of Pub. L. 104–208] (8 U.S.C. 1324a note) [set out above] shall be applied by substituting 'September 30, 2023' for 'September 30, 2015'."]
 [Pub. L. 117–103, div. O, title II, §201, Mar. 15, 2022, 136 Stat. 787, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 [div. C of Pub. L. 104–208] (8 U.S.C. 1324a note) [set out above] shall be applied by substituting 'September 30, 2022' for 'September 30, 2015'."]
 [Pub. L. 116–260, div. O, title I, §101, Dec. 27, 2020, 134 Stat. 2148, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 [div. C of Pub. L. 104–208] (8 U.S.C. 1324a note) [set out above] shall be applied by substituting 'September 30, 2021' for 'September 30, 2015'."]
@@ -15220,7 +15241,18 @@ One-third of the amounts deposited into the Fraud Prevention and Detection Accou
 One-third of the amounts deposited into the Fraud Prevention and Detection Account shall remain available to the Secretary of Labor until expended for wage and hour enforcement programs and activities otherwise authorized to be conducted by the Secretary of Labor that focus on industries likely to employ nonimmigrants, including enforcement programs and activities described in section 1182(n) of this title and enforcement programs and activities related to section 1184(c)(14)(A)(i) of this title.
 (D) Consultation
 The Secretary of State, the Secretary of Homeland Security, and the Secretary of Labor shall consult one another with respect to the use of the funds in the Fraud Prevention and Detection Account or for programs and activities to prevent and detect fraud with respect to petitions under paragraph (1) or (2)(A) of section 1184(c) of this title to grant an alien nonimmigrant status described in section 1101(a)(15)(H)(ii) of this title.
-(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) [title II, §205(a), formerly §205], Oct. 18, 1986, 100 Stat. 1783–39, 1783-53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) [title II, §205], Oct. 30, 1986, 100 Stat. 3341–39, 3341-53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009-562, 3009-617 to 3009-619, 3009-622, 3009-648, 3009-651, 3009-722, 3009-723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) [title I, §114], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681-68, 2681-652; Pub. L. 106–113, div. B, §1000(a)(1) [title I, §118], Nov. 29, 1999, 113 Stat. 1535, 1501A-22; Pub. L. 106–313, title I, §§110(a), 113, Oct. 17, 2000, 114 Stat. 1255, 1261; Pub. L. 106–553, §1(a)(2) [title I, §112], Dec. 21, 2000, 114 Stat. 2762, 2762A-68; Pub. L. 106–554, §1(a)(1) [title I, §106], Dec. 21, 2000, 114 Stat. 2763, 2763A-11; Pub. L. 107–77, title I, §§109, 110, Nov. 28, 2001, 115 Stat. 765; Pub. L. 107–173, title IV, §403(a), May 14, 2002, 116 Stat. 559; Pub. L. 107–206, title I, §202, Aug. 2, 2002, 116 Stat. 832; Pub. L. 107–273, div. C, title I, §11016(2), Nov. 2, 2002, 116 Stat. 1824; Pub. L. 107–296, title IV, §457, Nov. 25, 2002, 116 Stat. 2201; Pub. L. 108–7, div. B, title I, §108, div. L, §107, Feb. 20, 2003, 117 Stat. 67, 532; Pub. L. 108–77, title IV, §402(d)(2), Sept. 3, 2003, 117 Stat. 946; Pub. L. 108–447, div. J, title IV, §§426(b), 427, Dec. 8, 2004, 118 Stat. 3357, 3358; Pub. L. 109–13, div. A, title VI, §6046, div. B, title IV, §403(b), May 11, 2005, 119 Stat. 295, 319; Pub. L. 109–472, §2, Jan. 11, 2007, 120 Stat. 3554; Pub. L. 111–117, div. D, title V, §524(a), Dec. 16, 2009, 123 Stat. 3283; Pub. L. 114–125, title VIII, §818(a), Feb. 24, 2016, 130 Stat. 222; Pub. L. 115–254, div. B, title V, §573, Oct. 5, 2018, 132 Stat. 3389; Pub. L. 116–159, div. D, title I, §4102(a), Oct. 1, 2020, 134 Stat. 738; Pub. L. 117–286, §4(a)(44), Dec. 27, 2022, 136 Stat. 4310.)
+(w) CBP Electronic Visa Update System Account
+(1) Establishment
+There is established in the general fund of the Treasury a separate account, which shall be known as the "CBP Electronic Visa Update System Account" (referred to in this subsection as the "Account").
+(2) Deposits
+There shall be deposited into the Account an amount equal to the difference between—
+(A) all of the fees received pursuant to section 1813 of this title; and
+(B) an amount equal to $5 multiplied by the number of payments collected pursuant to such section.
+(3) Appropriation
+Amounts deposited in the Account—
+(A) are hereby appropriated to make payments and offset program costs in accordance with section 1813 of this title, without further appropriation; and
+(B) shall remain available until expended for any U.S. Customs and Border Protection costs associated with administering the CBP Electronic Visa Update System.
+(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) [title II, §205(a), formerly §205], Oct. 18, 1986, 100 Stat. 1783–39, 1783-53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) [title II, §205], Oct. 30, 1986, 100 Stat. 3341–39, 3341-53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009-562, 3009-617 to 3009-619, 3009-622, 3009-648, 3009-651, 3009-722, 3009-723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) [title I, §114], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681-68, 2681-652; Pub. L. 106–113, div. B, §1000(a)(1) [title I, §118], Nov. 29, 1999, 113 Stat. 1535, 1501A-22; Pub. L. 106–313, title I, §§110(a), 113, Oct. 17, 2000, 114 Stat. 1255, 1261; Pub. L. 106–553, §1(a)(2) [title I, §112], Dec. 21, 2000, 114 Stat. 2762, 2762A-68; Pub. L. 106–554, §1(a)(1) [title I, §106], Dec. 21, 2000, 114 Stat. 2763, 2763A-11; Pub. L. 107–77, title I, §§109, 110, Nov. 28, 2001, 115 Stat. 765; Pub. L. 107–173, title IV, §403(a), May 14, 2002, 116 Stat. 559; Pub. L. 107–206, title I, §202, Aug. 2, 2002, 116 Stat. 832; Pub. L. 107–273, div. C, title I, §11016(2), Nov. 2, 2002, 116 Stat. 1824; Pub. L. 107–296, title IV, §457, Nov. 25, 2002, 116 Stat. 2201; Pub. L. 108–7, div. B, title I, §108, div. L, §107, Feb. 20, 2003, 117 Stat. 67, 532; Pub. L. 108–77, title IV, §402(d)(2), Sept. 3, 2003, 117 Stat. 946; Pub. L. 108–447, div. J, title IV, §§426(b), 427, Dec. 8, 2004, 118 Stat. 3357, 3358; Pub. L. 109–13, div. A, title VI, §6046, div. B, title IV, §403(b), May 11, 2005, 119 Stat. 295, 319; Pub. L. 109–472, §2, Jan. 11, 2007, 120 Stat. 3554; Pub. L. 111–117, div. D, title V, §524(a), Dec. 16, 2009, 123 Stat. 3283; Pub. L. 114–125, title VIII, §818(a), Feb. 24, 2016, 130 Stat. 222; Pub. L. 115–254, div. B, title V, §573, Oct. 5, 2018, 132 Stat. 3389; Pub. L. 116–159, div. D, title I, §4102(a), Oct. 1, 2020, 134 Stat. 738; Pub. L. 117–286, §4(a)(44), Dec. 27, 2022, 136 Stat. 4310; Pub. L. 119–21, title X, §100015(c)(1), July 4, 2025, 139 Stat. 383.)
 Amendment of Section
 For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.
 
@@ -15229,7 +15261,9 @@ References in Text
 This chapter, referred to in subsecs. (a), (h)(1)(B), and (r)(2), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 Subchapter C of chapter 33 of title 26, referred to in subsec. (f)(3), is classified to section 4261 et seq. of Title 26, Internal Revenue Code.
 Section 606 of Public Law 101–162, referred to in subsec. (q)(3)(B), is section 606 of Pub. L. 101–162, title VI, Nov. 21, 1989, 103 Stat. 1031, which is not classified to the Code.
+Section 1813 of this title, referred to in subsec. (w)(2)(A), (3)(A), was in the original, "section 100015 of the Act entitled 'An Act to provide for reconciliation pursuant to title II of H. Con. Res. 14' ", which was translated as meaning section 100015 of Pub. L. 119–21 which is classified to section 1813 of this title, to reflect the probable intent of Congress.
 Amendments
+2025—Subsec. (w). Pub. L. 119–21 added subsec. (w).
 2022—Subsec. (k). Pub. L. 117–286 substituted "chapter 10 of title 5," for "the Federal Advisory Committee Act,".
 2020—Subsec. (u). Pub. L. 116–159 amended subsec. (u) generally. Prior to amendment, text read as follows: "The Attorney General is authorized to establish and collect a premium fee for employment-based petitions and applications. This fee shall be used to provide certain premium-processing services to business customers, and to make infrastructure improvements in the adjudications and customer-service processes. For approval of the benefit applied for, the petitioner/applicant must meet the legal criteria for such benefit. This fee shall be set at $1,000, shall be paid in addition to any normal petition/application fee that may be applicable, and shall be deposited as offsetting collections in the Immigration Examinations Fee Account. The Attorney General may adjust this fee according to the Consumer Price Index."
 2018—Subsec. (i). Pub. L. 115–254 inserted ", train," after "commercial aircraft" and ", rail line," after "airport".
@@ -20553,6 +20587,8 @@ Machine-readable visa fees.
 Surcharges related to consular services.
 1715.
 Consular and Border Security Programs.
+1716.
+State Border Security Reinforcement Fund.
          SUBCHAPTER II—INTERAGENCY INFORMATION SHARING
 1721.
 Interim measures for access to and coordination of law enforcement and other information.
@@ -20855,6 +20891,32 @@ Pub. L. 117–103, div. K, title VII, §7034(l)(9), Mar. 15, 2022, 136 Stat. 624
 Pub. L. 116–260, div. K, title VII, §7034(l)(9), Dec. 27, 2020, 134 Stat. 1750.
 Pub. L. 116–94, div. G, title VII, §7034(l)(9), Dec. 20, 2019, 133 Stat. 2873.
 Pub. L. 116–6, div. F, title VII, §7034(m)(9), Feb. 15, 2019, 133 Stat. 327.
+§1716. State Border Security Reinforcement Fund
+(1) Establishment
+There is established, in the Department of Homeland Security, a fund to be known as the "State Border Security Reinforcement Fund."
+(2) Purposes
+The Secretary of Homeland Security shall use amounts appropriated or otherwise made available for the Fund for grants to eligible States and units of local government for any of the following purposes:
+(A) Construction or installation of a border wall, border fencing or other barrier, or buoys along the southern border of the United States, which may include planning, procurement of materials, and personnel costs related to such construction or installation.
+(B) Any work necessary to prepare the ground at or near land borders to allow construction and maintenance of a border wall or other barrier fencing.
+(C) Detection and interdiction of illicit substances and aliens who have unlawfully entered the United States and have committed a crime under Federal, State, or local law, and transfer or referral of such aliens to the Department of Homeland Security as provided by law.
+(D) Relocation of aliens who are unlawfully present in the United States from small population centers to other domestic locations.
+(3) Appropriation
+In addition to amounts otherwise available for the purposes described in paragraph (2), there is appropriated for fiscal year 2025, out of any money in the Treasury not otherwise appropriated, to the Department of Homeland Security for the State Border Security Reinforcement Fund established by paragraph (1), $10,000,000,000, to remain available until September 30, 2034, for qualified expenses for such purposes.
+(4) Eligibility
+The Secretary of Homeland Security may provide grants from the fund established by paragraph (1) to State agencies and units of local governments for expenditures made for completed, ongoing, or new activities, in accordance with law, that occurred on or after January 20, 2021.
+(5) Application
+Each State desiring to apply for a grant under this subsection shall submit an application to the Secretary containing such information in support of the application as the Secretary may require. The Secretary shall require that each State include in its application the purposes for which the State seeks the funds and a description of how the State plans to allocate the funds. The Secretary shall begin to accept applications not later than 90 days after July 4, 2025.
+(6) Terms and conditions
+Nothing in this subsection shall authorize any State or local government to exercise immigration or border security authorities reserved exclusively to the Federal Government under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) or the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.). The Federal Emergency Management Agency may use not more than 1 percent of the funds made available under this subsection for the purpose of administering grants provided for in this section.
+(Pub. L. 119–21, title IX, §90005(b), July 4, 2025, 139 Stat. 360.)
+
+Editorial Notes
+References in Text
+The Immigration and Nationality Act, referred to in par. (6), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Homeland Security Act of 2002, referred to in par. (6), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
+Codification
+Section is comprised of subsec. (b) of section 90005 of Pub. L. 119–21. Subsec. (a) of section 90005 of Pub. L. 119–21 is not classified to the Code.
+Section was enacted as part of Pub. L. 119–21, July 4, 2025, 139 Stat. 72, popularly known as the One Big Beautiful Bill Act and also as an act to provide for reconciliation pursuant to title II of H. Con. Res. 14 for the 119th Congress, and not as part of the Enhanced Border Security and Visa Entry Reform Act of 2002 which comprises this chapter.
 SUBCHAPTER II—INTERAGENCY INFORMATION SHARING
 §1721. Interim measures for access to and coordination of law enforcement and other information
 (a) Interim directive
@@ -21475,3 +21537,593 @@ There are authorized to be appropriated to the Department of Homeland Security D
 Editorial Notes
 Codification
 Section was enacted as part of the REAL ID Act of 2005, and also as part of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005, and not as part of the Enhanced Border Security and Visa Entry Reform Act of 2002 which comprises this chapter.
+CHAPTER 16—IMMIGRATION FEES
+Sec.
+1801.
+Applicability of the immigration laws.
+1802.
+Asylum fee.
+1803.
+Employment authorization document fees.
+1804.
+Immigration parole fee.
+1805.
+Special immigrant juvenile fee.
+1806.
+Visa integrity fee.
+1807.
+Form I–94 fee.
+1808.
+Annual asylum fee.
+1809.
+Fee relating to renewal and extension of employment authorization for parolees.
+1810.
+Fee relating to renewal or extension of employment authorization for asylum applicants.
+1811.
+Fee relating to renewal and extension of employment authorization for aliens granted temporary protected status.
+1812.
+Fees relating to applications for adjustment of status.
+1813.
+Electronic Visa Update System fee.
+1814.
+Fee for aliens ordered removed in absentia.
+1815.
+Inadmissible alien apprehension fee.
+         §1801. Applicability of the immigration laws
+(a) Applicability
+The fees under this subtitle shall apply to aliens in the circumstances described in this subtitle.
+(b) Terms
+The terms used under this subtitle shall have the meanings given such terms in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
+(c) References to Immigration and Nationality Act
+Except as otherwise expressly provided, any reference in this subtitle to a section or other provision shall be considered to be to a section or other provision of the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
+(Pub. L. 119–21, title X, §100001, July 4, 2025, 139 Stat. 364.)
+
+Editorial Notes
+References in Text
+This subtitle, referred to in text, is subtitle A (§§100001–100018, 1000051–1000057) of title X of Pub. L. 119–21, July 4, 2025, 139 Stat. 364, which enacted this chapter and chapter 611 of Title 34, Crime Control and Law Enforcement, and amended sections 1158, 1187, 1254a, and 1356 of this title. For complete classification of this subtitle to the Code, see Tables.
+The Immigration and Nationality Act, referred to in subsec. (c), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+§1802. Asylum fee
+(a) In general
+In addition to any other fee authorized by law, the Secretary of Homeland Security or the Attorney General, as applicable, shall require the payment of a fee, equal to the amount specified in this section, by any alien who files an application for asylum under section 1158of this title at the time such application is filed.
+(b) Initial amount
+During fiscal year 2025, the amount specified in this section shall be the greater of—
+(1) $100; or
+(2) such amount as the Secretary or the Attorney General, as applicable, may establish, by rule.
+(c) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this section shall be equal to the sum of—
+(1) the amount of the fee required under this section for the most recently concluded fiscal year; and
+(2) the product resulting from the multiplication of the amount referred to in paragraph (1) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(d) Disposition of asylum fee proceeds
+During each fiscal year—
+(1) 50 percent of the fees received from aliens filing applications with the Attorney General—
+(A) shall be credited to the Executive Office for Immigration Review; and
+(B) may be retained and expended without further appropriation;
+
+(2) 50 percent of fees received from aliens filing applications with the Secretary of Homeland Security—
+(A) shall be credited to U.S. Citizenship and Immigration Services;
+(B) shall be deposited into the Immigration Examinations Fee Account established under section 1356(m) of this title; and
+(C) may be retained and expended without further appropriation; and
+
+(3) any amounts received in fees required under this section that were not credited to the Executive Office for Immigration Review pursuant to paragraph (1) or to U.S. Citizenship and Immigration Services pursuant to paragraph (2) shall be deposited into the general fund of the Treasury.
+(e) No fee waiver
+Fees required to be paid under this section shall not be waived or reduced.
+(Pub. L. 119–21, title X, §100002, July 4, 2025, 139 Stat. 364.)
+§1803. Employment authorization document fees
+(a) Asylum applicants
+(1) In general
+In addition to any other fee authorized by law, the Secretary of Homeland Security shall require the payment of a fee, equal to the amount specified in this subsection, by any alien who files an initial application for employment authorization under section 1158(d)(2)) of this title at the time such initial employment authorization application is filed.
+(2) Initial amount
+During fiscal year 2025, the amount specified in this subsection shall be the greater of—
+(A) $550; or
+(B) such amount as the Secretary of Homeland Security may establish, by rule.
+(3) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this section shall be equal to the sum of—
+(A) the amount of the fee required under this section for the most recently concluded fiscal year; and
+(B) the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(4) Disposition of employment authorization document fees
+During each fiscal year—
+(A) 25 percent of the fees collected pursuant to this subsection—
+(i) shall be credited to U.S. Citizenship and Immigration Services;
+(ii) shall be deposited into the Immigration Examinations Fee Account established under section 356(m) of this title; and
+(iii) may be retained and expended by U.S. Citizenship and Immigration Services without further appropriation, provided that not less than 50 percent is used to detect and prevent immigration benefit fraud; and
+
+(B) any amounts collected pursuant to this subsection that are not credited to U.S. Citizenship and Immigration Services pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+(5) No fee waiver
+Fees required to be paid under this subsection shall not be waived or reduced.
+(b) Parolees
+(1) In general
+In addition to any other fee authorized by law, the Secretary of Homeland Security shall require the payment of a fee, equal to the amount specified in this subsection, by any alien paroled into the United States for any initial application for employment authorization at the time such initial application is filed. Each initial employment authorization shall be valid for a period of 1 year or for the duration of the alien's parole, whichever is shorter.
+(2) Initial amount
+During fiscal year 2025, the amount specified in this subsection shall be the greater of—
+(A) $550; or
+(B) such amount as the Secretary of Homeland Security may establish, by rule.
+(3) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this subsection shall be equal to the sum of—
+(A) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(B) the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(4) Disposition of parolee employment authorization application fees
+All of the fees collected pursuant to this subsection shall be deposited into the general fund of the Treasury.
+(5) No fee waiver
+Fees required to be paid under this subsection shall not be waived or reduced.
+(c) Temporary protected status
+(1) In general
+In addition to any other fee authorized by law, the Secretary of Homeland Security shall require the payment of a fee, equal to the amount specified in this subsection, by any alien who files an initial application for employment authorization under section 1254a(a)(1)(B) of this title at the time such initial application is filed. Each initial employment authorization shall be valid for a period of 1 year, or for the duration of the alien's temporary protected status, whichever is shorter.
+(2) Initial amount
+During fiscal year 2025, the amount specified in this subsection shall be the greater of—
+(A) $550; or
+(B) such amount as the Secretary of Homeland Security may establish, by rule.
+(3) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this subsection shall be equal to the sum of—
+(A) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(B) the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(4) Disposition of employment authorization application fees collected from aliens granted temporary protected status
+All of the fees collected pursuant to this subsection shall be deposited into the general fund of the Treasury.
+(5) No fee waiver
+Fees required to be paid under this subsection shall not be waived or reduced.
+(Pub. L. 119–21, title X, §100003, July 4, 2025, 139 Stat. 365.)
+§1804. Immigration parole fee
+(a) In general
+Except as provided under subsection (b), the Secretary of Homeland Security shall require the payment of a fee, equal to the amount specified in this section and in addition to any other fee authorized by law, by any alien who is paroled into the United States.
+(b) Exceptions
+An alien shall not be subject to the fee otherwise required under subsection (a) if the alien establishes, to the satisfaction of the Secretary of Homeland Security, on an individual, case-by-case basis, that the alien is being paroled because—
+(1)(A) the alien has a medical emergency; and
+(B)(i) the alien cannot obtain necessary treatment in the foreign state in which the alien is residing; or
+(ii) the medical emergency is life-threatening and there is insufficient time for the alien to be admitted to the United States through the normal visa process;
+(2)(A) the alien is the parent or legal guardian of an alien described in paragraph (1); and
+(B) the alien described in paragraph (1) is a minor;
+(3)(A) the alien is needed in the United States to donate an organ or other tissue for transplant; and
+(B) there is insufficient time for the alien to be admitted to the United States through the normal visa process;
+(4)(A) the alien has a close family member in the United States whose death is imminent; and
+(B) the alien could not arrive in the United States in time to see such family member alive if the alien were to be admitted to the United States through the normal visa process;
+(5)(A) the alien is seeking to attend the funeral of a close family member; and
+(B) the alien could not arrive in the United States in time to attend such funeral if the alien were to be admitted to the United States through the normal visa process;
+(6) the alien is an adopted child—
+(A) who has an urgent medical condition;
+(B) who is in the legal custody of the petitioner for a final adoption-related visa; and
+(C) whose medical treatment is required before the expected award of a final adoption-related visa;
+
+(7) the alien—
+(A) is a lawful applicant for adjustment of status under section 1255 of this title; and
+(B) is returning to the United States after temporary travel abroad;
+
+(8) the alien—
+(A) has been returned to a contiguous country pursuant to section 1225(b)(2)(C) of this title; and
+(B) is being paroled into the United States to allow the alien to attend the alien's immigration hearing;
+
+(9) the alien has been granted the status of Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980 (Public Law 96–422; 8 U.S.C. 1522 note); or
+(10) the Secretary of Homeland Security determines that a significant public benefit has resulted or will result from the parole of an alien—
+(A) who has assisted or will assist the United States Government in a law enforcement matter;
+(B) whose presence is required by the United States Government in furtherance of such law enforcement matter; and
+(C)(i) who is inadmissible or does not satisfy the eligibility requirements for admission as a nonimmigrant; or
+(ii) for which there is insufficient time for the alien to be admitted to the United States through the normal visa process.
+(c) Initial amount
+For fiscal year 2025, the amount specified in this section shall be the greater of—
+(1) $1,000; or
+(2) such amount as the Secretary of Homeland Security may establish, by rule.
+(d) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this section shall be equal to the sum of—
+(1) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(2) the product resulting from the multiplication of the amount referred to in paragraph (1) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(e) Disposition of fees collected from aliens granted parole
+All of the fees collected pursuant to this section shall be deposited into the general fund of the Treasury.
+(f) No fee waiver
+Except as provided in subsection (b), fees required to be paid under this section shall not be waived or reduced.
+(Pub. L. 119–21, title X, §100004, July 4, 2025, 139 Stat. 367.)
+§1805. Special immigrant juvenile fee
+(a) In general
+In addition to any other fee authorized by law, the Secretary of Homeland Security shall require the payment of a fee, equal to the amount specified in this section, by any alien, parent, or legal guardian of an alien applying for special immigrant juvenile status under section 1101(a)(27)(J) of this title.
+(b) Initial amount
+For fiscal year 2025, the amount specified in this section shall be the greater of—
+(1) $250; or
+(2) such amount as the Secretary of Homeland Security may establish, by rule.
+(c) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this section shall be equal to the sum of—
+(1) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(2) the product resulting from the multiplication of the amount referred to in paragraph (1) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(d) Disposition of special immigrant juvenile fees
+All of the fees collected pursuant to this section shall be deposited into the general fund of the Treasury.
+(Pub. L. 119–21, title X, §100005, July 4, 2025, 139 Stat. 368.)
+§1806. Visa integrity fee
+(a) Visa integrity fee
+(1) In general
+In addition to any other fee authorized by law, the Secretary of Homeland Security shall require the payment of a fee, equal to the amount specified in this subsection, by any alien issued a nonimmigrant visa at the time of such issuance.
+(2) Initial amount
+For fiscal year 2025, the amount specified in this section shall be the greater of—
+(A) $250; or
+(B) such amount as the Secretary of Homeland Security may establish, by rule.
+(3) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this section shall be equal to the sum of—
+(A) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(B) the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded down to the nearest dollar.
+(4) Disposition of visa integrity fees
+All of the fees collected pursuant to this section that are not reimbursed pursuant to subsection (b) shall be deposited into the general fund of the Treasury.
+(5) No fee waiver
+Fees required to be paid under this subsection shall not be waived or reduced.
+(b) Fee reimbursement
+The Secretary of Homeland Security may provide a reimbursement to an alien of the fee required under subsection (a) for the issuance of a nonimmigrant visa after the expiration of such nonimmigrant visa's period of validity if such alien demonstrates that he or she—
+(1) after admission to the United States pursuant to such nonimmigrant visa, complied with all conditions of such nonimmigrant visa, including the condition that an alien shall not accept unauthorized employment; and
+(2)(A) has not sought to extend his or her period of admission during such period of validity and departed the United States not later than 5 days after the last day of such period; or
+(B) during such period of validity, was granted an extension of such nonimmigrant status or an adjustment to the status of a lawful permanent resident.
+(Pub. L. 119–21, title X, §100007, July 4, 2025, 139 Stat. 370.)
+§1807. Form I–94 fee
+(a) Fee authorized
+In addition to any other fee authorized by law, the Secretary of Homeland Security shall require the payment of a fee, equal to the amount specified in subsection (b), by any alien who submits an application for a Form I–94 Arrival/Departure Record.
+(b) Amount specified
+(1) Initial amount
+For fiscal year 2025, the amount specified in this section shall be the greater of—
+(A) $24; or
+(B) such amount as the Secretary of Homeland Security may establish, by rule.
+(2) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this section shall be equal to the sum of—
+(A) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(B) the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded down to the nearest dollar.
+(c) Disposition of Form I–94 fees
+During each fiscal year—
+(1) 20 percent of the fees collected pursuant to this section—
+(A) shall be deposited into the Land Border Inspection Fee Account in accordance with section 1356(q)(2) of this title; and
+(B) shall be made available to U.S. Customs and Border Protection to retain and spend without further appropriation for the purpose of processing Form I–94; and
+
+(2) any amounts not deposited into the Land Border Inspection Fee Account pursuant to paragraph (1)(A) shall be deposited in the general fund of the Treasury.
+(d) No fee waiver
+Fees required to be paid under this section shall not be waived or reduced.
+(Pub. L. 119–21, title X, §100008, July 4, 2025, 139 Stat. 370.)
+§1808. Annual asylum fee
+(a) Fee authorized
+In addition to any other fee authorized by law, for each calendar year that an alien's application for asylum remains pending, the Secretary of Homeland Security or the Attorney General, as applicable, shall require the payment of a fee, equal to the amount specified in subsection (b), by such alien.
+(b) Amount specified
+(1) Initial amount
+For fiscal year 2025, the amount specified in this section shall be the greater of—
+(A) $100; or
+(B) such amount as the Secretary of Homeland Security may establish, by rule.
+(2) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this section shall be equal to the sum of—
+(A) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(B) the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded down to the nearest dollar.
+(c) Disposition of annual asylum fees
+All of the fees collected pursuant to this section shall be deposited into the general fund of the Treasury.
+(d) No fee waiver
+Fees required to be paid under this section shall not be waived or reduced.
+(Pub. L. 119–21, title X, §100009, July 4, 2025, 139 Stat. 371.)
+§1809. Fee relating to renewal and extension of employment authorization for parolees
+(a) In general
+In addition to any other fee authorized by law, the Secretary of Homeland Security shall require the payment of a fee, equal to the amount specified in subsection (b), for any parolee who seeks a renewal or extension of employment authorization based on a grant of parole. The employment authorization for each alien paroled into the United States, or any renewal or extension of such parole, shall be valid for a period of 1 year or for the duration of the alien's parole, whichever is shorter.
+(b) Amount specified
+(1) Initial amount
+For fiscal year 2025, the amount specified in this subsection shall be the greater of—
+(A) $275; or
+(B) such amount as the Secretary of Homeland Security may establish, by rule.
+(2) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this section shall be equal to the sum of—
+(A) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(B) the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(c) Disposition of fees relating to renewal and extension of employment authorization for parolees
+During each fiscal year—
+(1) 25 percent of the fees collected pursuant to this section—
+(A) shall be credited to U.S. Citizenship and Immigration Services;
+(B) shall be deposited into the Immigration Examinations Fee Account established under section 1356(m) of this title; and
+(C) may be retained and expended by U.S. Citizenship and Immigration Services without further appropriation; and
+
+(2) any amounts collected pursuant to this section that are not credited to U.S. Citizenship and Immigration Services pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+(d) No fee waiver
+Fees required to be paid under this section shall not be waived or reduced.
+(Pub. L. 119–21, title X, §100010, July 4, 2025, 139 Stat. 372.)
+§1810. Fee relating to renewal or extension of employment authorization for asylum applicants
+(a) In general
+In addition to any other fee authorized by law, the Secretary of Homeland Security shall require the payment of a fee of not less than $275 by any alien who has applied for asylum for each renewal or extension of employment authorization based on such application.
+(b) Termination
+Each initial employment authorization, or renewal or extension of such authorization, shall terminate—
+(1) immediately following the denial of an asylum application by an asylum officer, unless the case is referred to an immigration judge;
+(2) on the date that is 30 days after the date on which an immigration judge denies an asylum application, unless the alien makes a timely appeal to the Board of Immigration Appeals; or
+(3) immediately following the denial by the Board of Immigration Appeals of an appeal of a denial of an asylum application.
+(c) Disposition of fees relating to renewal and extension of employment authorization for asylum applicants
+During each fiscal year—
+(1) 25 percent of the fees collected pursuant to this section—
+(A) shall be credited to U.S. Citizenship and Immigration Services;
+(B) shall be deposited into the Immigration Examinations Fee Account established under section 1356(m) of this title; and
+(C) may be retained and expended by U.S. Citizenship and Immigration Services without further appropriation; and
+
+(2) any amounts collected pursuant to this section that are not credited to U.S. Citizenship and Immigration Services pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+(d) No fee waiver
+Fees required to be paid under this section shall not be waived or reduced.
+(Pub. L. 119–21, title X, §100011, July 4, 2025, 139 Stat. 372.)
+§1811. Fee relating to renewal and extension of employment authorization for aliens granted temporary protected status
+(a) In general
+In addition to any other fee authorized by law, the Secretary of Homeland Security shall require the payment of a fee, equal to the amount specified in subsection (b), by any alien at the time such alien seeks a renewal or extension of employment authorization based on a grant of temporary protected status. Any employment authorization for an alien granted temporary protected status, or any renewal or extension of such employment authorization, shall be valid for a period of 1 year or for the duration of the designation of temporary protected status, whichever is shorter.
+(b) Amount specified
+(1) Initial amount
+For fiscal year 2025, the amount specified in this subsection shall be the greater of—
+(A) $275; or
+(B) such amount as the Secretary of Homeland Security may establish, by rule.
+(2) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this section shall be equal to the sum of—
+(A) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(B) the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(c) Disposition of fees relating to renewal and extension of employment authorization for temporary protected status applicants
+During each fiscal year—
+(1) 25 percent of the fees collected pursuant to this section—
+(A) shall be credited to U.S. Citizenship and Immigration Services;
+(B) shall be deposited into the Immigration Examinations Fee Account established under section 1356(m) of this title; and
+(C) may be retained and expended by U.S. Citizenship and Immigration Services without further appropriation; and
+
+(2) any amounts collected pursuant to this section that are not credited to U.S. Citizenship and Immigration Services pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+(d) No fee waiver
+Fees required to be paid under this section shall not be waived or reduced.
+(Pub. L. 119–21, title X, §100012, July 4, 2025, 139 Stat. 373.)
+§1812. Fees relating to applications for adjustment of status
+(a) Fee for filing an application to adjust status to that of a lawful permanent resident
+(1) In general
+In addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any alien who files an application with an immigration court to adjust the alien's status to that of a lawful permanent resident, or whose application to adjust his or her status to that of a lawful permanent resident is adjudicated in immigration court. Such fee shall be paid at the time such application is filed or before such application is adjudicated by the immigration court.
+(2) Amount specified
+(A) Initial amount
+For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+(i) $1,500; or
+(ii) such amount as the Attorney General may establish, by rule.
+(B) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(3) Disposition of adjustment of status application fees
+During each fiscal year—
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+(b) Fee for filing application for waiver of grounds of inadmissibility
+(1) In general
+In addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any alien at the time such alien files an application with an immigration court for a waiver of a ground of inadmissibility, or before such application is adjudicated by the immigration court.
+(2) Amount specified
+(A) Initial amount
+For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+(i) $1,050; or
+(ii) such amount as the Attorney General may establish, by rule.
+(B) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(3) Disposition of waiver of ground of admissibility application fees
+During each fiscal year—
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+(c) Fee for filing an application for temporary protected status
+(1) In general
+In addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any alien at the time such alien files an application with an immigration court for temporary protected status, or before such application is adjudicated by the immigration court.
+(2) Amount specified
+(A) Initial amount
+For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+(i) $500; or
+(ii) such amount as the Attorney General may establish, by rule.
+(B) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(3) Disposition of temporary protected status application fees
+During each fiscal year—
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+(d) Fee for filing an appeal of a decision of an immigration judge
+(1) In general
+Except as provided in paragraph (3), the Attorney General shall require, in addition to any other fees authorized by law, the payment of a fee, equal to the amount specified in paragraph (2), by any alien at the time such alien files an appeal from a decision of an immigration judge.
+(2) Amount specified
+(A) Initial amount
+For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+(i) $900; or
+(ii) such amount as the Attorney General may establish, by rule.
+(B) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(3) Exception
+The fee required under paragraph (1) shall not apply to the appeal of a bond decision.
+(4) Disposition of fees for appealing immigration judge decisions
+During each fiscal year—
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+(e) Fee for filing an appeal from a decision of an officer of the Department of Homeland Security
+(1) In general
+In addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any alien at the time such alien files an appeal of a decision of an officer of the Department of Homeland Security.
+(2) Amount specified
+(A) Initial amount
+For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+(i) $900; or
+(ii) such amount as the Attorney General may establish, by rule.
+(B) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(3) Disposition of fees for appealing Department of Homeland Security officer decisions
+During each fiscal year—
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+(f) Fee for filing an appeal from a decision of an adjudicating official in a practitioner disciplinary case
+(1) In general
+In addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any practitioner at the time such practitioner files an appeal from a decision of an adjudicating official in a practitioner disciplinary case.
+(2) Amount specified
+(A) Initial amount
+For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+(i) $1,325; or
+(ii) such amount as the Attorney General may establish, by rule.
+(B) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(3) Disposition of fees for appealing Department of Homeland Security officer decisions
+During each fiscal year—
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+(g) Fee for filing a motion to reopen or a motion to reconsider
+(1) In general
+Except as provided in paragraph (3), in addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any alien at the time such alien files a motion to reopen or motion to reconsider a decision of an immigration judge or the Board of Immigration Appeals.
+(2) Amount specified
+(A) Initial amount
+For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+(i) $900; or
+(ii) such amount as the Attorney General may establish, by rule.
+(B) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(3) Exceptions
+The fee required under paragraph (1) shall not apply to—
+(A) a motion to reopen a removal order entered in absentia if such motion is filed in accordance with section 1229a(b)(5)(C)(ii) of this title; or
+(B) a motion to reopen a deportation order entered in absentia if such motion is filed in accordance with section 1252b(c)(3)(B) of this title prior to April 1, 1997.
+(4) Disposition of fees for filing certain motions
+During each fiscal year—
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n)of this title; and
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+(h) Fee for filing application for suspension of deportation
+(1) In general
+In addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any alien at the time such alien files an application with an immigration court for suspension of deportation.
+(2) Amount specified
+(A) Initial amount
+For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+(i) $600; or
+(ii) such amount as the Attorney General may establish, by rule.
+(B) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(3) Disposition of fees for filing application for suspension of deportation
+During each fiscal year—
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+(i) Fee for filing application for cancellation of removal for certain permanent residents
+(1) In general
+In addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any alien at the time such alien files an application with an immigration court an application1 for cancellation of removal for an alien who is a lawful permanent resident.
+(2) Amount specified
+(A) Initial amount
+For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+(i) $600; or
+(ii) such amount as the Attorney General may establish, by rule.
+(B) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(3) Disposition of fees for filing application for cancellation of removal
+During each fiscal year—
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+(j) Fee for filing an application for cancellation of removal and adjustment of status for certain nonpermanent residents
+(1) In general
+In addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any alien who is not a lawful permanent resident at the time such alien files an application with an immigration court for cancellation of removal and adjustment of status for any alien.
+(2) Amount specified
+(A) Initial amount
+For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+(i) $1,500; or
+(ii) such amount as the Attorney General may establish, by rule.
+(B) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(3) Disposition of fees for filing application for cancellation of removal
+During each fiscal year—
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+(k) Limitation on use of funds
+No fees collected pursuant to this section may be expended by the Executive Office for Immigration Review for the Legal Orientation Program, or for any successor program.
+(Pub. L. 119–21, title X, §100013, July 4, 2025, 139 Stat. 374.)
+
+Editorial Notes
+References in Text
+Section 1252b(c)(3)(B) of this title, referred to in subsec. (g)(3)(B), was repealed by Pub. L. 104–208, div. C, title III, §308(b)(6), Sept. 30, 1996, 110 Stat. 3009–615. See section 1229a(b)(5)(C)(ii) of this title.
+1 So in original.
+§1813. Electronic Visa Update System fee
+(a) In general
+In addition to any other fee authorized by law, the Secretary of Homeland Security shall require the payment of a fee, in the amount specified in subsection (b), by any alien subject to the Electronic Visa Update System at the time of such alien's enrollment in such system.
+(b) Amount specified
+(1) In general
+For fiscal year 2025, the amount specified in this subsection shall be the greater of—
+(A) $30; or
+(B) such amount as the Secretary of Homeland Security may establish, by rule.
+(2) Annual adjustments for inflation
+During fiscal year 2026 and each subsequent fiscal year, the amount specified in this subsection shall be equal to the sum of—
+(A) the amount of the fee required under this subsection during the most recently concluded fiscal year; and
+(B) the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $0.25.
+(c) Disposition of Electronic Visa Update System fees
+(1) Omitted
+(2) Remaining fees
+Of the fees collected pursuant to this section, an amount equal to $5 multiplied by the number of payments collected pursuant to this section shall be deposited to the general fund of the Treasury.
+(d) No fee waiver
+Fees required to be paid under this section shall not be waived or reduced.
+(Pub. L. 119–21, title X, §100015, July 4, 2025, 139 Stat. 382.)
+
+Editorial Notes
+Codification
+Section is comprised of section 100015 of Pub. L. 119–21. Subsec. (c)(1) of section 100015 of Pub. L. 119–21 amended section 1356 of this title.
+§1814. Fee for aliens ordered removed in absentia
+(a) In general
+As partial reimbursement for the cost of arresting an alien described in this section, the Secretary of Homeland Security, except as provided in subsection (c), shall require the payment of a fee, equal to the amount specified in subsection (b) on any alien who—
+(1) is ordered removed in absentia pursuant to section 1229a(b)(5) of this title; and
+(2) is subsequently arrested by U.S. Immigration and Customs Enforcement.
+(b) Amount specified
+(1) Initial amount
+For fiscal year 2025, the amount specified in this section shall be the greater of—
+(A) $5,000; or
+(B) such amount as the Secretary of Homeland Security may establish, by rule.
+(2) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this section shall be equal to the sum of—
+(A) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(B) the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(c) Exception
+The fee described in this section shall not apply to any alien who was ordered removed in absentia if such order was rescinded pursuant to section 1229a(b)(5)(C) of this title.
+(d) Disposition of removal in absentia fees
+During each fiscal year—
+(1) 50 percent of the fees collected pursuant to this section—
+(A) shall be credited to U.S. Immigration and Customs Enforcement;
+(B) shall be deposited into the Detention and Removal Office Fee Account; and
+(C) may be retained and expended by U.S. Immigration and Customs Enforcement without further appropriation; and
+
+(2) any amounts collected pursuant to this section that are not credited to U.S. Immigration and Customs Enforcement pursuant to paragraph (1) shall be deposited into the general fund of the Treasury.
+(e) No fee waiver
+Fees required to be paid under this section shall not be waived or reduced.
+(Pub. L. 119–21, title X, §100016, July 4, 2025, 139 Stat. 384.)
+§1815. Inadmissible alien apprehension fee
+(a) In general
+In addition to any other fee authorized by law, the Secretary of Homeland Security shall require the payment of a fee, equal to the amount specified in subsection (b), by any inadmissible alien at the time such alien is apprehended between ports of entry.
+(b) Amount specified
+(1) Initial amount
+For fiscal year 2025, the amount specified in this section shall be the greater of—
+(A) $5,000; or
+(B) such amount as the Secretary of Homeland Security may establish, by rule.
+(2) Annual adjustments for inflation
+During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this section shall be equal to the sum of—
+(A) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+(B) the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+(c) Disposition of inadmissible alien apprehension fees
+During each fiscal year—
+(1) 50 percent of the fees collected pursuant to this section—
+(A) shall be credited to U.S. Immigration and Customs Enforcement;
+(B) shall be deposited into the Detention and Removal Office Fee Account; and
+(C) may be retained and expended by U.S. Immigration and Customs Enforcement without further appropriation; and
+
+(2) any amounts collected pursuant to this section that are not credited to U.S. Immigration and Customs Enforcement pursuant to paragraph (1) shall be deposited into the general fund of the Treasury.
+(d) Disposition of inadmissible alien apprehension fees
+All of the fees collected pursuant to this section shall be deposited into the general fund of the Treasury.
+(Pub. L. 119–21, title X, §100017, July 4, 2025, 139 Stat. 384.)

@@ -1,5 +1,5 @@
   Current
-2024 Main Ed. (1/6/2025) [Titles 1 through 6]
+2024 Main Ed. (1/6/2025) [Titles 1 through 15]
 2018 Ed. and Supplement V (1/3/2024)
 2018 Ed. and Supplement IV (1/5/2023)
 2018 Ed. and Supplement III (1/3/2022)
@@ -7033,7 +7033,7 @@ Section 1119, added Pub. L. 103–62, §6(c), Aug. 3, 1993, 107 Stat. 291, desig
 (A) be updated and revised not less frequently than during the first year of each Presidential term;
 (B) be made publicly available not less frequently than concurrently with the submission of the budget of the United States Government under section 1105(a) made during the first full fiscal year following any year during which a term of the President commences under section 101 of title 3;
 (C) include plans for the successful achievement of each goal within each single Presidential term; and
-(D) explicitly cite to any specific contents of the budget described in subparagraph (B) that support the achievement of each goal.As needed, the Director of the Office of Management and Budget may make adjustments to the Federal Government priority goals to reflect significant changes in the environment in which the Federal Government is operating, with appropriate notification of Congress.
+(D) explicitly cite to any specific contents of the budget described in subparagraph (B) that support the achievement of each goal. As needed, the Director of the Office of Management and Budget may make adjustments to the Federal Government priority goals to reflect significant changes in the environment in which the Federal Government is operating, with appropriate notification of Congress.
 
 (3) When developing or making adjustments to Federal Government priority goals, the Director of the Office of Management and Budget shall consult periodically with the Congress, including obtaining majority and minority views from—
 (A) the Committees on Appropriations of the Senate and the House of Representatives;
@@ -7086,7 +7086,7 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 (c) Agency Reviews of Progress Towards Strategic Goals and Objectives.—
 (1) Covered goal defined.—In this subsection, the term "covered goal" means a goal or objective established in the strategic plan of the agency under section 306(a) of title 5.
-(2) Review.—Not less frequently than annually and consistent with guidance issued by the Director of the Office of Management and Budget, the head and Chief Operating Officer of each agency, shall—
+(2) Review.—Not less frequently than annually and consistent with guidance issued by the Director of the Office of Management and Budget, the head and Chief Operating Officer of each agency,1 shall—
 (A) for each covered goal, review with the appropriate agency official responsible for the covered goal—
 (i) the progress achieved toward the covered goal—
 (I) during the most recent fiscal year; or
@@ -7112,6 +7112,7 @@ Editorial Notes
 Amendments
 2024—Pub. L. 118–190, §2(a)(1)(A), substituted "Progress reviews and use of performance information" for "Quarterly priority progress reviews and use of performance information" in section catchline.
 Subsec. (c). Pub. L. 118–190, §2(a)(1)(B), added subsec. (c).
+1 So in original.
 §1122. Transparency of programs, priority goals, and results
 (a) Transparency of Agency Programs.—
 (1) Definitions.—For purposes of this subsection—
@@ -9537,6 +9538,7 @@ Pub. L. 98–34 substituted "$1,389,000,000,000" for "$400,000,000,000".
 
 Statutory Notes and Related Subsidiaries
 Temporary Debt Limit Extension
+Pub. L. 119–21, title VII, §72001, July 4, 2025, 139 Stat. 332, provided that: "The limitation under section 3101(b) of title 31, United States Code, as most recently increased by section 401(b) of Public Law 118–5 (31 U.S.C. 3101 note), is increased by $5,000,000,000,000."
 Pub. L. 118–5, div. D, §401, June 3, 2023, 137 Stat. 48, provided that:
 "(a) In General.—Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date of the enactment of this Act [June 3, 2023] and ending on January 1, 2025.
 "(b) Special Rule Relating to Obligations Issued During Extension Period.—Effective on January 2, 2025, the limitation in effect under section 3101(b) of title 31, United States Code, shall be increased to the extent that—
@@ -15030,7 +15032,6 @@ and no proof of specific intent to defraud is required;
 an authority, or any State, political subdivision of a State, or other party, if the United States Government provides any portion of the money or property under such contract or for such grant, loan, or benefit, or if the Government will reimburse such State, political subdivision, or party for any portion of the money or property under such contract or for such grant, loan, or benefit,
 
 except that such term does not include any statement made in any return of tax imposed by the Internal Revenue Code of 1986;
-
 (10) "material" has the meaning given the term in section 3729(b) of this title; and
 (11) "obligation" has the meaning given the term in section 3729(b) of this title.
 
@@ -15258,9 +15259,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Amendments
 2024—Subsec. (c)(1)(A), (B). Pub. L. 118–159, §5203(c)(1), substituted "$1,000,000" for "$150,000".
 Subsec. (c)(3). Pub. L. 118–159, §5203(c)(2), added par. (3).
-Subsec. (d)(2)(A). Pub. L. 118–159, §5203(g)(1)(B)(i), struck out "and" after "hearing;".
 Subsec. (d)(2)(B). Pub. L. 118–159, §5203(g)(1)(B)(ii), designated existing provisions as cl. (i), substituted "in the case of a referral to a presiding officer described in subparagraph (A) or (B) of section 3801(a)(7), the presiding" for "the presiding" and "person; or" for "person.", and added cl. (ii)
-Subsec. (d)(2)(C). Pub. L. 118–159, §5203(g)(1)(B)(iii), added subpar. (C).
+Subsec. (d)(2)(C). Pub. L. 118–159, §5203(g)(1)(B)(i), (iii), added subpar. (C).
 Subsec. (j). Pub. L. 118–159, §5203(f), designated existing provisions as par. (1) and added par. (2).
 2014—Subsec. (c)(2)(C)(vii). Pub. L. 113–79 substituted "section 3" for "section 3(l)".
 2008—Subsec. (c)(2)(C)(vii). Pub. L. 110–246, §4115(c)(2)(E), substituted "section 3(l)" for "section 3(h)".
@@ -16037,7 +16037,7 @@ Commemorative Medals
 Provisions authorizing commemorative medals were contained in the following acts:
 Pub. L. 118–161, Dec. 23, 2024, 138 Stat. 2572, recognizing Everett Alvarez, Jr. for distinctive service and sacrifice during the Vietnam war.
 Pub. L. 118–159, div. E, title LVII, §5703, Dec. 23, 2024, 138 Stat. 2462, recognizing female telephone operators of the Army Signal Corps, known as the "Hello Girls".
-Pub. L. 118–150, Dec. 12, 2024, 138 Stat. 1682, recognizing Shirley Chisholm.
+Pub. L. 118–150, Dec. 12, 2024, 138 Stat. 1682, recognizing Shirley Chisholm, the first African-American woman elected to Congress.
 Pub. L. 118–149, Dec. 12, 2024, 138 Stat. 1678, recognizing 60 diplomats for their brave and vital service of saving Jews during World War II, known as the Forgotten Heroes of the Holocaust.
 Pub. L. 118–88, Sept. 26, 2024, 138 Stat. 1554, recognizing Billie Jean King for her contribution to the United States and her leadership advancing equal rights for women.
 Pub. L. 118–87, Sept. 26, 2024, 138 Stat. 1550, recognizing the United States Army Dustoff crews of the Vietnam War, collectively, for their heroic military service.
@@ -20357,6 +20357,8 @@ Pub. L. 107–56, title III, §371(a), (b), Oct. 26, 2001, 115 Stat. 336, 337, p
 
 (b) Training Materials and Standards.—The Secretary of the Treasury shall, in consultation with the Financial Institutions Examination Council, the Financial Crimes Enforcement Network, and Federal, State, Tribal, and local law enforcement agencies, establish appropriate training materials and standards for use in the training required under subsection (a).
 (Added Pub. L. 116–283, div. F, title LXIII, §6307(a), Jan. 1, 2021, 134 Stat. 4590.)
+
+Editorial Notes
 References in Text
 Section 6003 of the Anti-Money Laundering Act of 2020, referred to in subsec. (a), is section 6003 of div. F of Pub. L. 116–283, which is set out as a note under section 5311 of this title. Such section 6003 defines terms, including the Bank Secrecy Act, as used in div. F of Pub. L. 116–283.
 §5335. Prohibition on concealment of the source of assets in monetary transactions
